@@ -9,7 +9,7 @@ const About: React.FC = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">About Me</h2>
             <p className="text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-              A data analyst with 5+ years of experience transforming complex data into actionable insights
+              Data analyst passionate about transforming complex data into actionable insights
             </p>
           </div>
           
@@ -26,18 +26,14 @@ const About: React.FC = () => {
             
             <div className="col-span-2">
               <h3 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">
-                Alex Morgan
+                Naiara Rodríguez Solano
               </h3>
               <h4 className="text-xl text-blue-600 dark:text-blue-400 mb-6">
-                Senior Data Analyst
+                Data Analyst
               </h4>
               
               <p className="text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-                With a passion for uncovering patterns and insights from data, I've helped organizations make better decisions through advanced analytics. My expertise spans from statistical analysis to machine learning, with a focus on creating visualizations that communicate complex findings clearly.
-              </p>
-              
-              <p className="text-gray-700 dark:text-gray-300 mb-8 leading-relaxed">
-                I believe that effective data analysis combines technical expertise with business acumen and communication skills. Every project in my portfolio represents a business challenge solved through careful analysis and collaboration.
+                With a passion for uncovering patterns and insights from data, I help organizations make better decisions through advanced analytics. My expertise spans from statistical analysis to machine learning, with a focus on creating visualizations that communicate complex findings clearly.
               </p>
               
               <div className="flex flex-wrap gap-4">
@@ -48,10 +44,12 @@ const About: React.FC = () => {
                   Contact Me
                 </a>
                 <a 
-                  href="#projects" 
+                  href="https://github.com/Nailytic" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
                   className="px-6 py-3 rounded-lg bg-white dark:bg-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 text-gray-900 dark:text-white border border-gray-300 dark:border-gray-600 font-medium transition-colors"
                 >
-                  View Projects
+                  GitHub Profile
                 </a>
               </div>
             </div>
@@ -70,38 +68,12 @@ const About: React.FC = () => {
                   <div className="absolute left-[-8px] top-0 w-4 h-4 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
                   <div className="flex items-center mb-1">
                     <Calendar size={16} className="mr-2 text-gray-500 dark:text-gray-400" />
-                    <span className="text-sm text-gray-500 dark:text-gray-400">2022 - Present</span>
-                  </div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Senior Data Analyst</h4>
-                  <p className="text-gray-600 dark:text-gray-300">Intellidata Solutions</p>
-                  <p className="mt-2 text-gray-700 dark:text-gray-300">
-                    Leading data analytics projects for Fortune 500 clients, focusing on predictive modeling and customer segmentation.
-                  </p>
-                </div>
-                
-                <div className="relative pl-8 pb-6 border-l-2 border-gray-200 dark:border-gray-700 last:border-0 last:pb-0">
-                  <div className="absolute left-[-8px] top-0 w-4 h-4 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
-                  <div className="flex items-center mb-1">
-                    <Calendar size={16} className="mr-2 text-gray-500 dark:text-gray-400" />
-                    <span className="text-sm text-gray-500 dark:text-gray-400">2019 - 2022</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-400">2023 - Present</span>
                   </div>
                   <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Data Analyst</h4>
-                  <p className="text-gray-600 dark:text-gray-300">Global Insights Inc.</p>
+                  <p className="text-gray-600 dark:text-gray-300">Company Name</p>
                   <p className="mt-2 text-gray-700 dark:text-gray-300">
-                    Developed and maintained dashboards for executive leadership, optimized SQL queries, and built automated reporting systems.
-                  </p>
-                </div>
-                
-                <div className="relative pl-8 pb-6 border-l-2 border-gray-200 dark:border-gray-700 last:border-0 last:pb-0">
-                  <div className="absolute left-[-8px] top-0 w-4 h-4 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
-                  <div className="flex items-center mb-1">
-                    <Calendar size={16} className="mr-2 text-gray-500 dark:text-gray-400" />
-                    <span className="text-sm text-gray-500 dark:text-gray-400">2017 - 2019</span>
-                  </div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Junior Data Analyst</h4>
-                  <p className="text-gray-600 dark:text-gray-300">TechStart Analytics</p>
-                  <p className="mt-2 text-gray-700 dark:text-gray-300">
-                    Supported data-driven marketing campaigns, performed A/B testing, and created performance reports.
+                    Leading data analytics projects and providing insights for business decision-making.
                   </p>
                 </div>
               </div>
@@ -119,20 +91,10 @@ const About: React.FC = () => {
                   <div className="absolute left-[-8px] top-0 w-4 h-4 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
                   <div className="flex items-center mb-1">
                     <Calendar size={16} className="mr-2 text-gray-500 dark:text-gray-400" />
-                    <span className="text-sm text-gray-500 dark:text-gray-400">2013 - 2017</span>
+                    <span className="text-sm text-gray-500 dark:text-gray-400">2019 - 2023</span>
                   </div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Master of Science in Data Science</h4>
-                  <p className="text-gray-600 dark:text-gray-300">Stanford University</p>
-                </div>
-                
-                <div className="relative pl-8 pb-6 border-l-2 border-gray-200 dark:border-gray-700 last:border-0 last:pb-0">
-                  <div className="absolute left-[-8px] top-0 w-4 h-4 bg-blue-600 dark:bg-blue-400 rounded-full"></div>
-                  <div className="flex items-center mb-1">
-                    <Calendar size={16} className="mr-2 text-gray-500 dark:text-gray-400" />
-                    <span className="text-sm text-gray-500 dark:text-gray-400">2009 - 2013</span>
-                  </div>
-                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Bachelor of Science in Statistics</h4>
-                  <p className="text-gray-600 dark:text-gray-300">University of California, Berkeley</p>
+                  <h4 className="text-lg font-semibold text-gray-900 dark:text-white">Bachelor's Degree</h4>
+                  <p className="text-gray-600 dark:text-gray-300">University Name</p>
                 </div>
               </div>
               
@@ -145,24 +107,8 @@ const About: React.FC = () => {
                 <div className="flex items-start">
                   <BookOpen size={16} className="mr-3 mt-1 text-gray-500 dark:text-gray-400" />
                   <div>
-                    <h4 className="text-base font-semibold text-gray-900 dark:text-white">Microsoft Certified: Data Analyst Associate</h4>
+                    <h4 className="text-base font-semibold text-gray-900 dark:text-white">Data Analytics Certification</h4>
                     <p className="text-sm text-gray-500 dark:text-gray-400">2023</p>
-                  </div>
-                </div>
-                
-                <div className="flex items-start">
-                  <BookOpen size={16} className="mr-3 mt-1 text-gray-500 dark:text-gray-400" />
-                  <div>
-                    <h4 className="text-base font-semibold text-gray-900 dark:text-white">Google Data Analytics Professional Certificate</h4>
-                    <p className="text-sm text-gray-500 dark:text-gray-400">2022</p>
-                  </div>
-                </div>
-                
-                <div className="flex items-start">
-                  <BookOpen size={16} className="mr-3 mt-1 text-gray-500 dark:text-gray-400" />
-                  <div>
-                    <h4 className="text-base font-semibold text-gray-900 dark:text-white">Tableau Desktop Specialist</h4>
-                    <p className="text-sm text-gray-500 dark:text-gray-400">2021</p>
                   </div>
                 </div>
               </div>
