@@ -1,0 +1,1501 @@
+usuario_id,sector,ciudad,edad,genero,dispositivo,nivel_formativo,plan_acceso,formato,progreso_percent,dias_inactivo,interacciones,evaluaciones_completadas,tiempo_total_horas,n_sesiones,abandono
+U00001,corporativa,Zaragoza,36,Otro,móvil,básico,gratuito,híbrido,65.5,3,89,1,13.43,11,0
+U00002,universitaria,Bilbao,32,F,escritorio,básico,subvencionado,híbrido,62.1,1,45,4,31.34,25,0
+U00003,subvencionada,Valencia,53,Otro,tablet,avanzado,empresa,en vivo,84.1,3,92,3,55.1,22,0
+U00004,corporativa,Zaragoza,47,M,escritorio,intermedio,subvencionado,híbrido,59.6,5,78,4,58.85,27,0
+U00005,subvencionada,Sevilla,50,Otro,tablet,intermedio,subvencionado,en vivo,52.1,4,16,4,54.2,29,0
+U00006,subvencionada,Madrid,41,F,móvil,intermedio,subvencionado,híbrido,91.5,1,41,0,36.84,29,0
+U00007,subvencionada,Barcelona,28,F,escritorio,básico,privado,asincrónico,23.2,3,12,4,8.56,18,0
+U00008,corporativa,Sevilla,19,M,escritorio,intermedio,gratuito,híbrido,28.5,4,60,1,9.22,26,0
+U00009,subvencionada,Valencia,21,F,móvil,intermedio,gratuito,híbrido,27.3,5,55,4,9.4,23,0
+U00010,corporativa,Sevilla,19,F,tablet,básico,subvencionado,asincrónico,45.3,3,60,2,34.41,27,0
+U00011,universitaria,Barcelona,33,M,tablet,básico,subvencionado,híbrido,44.1,7,71,0,0.55,16,0
+U00012,subvencionada,Madrid,42,M,móvil,básico,gratuito,en vivo,42.0,3,41,1,2.39,15,0
+U00013,universitaria,Sevilla,48,F,escritorio,básico,gratuito,asincrónico,28.4,0,84,4,1.29,1,0
+U00014,subvencionada,Zaragoza,51,M,tablet,intermedio,gratuito,asincrónico,59.4,3,24,2,5.01,19,0
+U00015,corporativa,Zaragoza,47,M,tablet,básico,gratuito,asincrónico,48.4,1,31,0,26.87,23,0
+U00016,subvencionada,Barcelona,23,F,tablet,avanzado,subvencionado,híbrido,36.1,2,38,4,4.32,20,0
+U00017,corporativa,Barcelona,24,Otro,escritorio,intermedio,privado,asincrónico,29.4,4,32,2,3.9,15,0
+U00018,universitaria,Bilbao,18,F,tablet,básico,gratuito,asincrónico,53.8,3,35,4,3.71,8,0
+U00019,subvencionada,Zaragoza,56,M,tablet,avanzado,gratuito,en vivo,30.8,3,20,2,13.84,2,0
+U00020,corporativa,Bilbao,27,F,móvil,avanzado,gratuito,híbrido,16.8,3,37,2,5.26,14,0
+U00021,universitaria,Zaragoza,39,M,móvil,intermedio,subvencionado,en vivo,39.5,2,74,1,8.88,10,0
+U00022,corporativa,Sevilla,39,F,escritorio,básico,empresa,asincrónico,37.7,2,92,3,2.23,2,0
+U00023,universitaria,Zaragoza,27,M,móvil,avanzado,gratuito,híbrido,46.7,1,39,0,4.36,8,0
+U00024,subvencionada,Bilbao,39,F,escritorio,intermedio,privado,en vivo,70.6,4,13,4,42.28,22,0
+U00025,universitaria,Madrid,19,Otro,escritorio,avanzado,gratuito,híbrido,48.6,3,12,3,6.36,13,0
+U00026,corporativa,Barcelona,28,Otro,móvil,intermedio,empresa,en vivo,48.4,0,51,4,8.29,7,0
+U00027,subvencionada,Bilbao,46,Otro,móvil,avanzado,privado,híbrido,37.3,2,96,4,34.27,9,0
+U00028,universitaria,Valencia,37,F,móvil,intermedio,empresa,en vivo,44.1,3,92,2,4.5,6,0
+U00029,corporativa,Zaragoza,46,M,tablet,avanzado,privado,asincrónico,77.4,2,47,4,21.32,8,0
+U00030,universitaria,Barcelona,49,Otro,escritorio,básico,empresa,en vivo,43.4,2,36,1,81.99,5,0
+U00031,universitaria,Valencia,46,F,escritorio,básico,privado,asincrónico,91.4,2,7,2,18.13,21,0
+U00032,corporativa,Bilbao,56,Otro,tablet,básico,gratuito,híbrido,13.8,2,22,4,45.91,12,0
+U00033,corporativa,Valencia,56,Otro,tablet,avanzado,gratuito,asincrónico,87.0,5,87,1,24.96,23,0
+U00034,universitaria,Barcelona,35,F,tablet,intermedio,privado,en vivo,43.8,5,7,1,13.58,8,0
+U00035,corporativa,Madrid,40,Otro,móvil,básico,gratuito,asincrónico,7.8,3,33,0,1.93,18,0
+U00036,subvencionada,Zaragoza,47,M,tablet,intermedio,privado,asincrónico,74.2,1,86,0,15.31,22,0
+U00037,universitaria,Bilbao,33,M,móvil,intermedio,subvencionado,en vivo,76.7,3,51,2,2.01,2,0
+U00038,corporativa,Zaragoza,51,M,móvil,intermedio,subvencionado,en vivo,77.2,2,69,0,30.96,6,0
+U00039,subvencionada,Bilbao,21,M,tablet,intermedio,subvencionado,en vivo,0.0,3,35,1,30.1,2,0
+U00040,universitaria,Valencia,21,Otro,escritorio,básico,gratuito,en vivo,73.8,6,42,2,5.84,14,0
+U00041,universitaria,Barcelona,27,M,tablet,avanzado,empresa,asincrónico,20.2,0,57,1,50.66,28,0
+U00042,universitaria,Valencia,31,M,tablet,intermedio,privado,asincrónico,58.1,1,71,1,1.09,24,0
+U00043,universitaria,Barcelona,20,M,escritorio,intermedio,subvencionado,en vivo,56.4,1,8,0,5.43,15,0
+U00044,corporativa,Bilbao,37,Otro,tablet,avanzado,privado,en vivo,17.3,5,68,4,49.62,26,0
+U00045,subvencionada,Sevilla,26,Otro,escritorio,básico,privado,asincrónico,79.0,2,96,2,26.71,5,0
+U00046,subvencionada,Bilbao,53,Otro,escritorio,intermedio,privado,en vivo,63.6,2,21,2,18.28,18,0
+U00047,universitaria,Bilbao,23,F,tablet,avanzado,gratuito,híbrido,42.5,3,36,0,16.16,4,0
+U00048,subvencionada,Zaragoza,26,M,escritorio,básico,empresa,híbrido,64.9,3,29,1,23.05,14,0
+U00049,subvencionada,Bilbao,44,Otro,escritorio,avanzado,empresa,híbrido,81.6,3,97,0,4.72,14,0
+U00050,corporativa,Barcelona,42,M,escritorio,avanzado,gratuito,en vivo,37.7,3,71,4,14.71,10,0
+U00051,subvencionada,Barcelona,18,Otro,tablet,intermedio,privado,en vivo,8.2,4,48,4,56.54,19,0
+U00052,universitaria,Barcelona,22,F,escritorio,avanzado,gratuito,asincrónico,77.5,4,5,0,46.65,15,0
+U00053,subvencionada,Sevilla,44,F,escritorio,intermedio,subvencionado,en vivo,62.1,3,52,3,4.21,3,0
+U00054,subvencionada,Zaragoza,55,F,escritorio,intermedio,privado,asincrónico,25.6,2,38,0,152.8,1,0
+U00055,subvencionada,Madrid,44,M,móvil,básico,gratuito,asincrónico,11.0,2,18,4,25.5,16,0
+U00056,universitaria,Sevilla,37,F,móvil,intermedio,gratuito,asincrónico,34.6,1,43,4,0.72,2,0
+U00057,universitaria,Zaragoza,30,M,tablet,básico,subvencionado,híbrido,79.2,4,73,1,10.27,9,0
+U00058,universitaria,Sevilla,55,M,escritorio,básico,empresa,asincrónico,0.0,2,24,0,22.64,16,0
+U00059,subvencionada,Bilbao,29,F,móvil,básico,gratuito,en vivo,100.0,3,76,2,48.44,10,0
+U00060,subvencionada,Sevilla,42,M,escritorio,básico,subvencionado,asincrónico,24.4,3,63,1,50.51,7,0
+U00061,universitaria,Madrid,37,F,escritorio,básico,gratuito,híbrido,44.5,4,92,0,28.93,7,0
+U00062,subvencionada,Zaragoza,54,Otro,móvil,básico,empresa,híbrido,80.0,2,53,3,42.82,1,0
+U00063,subvencionada,Valencia,49,M,escritorio,básico,subvencionado,asincrónico,83.1,2,23,2,21.46,29,0
+U00064,universitaria,Bilbao,34,M,móvil,avanzado,subvencionado,en vivo,72.3,2,81,4,10.92,10,0
+U00065,universitaria,Madrid,40,M,escritorio,básico,privado,en vivo,32.3,3,36,0,44.14,9,0
+U00066,corporativa,Bilbao,40,M,tablet,básico,gratuito,asincrónico,76.7,2,94,3,21.91,15,0
+U00067,universitaria,Madrid,50,F,tablet,avanzado,empresa,en vivo,55.8,3,45,0,15.68,13,0
+U00068,corporativa,Zaragoza,31,F,móvil,avanzado,empresa,asincrónico,71.6,3,29,1,15.33,12,0
+U00069,corporativa,Bilbao,31,Otro,escritorio,intermedio,subvencionado,en vivo,45.0,2,53,0,1.03,10,0
+U00070,corporativa,Valencia,23,F,tablet,básico,empresa,en vivo,89.2,3,17,1,2.47,11,0
+U00071,corporativa,Bilbao,23,Otro,tablet,básico,gratuito,asincrónico,43.3,4,40,2,1.76,17,0
+U00072,corporativa,Madrid,41,Otro,tablet,avanzado,privado,híbrido,66.0,3,90,1,46.42,3,0
+U00073,corporativa,Madrid,22,Otro,tablet,avanzado,empresa,híbrido,82.2,3,7,1,37.77,18,0
+U00074,subvencionada,Madrid,20,F,móvil,básico,privado,en vivo,39.0,3,90,1,25.03,26,0
+U00075,universitaria,Valencia,43,M,escritorio,avanzado,privado,asincrónico,50.9,5,35,1,14.19,26,0
+U00076,universitaria,Sevilla,19,M,escritorio,avanzado,subvencionado,asincrónico,39.2,0,73,1,5.46,17,0
+U00077,subvencionada,Bilbao,45,Otro,escritorio,intermedio,gratuito,híbrido,48.5,5,51,3,45.36,28,0
+U00078,corporativa,Madrid,19,F,tablet,básico,subvencionado,híbrido,100.0,1,42,3,25.39,23,0
+U00079,corporativa,Sevilla,39,F,escritorio,intermedio,gratuito,asincrónico,65.3,4,40,1,2.72,19,0
+U00080,corporativa,Valencia,42,Otro,escritorio,intermedio,subvencionado,híbrido,81.7,4,61,1,52.8,11,0
+U00081,subvencionada,Sevilla,56,F,móvil,intermedio,gratuito,asincrónico,83.6,3,83,0,7.17,10,0
+U00082,universitaria,Madrid,19,F,móvil,básico,subvencionado,híbrido,74.3,4,38,0,42.56,19,0
+U00083,universitaria,Madrid,24,F,móvil,intermedio,empresa,asincrónico,23.5,3,87,2,36.76,28,0
+U00084,universitaria,Barcelona,25,Otro,tablet,avanzado,gratuito,híbrido,0.0,7,42,1,1.07,19,0
+U00085,universitaria,Madrid,29,M,móvil,básico,privado,asincrónico,48.6,1,69,4,112.02,10,0
+U00086,universitaria,Bilbao,50,M,escritorio,básico,gratuito,en vivo,59.5,3,82,3,26.12,3,0
+U00087,corporativa,Madrid,35,Otro,tablet,intermedio,subvencionado,en vivo,75.7,4,79,0,27.77,26,0
+U00088,universitaria,Bilbao,36,Otro,escritorio,intermedio,empresa,en vivo,100.0,2,70,1,40.84,9,0
+U00089,universitaria,Barcelona,35,Otro,tablet,avanzado,privado,híbrido,65.9,5,48,3,3.59,21,0
+U00090,universitaria,Valencia,47,M,móvil,intermedio,subvencionado,asincrónico,53.4,2,23,4,17.72,14,0
+U00091,corporativa,Barcelona,35,Otro,móvil,intermedio,subvencionado,asincrónico,97.2,2,92,3,31.21,22,0
+U00092,corporativa,Sevilla,47,Otro,escritorio,intermedio,privado,asincrónico,54.1,5,91,3,14.31,10,0
+U00093,corporativa,Bilbao,22,F,móvil,básico,privado,asincrónico,93.8,4,66,0,10.09,25,0
+U00094,universitaria,Valencia,23,F,tablet,básico,privado,asincrónico,93.2,3,23,2,14.66,13,0
+U00095,universitaria,Madrid,20,F,tablet,intermedio,subvencionado,asincrónico,0.0,0,36,3,28.39,29,0
+U00096,universitaria,Bilbao,55,F,móvil,básico,privado,híbrido,26.4,4,25,4,18.38,4,0
+U00097,subvencionada,Sevilla,52,F,tablet,intermedio,privado,en vivo,42.7,3,93,2,44.3,19,0
+U00098,subvencionada,Bilbao,34,F,tablet,intermedio,subvencionado,asincrónico,47.8,0,32,2,39.63,22,0
+U00099,corporativa,Sevilla,26,F,tablet,básico,subvencionado,en vivo,77.7,1,73,4,0.08,8,0
+U00100,corporativa,Valencia,45,Otro,móvil,intermedio,empresa,asincrónico,54.4,8,87,2,11.78,14,0
+U00101,subvencionada,Sevilla,49,F,tablet,avanzado,gratuito,híbrido,52.0,4,90,1,10.43,23,0
+U00102,universitaria,Bilbao,36,F,móvil,intermedio,subvencionado,en vivo,31.6,4,18,3,10.12,23,0
+U00103,universitaria,Barcelona,39,Otro,tablet,básico,subvencionado,asincrónico,32.1,2,31,3,2.69,17,0
+U00104,universitaria,Valencia,18,Otro,escritorio,avanzado,gratuito,en vivo,83.8,2,83,3,119.85,29,0
+U00105,corporativa,Madrid,18,Otro,móvil,básico,gratuito,asincrónico,53.1,2,89,4,2.12,13,0
+U00106,universitaria,Zaragoza,18,Otro,escritorio,intermedio,gratuito,híbrido,37.4,1,53,2,16.99,22,0
+U00107,subvencionada,Madrid,49,M,móvil,avanzado,empresa,asincrónico,78.7,3,19,2,13.92,20,0
+U00108,universitaria,Bilbao,50,F,tablet,intermedio,gratuito,híbrido,21.4,3,55,2,0.8,7,0
+U00109,universitaria,Valencia,21,M,tablet,básico,empresa,asincrónico,68.8,2,23,0,38.54,7,0
+U00110,subvencionada,Valencia,18,F,tablet,avanzado,gratuito,híbrido,62.3,1,64,4,21.93,4,0
+U00111,corporativa,Barcelona,28,F,tablet,avanzado,gratuito,asincrónico,65.5,2,15,4,22.34,8,0
+U00112,subvencionada,Sevilla,32,Otro,móvil,avanzado,empresa,en vivo,78.6,1,10,3,9.5,17,0
+U00113,subvencionada,Madrid,18,M,tablet,avanzado,privado,asincrónico,65.8,1,14,0,28.0,4,0
+U00114,universitaria,Sevilla,25,Otro,móvil,avanzado,subvencionado,asincrónico,87.6,5,69,3,37.16,2,0
+U00115,corporativa,Sevilla,36,F,escritorio,básico,privado,en vivo,82.7,2,35,2,30.66,17,0
+U00116,corporativa,Madrid,41,Otro,tablet,intermedio,empresa,asincrónico,67.4,8,80,3,12.74,23,0
+U00117,universitaria,Zaragoza,52,Otro,escritorio,básico,privado,asincrónico,62.5,3,91,4,48.22,1,0
+U00118,subvencionada,Zaragoza,26,Otro,móvil,básico,empresa,asincrónico,57.6,2,46,4,60.68,12,0
+U00119,subvencionada,Valencia,57,M,escritorio,avanzado,gratuito,asincrónico,100.0,2,26,3,12.46,9,0
+U00120,corporativa,Valencia,51,Otro,escritorio,avanzado,privado,asincrónico,82.8,2,22,2,16.17,6,0
+U00121,corporativa,Bilbao,35,M,tablet,básico,privado,híbrido,50.5,5,12,4,39.74,29,0
+U00122,corporativa,Zaragoza,59,Otro,móvil,básico,gratuito,híbrido,43.8,3,83,1,20.39,27,0
+U00123,universitaria,Barcelona,29,F,escritorio,intermedio,empresa,híbrido,41.5,3,48,3,15.82,3,0
+U00124,corporativa,Valencia,51,M,escritorio,básico,subvencionado,híbrido,48.5,2,23,1,99.06,25,0
+U00125,corporativa,Barcelona,57,F,tablet,avanzado,privado,híbrido,80.8,5,86,4,40.38,19,0
+U00126,universitaria,Barcelona,35,Otro,escritorio,intermedio,privado,en vivo,92.9,4,5,1,6.43,10,0
+U00127,corporativa,Zaragoza,57,M,móvil,avanzado,empresa,híbrido,70.1,3,69,2,20.92,1,0
+U00128,universitaria,Zaragoza,18,M,móvil,avanzado,subvencionado,en vivo,46.8,5,67,4,31.64,18,0
+U00129,corporativa,Valencia,51,Otro,escritorio,avanzado,privado,híbrido,68.1,4,86,4,46.16,18,0
+U00130,corporativa,Valencia,27,M,móvil,avanzado,gratuito,en vivo,92.3,4,76,1,11.52,18,0
+U00131,subvencionada,Valencia,44,Otro,escritorio,intermedio,privado,asincrónico,100.0,4,55,3,42.3,1,0
+U00132,subvencionada,Zaragoza,38,M,móvil,básico,empresa,en vivo,71.0,2,57,0,26.15,14,0
+U00133,universitaria,Zaragoza,49,Otro,móvil,básico,privado,híbrido,36.9,2,47,3,4.96,20,0
+U00134,corporativa,Madrid,43,Otro,escritorio,intermedio,subvencionado,asincrónico,75.4,2,37,0,22.72,19,0
+U00135,subvencionada,Barcelona,40,Otro,móvil,intermedio,subvencionado,híbrido,40.4,2,56,4,6.25,29,0
+U00136,corporativa,Zaragoza,22,Otro,tablet,avanzado,privado,en vivo,45.9,4,45,2,28.45,25,0
+U00137,universitaria,Zaragoza,38,M,móvil,básico,empresa,híbrido,78.5,2,95,4,6.38,4,0
+U00138,corporativa,Madrid,20,Otro,escritorio,básico,empresa,asincrónico,33.0,2,19,0,21.66,11,0
+U00139,universitaria,Madrid,31,F,escritorio,básico,privado,en vivo,57.1,4,16,1,49.65,29,0
+U00140,subvencionada,Bilbao,59,M,móvil,intermedio,subvencionado,asincrónico,53.0,4,55,4,20.64,13,0
+U00141,universitaria,Sevilla,41,F,tablet,intermedio,privado,en vivo,26.8,5,88,0,6.84,11,0
+U00142,corporativa,Sevilla,26,Otro,tablet,básico,subvencionado,híbrido,58.2,2,26,2,19.51,12,0
+U00143,corporativa,Zaragoza,50,Otro,escritorio,básico,subvencionado,en vivo,38.9,5,92,4,38.43,18,0
+U00144,subvencionada,Valencia,35,M,móvil,avanzado,gratuito,híbrido,34.7,3,74,1,24.35,4,0
+U00145,corporativa,Valencia,56,M,tablet,básico,gratuito,híbrido,75.6,3,65,0,50.33,8,0
+U00146,corporativa,Sevilla,20,Otro,tablet,avanzado,privado,en vivo,21.6,3,49,3,12.51,29,0
+U00147,corporativa,Madrid,34,F,escritorio,intermedio,empresa,asincrónico,31.5,2,87,4,5.61,2,0
+U00148,corporativa,Madrid,53,M,móvil,avanzado,gratuito,en vivo,85.3,3,98,2,36.5,29,0
+U00149,universitaria,Sevilla,37,F,móvil,intermedio,gratuito,en vivo,12.6,0,70,2,30.35,21,0
+U00150,universitaria,Valencia,42,M,escritorio,intermedio,subvencionado,asincrónico,100.0,3,83,2,5.92,14,0
+U00151,universitaria,Madrid,47,Otro,escritorio,avanzado,subvencionado,asincrónico,33.1,4,55,4,40.35,26,0
+U00152,corporativa,Madrid,36,Otro,tablet,básico,empresa,en vivo,65.1,3,31,4,19.09,5,0
+U00153,universitaria,Barcelona,19,M,tablet,avanzado,empresa,asincrónico,59.5,2,57,4,9.46,12,0
+U00154,universitaria,Bilbao,51,M,escritorio,intermedio,subvencionado,híbrido,58.1,6,34,3,31.34,7,0
+U00155,corporativa,Barcelona,34,Otro,móvil,avanzado,subvencionado,híbrido,51.4,3,83,3,59.86,28,0
+U00156,corporativa,Madrid,50,F,escritorio,intermedio,privado,asincrónico,70.2,4,82,2,69.7,21,0
+U00157,universitaria,Zaragoza,21,Otro,escritorio,avanzado,gratuito,híbrido,80.8,5,8,3,24.91,24,0
+U00158,subvencionada,Valencia,29,F,escritorio,avanzado,subvencionado,asincrónico,100.0,2,84,3,3.54,28,0
+U00159,universitaria,Madrid,33,F,escritorio,avanzado,empresa,en vivo,57.5,3,78,3,35.82,6,0
+U00160,universitaria,Sevilla,18,F,móvil,intermedio,subvencionado,en vivo,50.8,3,16,2,30.84,20,0
+U00161,corporativa,Bilbao,31,Otro,móvil,avanzado,gratuito,en vivo,61.1,0,40,0,2.69,18,0
+U00162,universitaria,Sevilla,30,Otro,escritorio,avanzado,gratuito,en vivo,31.3,3,52,0,1.55,24,0
+U00163,universitaria,Bilbao,34,F,tablet,intermedio,subvencionado,híbrido,75.4,3,76,2,31.32,16,0
+U00164,subvencionada,Madrid,46,Otro,móvil,básico,empresa,asincrónico,71.4,4,17,4,40.75,5,0
+U00165,subvencionada,Sevilla,37,Otro,escritorio,avanzado,empresa,asincrónico,98.1,4,18,2,28.76,18,0
+U00166,corporativa,Valencia,52,Otro,móvil,básico,gratuito,asincrónico,15.2,0,59,3,12.31,7,0
+U00167,universitaria,Bilbao,32,F,escritorio,intermedio,subvencionado,en vivo,94.2,2,86,3,23.76,3,0
+U00168,universitaria,Bilbao,22,M,tablet,avanzado,subvencionado,asincrónico,65.4,3,99,2,3.83,20,0
+U00169,universitaria,Madrid,42,Otro,móvil,intermedio,subvencionado,híbrido,30.1,1,54,1,10.79,21,0
+U00170,universitaria,Barcelona,29,Otro,escritorio,avanzado,privado,asincrónico,68.4,3,72,4,20.71,27,0
+U00171,corporativa,Sevilla,44,M,móvil,avanzado,subvencionado,híbrido,78.1,4,71,4,19.83,24,0
+U00172,corporativa,Sevilla,53,Otro,escritorio,intermedio,privado,asincrónico,57.4,3,44,0,20.45,23,0
+U00173,corporativa,Valencia,39,F,escritorio,avanzado,empresa,en vivo,20.3,3,95,3,13.5,10,0
+U00174,subvencionada,Barcelona,39,M,móvil,intermedio,privado,híbrido,97.5,1,74,3,23.81,20,0
+U00175,subvencionada,Barcelona,24,Otro,móvil,intermedio,privado,en vivo,66.8,4,12,2,3.65,23,0
+U00176,corporativa,Zaragoza,58,Otro,móvil,intermedio,empresa,híbrido,69.3,1,50,2,12.81,12,0
+U00177,universitaria,Barcelona,27,Otro,móvil,avanzado,privado,en vivo,85.2,2,87,1,11.54,1,0
+U00178,subvencionada,Sevilla,52,Otro,móvil,avanzado,empresa,híbrido,52.8,9,85,4,6.15,11,0
+U00179,universitaria,Madrid,37,M,móvil,intermedio,gratuito,híbrido,100.0,4,96,0,118.88,8,0
+U00180,subvencionada,Sevilla,39,F,escritorio,avanzado,gratuito,asincrónico,75.0,4,96,2,7.48,2,0
+U00181,subvencionada,Sevilla,22,M,móvil,avanzado,subvencionado,asincrónico,55.9,3,63,3,46.4,3,0
+U00182,universitaria,Barcelona,55,Otro,escritorio,intermedio,subvencionado,híbrido,43.9,3,61,3,13.15,21,0
+U00183,universitaria,Valencia,18,F,móvil,básico,gratuito,híbrido,50.6,3,83,3,8.67,22,0
+U00184,corporativa,Sevilla,28,M,escritorio,básico,gratuito,en vivo,100.0,3,30,4,27.2,18,0
+U00185,universitaria,Barcelona,26,M,escritorio,básico,gratuito,asincrónico,18.0,3,71,3,13.49,26,0
+U00186,corporativa,Sevilla,20,M,móvil,básico,subvencionado,asincrónico,59.3,5,52,4,51.71,11,0
+U00187,universitaria,Zaragoza,36,M,escritorio,avanzado,gratuito,asincrónico,100.0,4,80,3,33.02,2,0
+U00188,subvencionada,Zaragoza,29,M,móvil,intermedio,gratuito,híbrido,81.5,2,94,4,37.63,4,0
+U00189,subvencionada,Sevilla,40,M,móvil,básico,subvencionado,en vivo,23.6,2,24,1,1.04,13,0
+U00190,universitaria,Valencia,53,F,tablet,intermedio,subvencionado,híbrido,40.9,5,16,4,4.33,28,0
+U00191,subvencionada,Barcelona,35,F,tablet,básico,gratuito,híbrido,72.1,5,35,3,11.14,25,0
+U00192,subvencionada,Valencia,55,Otro,tablet,intermedio,gratuito,en vivo,42.1,4,76,4,11.67,2,0
+U00193,corporativa,Valencia,57,M,tablet,intermedio,gratuito,híbrido,84.8,2,92,4,64.6,29,0
+U00194,corporativa,Madrid,36,M,tablet,básico,subvencionado,asincrónico,44.0,5,52,2,0.45,3,0
+U00195,subvencionada,Valencia,42,M,tablet,intermedio,privado,asincrónico,64.8,3,91,2,25.23,19,0
+U00196,corporativa,Madrid,23,Otro,móvil,intermedio,empresa,asincrónico,54.1,3,37,2,12.09,8,0
+U00197,subvencionada,Valencia,46,Otro,escritorio,básico,gratuito,en vivo,31.9,3,19,4,34.81,17,0
+U00198,subvencionada,Zaragoza,54,Otro,móvil,intermedio,gratuito,asincrónico,63.6,3,22,3,30.75,24,0
+U00199,corporativa,Zaragoza,56,M,escritorio,avanzado,privado,asincrónico,20.3,5,58,0,26.49,23,0
+U00200,subvencionada,Sevilla,22,M,móvil,básico,gratuito,en vivo,100.0,4,73,3,5.74,7,0
+U00201,universitaria,Valencia,56,M,tablet,avanzado,privado,asincrónico,28.5,4,56,1,69.68,24,0
+U00202,universitaria,Zaragoza,44,F,móvil,básico,empresa,en vivo,66.0,5,51,4,18.2,25,0
+U00203,corporativa,Valencia,25,Otro,escritorio,intermedio,gratuito,en vivo,53.8,2,26,2,78.9,29,0
+U00204,subvencionada,Barcelona,26,M,escritorio,básico,privado,híbrido,46.4,3,6,2,53.96,1,0
+U00205,corporativa,Sevilla,47,F,tablet,básico,privado,asincrónico,100.0,5,38,4,13.65,29,0
+U00206,universitaria,Bilbao,59,Otro,móvil,básico,privado,en vivo,73.4,3,21,0,18.4,25,0
+U00207,universitaria,Bilbao,57,M,escritorio,avanzado,gratuito,asincrónico,73.3,1,40,3,27.64,9,0
+U00208,corporativa,Barcelona,55,Otro,escritorio,intermedio,subvencionado,en vivo,46.5,6,38,2,75.63,14,0
+U00209,subvencionada,Barcelona,28,F,escritorio,intermedio,subvencionado,asincrónico,60.6,1,79,3,77.6,29,0
+U00210,corporativa,Valencia,35,F,tablet,intermedio,privado,asincrónico,76.3,2,28,0,38.44,5,0
+U00211,subvencionada,Madrid,29,M,tablet,básico,privado,en vivo,15.1,2,30,0,11.57,27,0
+U00212,corporativa,Bilbao,56,Otro,escritorio,intermedio,subvencionado,asincrónico,66.4,2,64,1,25.45,12,0
+U00213,subvencionada,Bilbao,57,F,escritorio,básico,subvencionado,en vivo,60.6,3,79,4,21.96,13,0
+U00214,corporativa,Sevilla,39,Otro,tablet,avanzado,subvencionado,asincrónico,100.0,3,95,1,7.58,15,0
+U00215,universitaria,Valencia,43,F,tablet,intermedio,privado,en vivo,28.4,1,38,1,53.12,16,0
+U00216,subvencionada,Sevilla,47,Otro,escritorio,básico,privado,en vivo,0.0,3,6,3,29.64,21,0
+U00217,subvencionada,Madrid,24,F,móvil,intermedio,empresa,híbrido,83.4,2,31,2,23.22,14,0
+U00218,corporativa,Madrid,43,M,tablet,intermedio,privado,en vivo,87.6,4,67,1,56.25,9,0
+U00219,universitaria,Zaragoza,34,Otro,tablet,avanzado,gratuito,asincrónico,71.0,1,5,1,54.1,7,0
+U00220,universitaria,Madrid,52,M,tablet,intermedio,gratuito,asincrónico,67.4,3,65,4,1.18,21,0
+U00221,corporativa,Bilbao,27,F,móvil,básico,gratuito,en vivo,56.4,2,9,3,25.18,20,0
+U00222,universitaria,Valencia,21,F,móvil,avanzado,subvencionado,en vivo,53.4,4,65,1,1.02,12,0
+U00223,subvencionada,Sevilla,42,M,escritorio,avanzado,subvencionado,híbrido,100.0,7,24,0,41.31,8,0
+U00224,subvencionada,Sevilla,32,F,tablet,intermedio,empresa,en vivo,74.5,6,62,4,26.73,12,0
+U00225,corporativa,Zaragoza,37,F,escritorio,avanzado,subvencionado,asincrónico,17.2,6,59,0,37.54,16,0
+U00226,subvencionada,Sevilla,21,Otro,tablet,básico,gratuito,en vivo,60.3,3,15,4,7.03,27,0
+U00227,subvencionada,Barcelona,43,M,móvil,avanzado,gratuito,asincrónico,46.8,2,65,4,5.45,29,0
+U00228,corporativa,Valencia,39,M,escritorio,básico,empresa,en vivo,37.1,2,16,1,71.83,2,0
+U00229,universitaria,Barcelona,28,M,tablet,intermedio,privado,en vivo,12.2,3,62,3,9.25,5,0
+U00230,universitaria,Madrid,53,M,tablet,básico,subvencionado,híbrido,38.8,1,9,0,7.74,24,0
+U00231,subvencionada,Zaragoza,54,F,escritorio,básico,privado,asincrónico,100.0,3,31,2,27.61,19,0
+U00232,corporativa,Madrid,55,Otro,tablet,avanzado,empresa,asincrónico,42.6,2,98,1,22.07,6,0
+U00233,universitaria,Zaragoza,32,F,escritorio,intermedio,privado,en vivo,89.0,3,53,1,15.12,15,0
+U00234,subvencionada,Sevilla,40,Otro,tablet,avanzado,subvencionado,asincrónico,64.0,5,58,0,8.2,21,0
+U00235,corporativa,Sevilla,26,F,móvil,avanzado,subvencionado,asincrónico,62.2,5,88,0,14.59,12,0
+U00236,universitaria,Madrid,30,F,móvil,intermedio,privado,híbrido,96.5,1,22,0,44.88,29,0
+U00237,corporativa,Madrid,56,M,móvil,avanzado,gratuito,híbrido,44.1,8,60,1,67.38,26,0
+U00238,corporativa,Sevilla,57,M,tablet,avanzado,gratuito,híbrido,78.8,2,51,2,12.61,2,0
+U00239,subvencionada,Madrid,45,F,móvil,intermedio,empresa,en vivo,59.8,4,59,0,47.8,9,0
+U00240,subvencionada,Bilbao,52,M,escritorio,intermedio,subvencionado,en vivo,19.5,3,71,1,5.62,21,0
+U00241,universitaria,Bilbao,50,M,tablet,avanzado,privado,asincrónico,42.4,7,93,4,29.89,28,0
+U00242,universitaria,Valencia,58,M,móvil,avanzado,gratuito,híbrido,96.6,2,9,0,29.52,25,0
+U00243,subvencionada,Barcelona,31,F,tablet,básico,empresa,asincrónico,77.1,7,16,3,3.93,2,0
+U00244,corporativa,Valencia,51,M,escritorio,avanzado,privado,asincrónico,51.3,1,59,2,26.39,5,0
+U00245,corporativa,Bilbao,53,Otro,escritorio,básico,empresa,asincrónico,22.3,3,52,0,26.79,25,0
+U00246,universitaria,Valencia,22,M,tablet,avanzado,privado,asincrónico,79.0,2,91,4,27.09,12,0
+U00247,subvencionada,Barcelona,54,F,móvil,básico,privado,asincrónico,90.0,4,43,2,8.94,13,0
+U00248,universitaria,Bilbao,30,F,escritorio,avanzado,privado,híbrido,65.9,1,77,1,46.89,1,0
+U00249,universitaria,Bilbao,55,M,móvil,básico,privado,híbrido,70.9,4,74,4,6.26,15,0
+U00250,universitaria,Barcelona,55,M,escritorio,básico,subvencionado,híbrido,78.4,0,61,1,9.14,12,0
+U00251,corporativa,Madrid,26,Otro,tablet,intermedio,privado,híbrido,64.3,5,62,1,1.71,20,0
+U00252,universitaria,Sevilla,31,F,móvil,básico,empresa,híbrido,80.0,1,7,1,39.31,3,0
+U00253,subvencionada,Bilbao,42,Otro,móvil,avanzado,gratuito,híbrido,56.3,3,56,2,10.24,9,0
+U00254,corporativa,Zaragoza,31,F,escritorio,intermedio,gratuito,híbrido,22.1,1,97,2,2.23,29,0
+U00255,universitaria,Barcelona,59,M,tablet,avanzado,empresa,asincrónico,65.6,4,84,4,52.52,5,0
+U00256,universitaria,Madrid,59,F,tablet,básico,subvencionado,en vivo,11.0,5,68,4,0.61,22,0
+U00257,subvencionada,Madrid,54,Otro,tablet,intermedio,gratuito,híbrido,71.8,3,32,4,0.7,21,0
+U00258,corporativa,Sevilla,41,M,escritorio,básico,privado,híbrido,75.7,5,68,0,31.2,4,0
+U00259,subvencionada,Sevilla,38,M,tablet,intermedio,gratuito,asincrónico,53.7,4,22,2,69.27,18,0
+U00260,universitaria,Valencia,18,M,escritorio,básico,privado,híbrido,92.7,2,66,2,6.58,29,0
+U00261,universitaria,Madrid,48,M,escritorio,avanzado,privado,asincrónico,51.8,4,67,3,5.87,10,0
+U00262,subvencionada,Barcelona,44,Otro,escritorio,básico,gratuito,asincrónico,82.8,5,29,2,54.65,22,0
+U00263,corporativa,Zaragoza,42,F,escritorio,avanzado,gratuito,asincrónico,66.8,2,40,3,5.87,16,0
+U00264,universitaria,Bilbao,55,M,móvil,intermedio,empresa,asincrónico,56.6,2,97,0,37.79,6,0
+U00265,universitaria,Sevilla,20,M,escritorio,avanzado,subvencionado,asincrónico,84.5,4,20,1,4.33,19,0
+U00266,subvencionada,Sevilla,58,M,móvil,intermedio,subvencionado,en vivo,27.2,3,85,0,30.56,28,0
+U00267,corporativa,Madrid,43,Otro,tablet,básico,empresa,híbrido,34.4,2,56,0,2.08,13,0
+U00268,corporativa,Valencia,21,M,tablet,básico,subvencionado,en vivo,89.5,3,47,1,37.7,8,0
+U00269,corporativa,Valencia,39,Otro,móvil,avanzado,subvencionado,en vivo,61.4,5,85,4,28.62,6,0
+U00270,corporativa,Valencia,18,M,escritorio,básico,subvencionado,asincrónico,98.7,2,93,2,4.18,3,0
+U00271,subvencionada,Madrid,23,Otro,escritorio,básico,gratuito,en vivo,63.3,3,66,2,64.11,10,0
+U00272,subvencionada,Madrid,38,F,tablet,básico,privado,asincrónico,62.0,3,51,3,35.89,17,0
+U00273,subvencionada,Barcelona,39,F,móvil,básico,privado,híbrido,74.1,3,17,3,4.75,27,0
+U00274,corporativa,Barcelona,22,F,tablet,avanzado,subvencionado,en vivo,29.0,3,78,1,29.29,18,0
+U00275,universitaria,Valencia,29,M,tablet,básico,privado,en vivo,75.8,0,21,4,60.63,21,0
+U00276,universitaria,Barcelona,39,M,escritorio,básico,empresa,asincrónico,34.0,3,90,2,61.08,16,0
+U00277,corporativa,Zaragoza,46,M,tablet,intermedio,gratuito,en vivo,41.3,2,39,0,1.82,22,0
+U00278,corporativa,Barcelona,59,Otro,escritorio,intermedio,empresa,asincrónico,57.0,3,42,3,30.7,27,0
+U00279,universitaria,Barcelona,25,M,tablet,intermedio,privado,híbrido,45.3,3,63,0,38.29,2,0
+U00280,universitaria,Sevilla,47,M,tablet,intermedio,gratuito,en vivo,71.4,1,10,1,61.05,5,0
+U00281,universitaria,Barcelona,24,Otro,tablet,básico,gratuito,híbrido,63.3,2,68,2,42.85,17,0
+U00282,corporativa,Valencia,20,M,tablet,avanzado,gratuito,híbrido,60.6,8,37,0,3.63,11,0
+U00283,subvencionada,Valencia,48,M,tablet,avanzado,gratuito,híbrido,19.6,6,74,1,4.08,16,0
+U00284,corporativa,Madrid,26,M,tablet,avanzado,privado,asincrónico,79.1,3,87,1,56.65,18,0
+U00285,corporativa,Valencia,22,F,móvil,básico,empresa,asincrónico,48.0,3,97,0,33.57,9,0
+U00286,corporativa,Zaragoza,27,F,móvil,intermedio,empresa,híbrido,83.8,2,41,2,0.22,3,0
+U00287,subvencionada,Madrid,42,M,escritorio,avanzado,empresa,en vivo,80.6,3,10,1,4.11,2,0
+U00288,corporativa,Sevilla,42,Otro,tablet,avanzado,empresa,híbrido,25.9,2,40,2,17.51,29,0
+U00289,subvencionada,Zaragoza,58,F,móvil,básico,subvencionado,híbrido,96.7,2,7,4,11.53,15,0
+U00290,universitaria,Valencia,53,Otro,móvil,intermedio,empresa,en vivo,27.8,3,51,2,17.32,9,0
+U00291,corporativa,Barcelona,52,M,móvil,básico,gratuito,en vivo,78.1,6,36,1,7.01,3,0
+U00292,subvencionada,Zaragoza,22,M,móvil,básico,subvencionado,asincrónico,90.9,3,15,0,64.34,19,0
+U00293,subvencionada,Valencia,57,Otro,tablet,básico,privado,híbrido,41.9,4,27,2,69.64,22,0
+U00294,subvencionada,Barcelona,20,F,escritorio,básico,gratuito,asincrónico,38.6,3,24,0,10.38,8,0
+U00295,subvencionada,Madrid,37,Otro,tablet,intermedio,gratuito,asincrónico,57.5,4,46,0,2.25,7,0
+U00296,universitaria,Sevilla,39,M,tablet,avanzado,gratuito,en vivo,43.1,4,46,1,44.25,29,0
+U00297,subvencionada,Barcelona,33,M,escritorio,avanzado,empresa,híbrido,98.4,4,15,2,29.25,23,0
+U00298,corporativa,Bilbao,49,F,escritorio,avanzado,subvencionado,asincrónico,78.7,4,37,2,46.65,20,0
+U00299,corporativa,Madrid,46,F,escritorio,intermedio,subvencionado,híbrido,37.4,4,63,3,33.79,3,0
+U00300,subvencionada,Valencia,54,Otro,móvil,avanzado,gratuito,híbrido,90.4,3,9,4,1.04,25,0
+U00301,subvencionada,Madrid,40,Otro,móvil,básico,gratuito,en vivo,75.8,3,6,4,61.16,13,0
+U00302,subvencionada,Barcelona,23,Otro,escritorio,intermedio,gratuito,en vivo,6.1,3,57,2,0.4,28,0
+U00303,universitaria,Valencia,24,M,móvil,avanzado,gratuito,híbrido,37.1,2,27,1,10.08,2,0
+U00304,corporativa,Sevilla,57,Otro,tablet,intermedio,subvencionado,híbrido,58.3,3,29,1,11.73,8,0
+U00305,universitaria,Zaragoza,37,F,escritorio,básico,gratuito,híbrido,27.1,3,38,0,14.63,22,0
+U00306,universitaria,Sevilla,53,M,escritorio,intermedio,empresa,asincrónico,64.3,2,53,4,70.71,13,0
+U00307,subvencionada,Barcelona,41,M,móvil,intermedio,subvencionado,asincrónico,93.6,3,98,4,8.7,11,0
+U00308,subvencionada,Barcelona,38,F,escritorio,básico,subvencionado,asincrónico,100.0,0,76,1,9.07,11,0
+U00309,corporativa,Valencia,28,Otro,escritorio,básico,gratuito,asincrónico,49.6,3,49,4,36.5,14,0
+U00310,universitaria,Valencia,58,F,escritorio,intermedio,empresa,asincrónico,36.0,4,26,0,60.77,6,0
+U00311,corporativa,Barcelona,29,M,tablet,intermedio,privado,en vivo,54.0,4,62,4,9.11,23,0
+U00312,universitaria,Bilbao,18,F,móvil,avanzado,subvencionado,asincrónico,63.5,2,63,0,44.43,19,0
+U00313,subvencionada,Valencia,27,Otro,móvil,avanzado,gratuito,en vivo,49.4,1,37,3,13.81,10,0
+U00314,subvencionada,Barcelona,52,F,escritorio,avanzado,subvencionado,en vivo,100.0,6,80,4,97.13,13,0
+U00315,subvencionada,Sevilla,44,M,escritorio,intermedio,subvencionado,en vivo,57.5,5,59,4,92.23,26,0
+U00316,corporativa,Madrid,52,F,escritorio,avanzado,gratuito,asincrónico,44.9,3,8,2,17.95,2,0
+U00317,subvencionada,Bilbao,40,Otro,escritorio,avanzado,gratuito,en vivo,68.5,1,61,4,24.11,14,0
+U00318,subvencionada,Zaragoza,51,M,móvil,básico,subvencionado,híbrido,95.1,2,91,3,25.97,1,0
+U00319,subvencionada,Valencia,22,M,escritorio,intermedio,empresa,híbrido,42.1,1,78,3,18.28,13,0
+U00320,corporativa,Zaragoza,23,F,tablet,avanzado,empresa,híbrido,74.7,2,53,2,44.39,23,0
+U00321,subvencionada,Sevilla,36,Otro,escritorio,avanzado,subvencionado,en vivo,81.9,5,59,3,39.11,16,0
+U00322,universitaria,Barcelona,45,Otro,tablet,básico,privado,en vivo,57.1,2,56,4,27.66,15,0
+U00323,universitaria,Valencia,30,F,escritorio,intermedio,gratuito,asincrónico,27.0,7,45,3,6.79,11,0
+U00324,corporativa,Valencia,38,M,escritorio,avanzado,privado,híbrido,48.5,1,44,3,15.2,22,0
+U00325,corporativa,Madrid,50,F,escritorio,avanzado,empresa,asincrónico,53.2,2,93,0,8.81,12,0
+U00326,corporativa,Sevilla,20,F,escritorio,intermedio,subvencionado,en vivo,55.3,4,73,1,69.86,4,0
+U00327,corporativa,Sevilla,26,Otro,escritorio,básico,empresa,asincrónico,43.6,0,43,1,14.34,27,0
+U00328,universitaria,Zaragoza,52,M,móvil,avanzado,gratuito,en vivo,60.5,5,99,3,19.34,26,0
+U00329,corporativa,Sevilla,50,M,escritorio,básico,gratuito,asincrónico,58.3,6,42,4,15.58,8,0
+U00330,corporativa,Bilbao,52,F,escritorio,avanzado,gratuito,asincrónico,56.1,2,68,0,96.89,14,0
+U00331,corporativa,Barcelona,29,F,escritorio,intermedio,empresa,asincrónico,61.6,2,18,0,42.91,9,0
+U00332,universitaria,Valencia,33,Otro,móvil,avanzado,privado,híbrido,77.3,2,85,0,10.42,26,0
+U00333,corporativa,Zaragoza,39,M,tablet,intermedio,empresa,asincrónico,0.0,5,98,3,41.26,23,0
+U00334,universitaria,Madrid,19,M,escritorio,básico,privado,asincrónico,0.7,1,42,1,16.9,2,0
+U00335,corporativa,Barcelona,36,F,escritorio,básico,subvencionado,híbrido,72.4,5,23,4,64.25,8,0
+U00336,corporativa,Barcelona,25,F,escritorio,intermedio,privado,híbrido,72.0,2,9,4,49.83,21,0
+U00337,corporativa,Madrid,29,F,escritorio,básico,privado,asincrónico,35.2,5,82,3,26.98,2,0
+U00338,subvencionada,Barcelona,46,F,móvil,intermedio,empresa,en vivo,36.3,4,7,1,6.51,14,0
+U00339,universitaria,Bilbao,39,Otro,tablet,intermedio,empresa,híbrido,74.6,1,50,3,3.13,24,0
+U00340,subvencionada,Sevilla,51,M,móvil,básico,subvencionado,en vivo,72.1,1,5,2,33.95,17,0
+U00341,corporativa,Sevilla,27,F,tablet,básico,privado,en vivo,41.5,1,59,1,24.42,13,0
+U00342,corporativa,Valencia,34,M,móvil,básico,empresa,híbrido,86.5,4,32,2,3.55,16,0
+U00343,universitaria,Bilbao,50,Otro,escritorio,básico,subvencionado,híbrido,49.6,5,33,4,75.47,29,0
+U00344,corporativa,Barcelona,32,F,escritorio,básico,empresa,híbrido,53.9,4,12,0,8.69,12,0
+U00345,corporativa,Sevilla,32,M,tablet,avanzado,privado,híbrido,63.5,3,77,2,56.64,16,0
+U00346,subvencionada,Madrid,37,M,móvil,avanzado,gratuito,en vivo,13.0,2,61,2,6.96,7,0
+U00347,corporativa,Sevilla,31,F,móvil,básico,privado,asincrónico,52.8,2,78,0,15.91,5,0
+U00348,universitaria,Sevilla,52,M,tablet,avanzado,subvencionado,en vivo,66.9,2,10,2,55.55,29,0
+U00349,corporativa,Zaragoza,29,Otro,móvil,avanzado,gratuito,asincrónico,35.7,6,93,3,29.91,8,0
+U00350,corporativa,Bilbao,29,Otro,móvil,básico,privado,asincrónico,100.0,5,87,3,67.96,16,0
+U00351,universitaria,Bilbao,28,M,móvil,avanzado,privado,asincrónico,53.2,0,33,4,94.05,13,0
+U00352,subvencionada,Barcelona,44,Otro,escritorio,avanzado,privado,híbrido,34.3,4,83,3,52.87,24,0
+U00353,universitaria,Valencia,36,M,tablet,básico,empresa,en vivo,19.5,5,28,1,8.49,16,0
+U00354,subvencionada,Madrid,20,Otro,escritorio,básico,gratuito,híbrido,72.5,2,87,3,26.34,13,0
+U00355,subvencionada,Zaragoza,20,M,móvil,básico,privado,en vivo,74.7,2,28,3,2.66,9,0
+U00356,universitaria,Sevilla,21,Otro,tablet,básico,empresa,híbrido,60.7,7,99,2,32.78,28,0
+U00357,corporativa,Madrid,37,F,móvil,básico,subvencionado,en vivo,58.0,1,50,3,21.77,12,0
+U00358,corporativa,Zaragoza,38,F,tablet,intermedio,empresa,asincrónico,37.9,2,12,3,52.08,8,0
+U00359,universitaria,Barcelona,54,M,tablet,avanzado,privado,híbrido,71.4,4,11,0,7.43,25,0
+U00360,subvencionada,Valencia,26,Otro,móvil,intermedio,empresa,en vivo,81.1,5,39,3,0.02,24,0
+U00361,corporativa,Zaragoza,39,M,escritorio,básico,empresa,asincrónico,33.2,1,76,0,48.87,28,0
+U00362,subvencionada,Bilbao,29,F,móvil,avanzado,privado,híbrido,86.8,6,81,0,22.2,5,0
+U00363,universitaria,Sevilla,28,M,tablet,básico,subvencionado,asincrónico,59.9,1,92,3,23.81,3,0
+U00364,universitaria,Zaragoza,43,F,escritorio,avanzado,empresa,asincrónico,100.0,2,21,4,16.73,23,0
+U00365,universitaria,Bilbao,51,Otro,escritorio,básico,empresa,asincrónico,81.5,2,61,0,38.74,23,0
+U00366,universitaria,Bilbao,52,M,móvil,intermedio,privado,asincrónico,21.9,3,75,3,3.57,10,0
+U00367,subvencionada,Sevilla,22,M,tablet,avanzado,subvencionado,asincrónico,42.9,6,42,3,2.09,19,0
+U00368,subvencionada,Madrid,44,M,escritorio,básico,subvencionado,en vivo,77.0,4,98,2,34.38,23,0
+U00369,subvencionada,Bilbao,20,F,escritorio,intermedio,gratuito,asincrónico,100.0,2,84,1,47.63,18,0
+U00370,subvencionada,Madrid,59,Otro,escritorio,básico,privado,híbrido,82.6,2,92,2,37.99,7,0
+U00371,universitaria,Bilbao,46,M,tablet,avanzado,privado,en vivo,4.2,6,42,1,0.05,10,0
+U00372,universitaria,Barcelona,49,F,escritorio,intermedio,gratuito,en vivo,88.8,0,80,0,65.15,18,0
+U00373,corporativa,Bilbao,32,Otro,móvil,intermedio,gratuito,en vivo,64.9,4,75,0,28.85,26,0
+U00374,subvencionada,Barcelona,50,M,escritorio,avanzado,privado,híbrido,52.7,8,67,3,2.53,5,0
+U00375,universitaria,Bilbao,40,F,escritorio,básico,subvencionado,asincrónico,100.0,5,64,3,7.67,12,0
+U00376,subvencionada,Sevilla,55,M,tablet,intermedio,empresa,híbrido,100.0,1,71,0,225.08,18,0
+U00377,subvencionada,Madrid,32,F,tablet,avanzado,subvencionado,híbrido,100.0,4,52,3,36.12,10,0
+U00378,corporativa,Madrid,30,F,escritorio,intermedio,privado,en vivo,34.0,1,35,3,43.75,16,0
+U00379,subvencionada,Madrid,59,M,escritorio,avanzado,privado,híbrido,99.1,4,31,1,10.71,12,0
+U00380,subvencionada,Zaragoza,35,M,móvil,intermedio,empresa,en vivo,33.2,3,24,3,20.17,6,0
+U00381,subvencionada,Bilbao,28,F,móvil,avanzado,empresa,en vivo,86.9,1,65,4,50.17,28,0
+U00382,corporativa,Sevilla,58,Otro,escritorio,intermedio,privado,híbrido,80.5,3,33,3,20.32,2,0
+U00383,subvencionada,Zaragoza,27,Otro,tablet,intermedio,gratuito,en vivo,36.0,2,50,3,21.82,13,0
+U00384,universitaria,Barcelona,30,Otro,móvil,básico,empresa,asincrónico,75.3,5,35,1,67.03,21,0
+U00385,subvencionada,Bilbao,19,Otro,escritorio,básico,subvencionado,en vivo,91.6,3,89,0,6.77,10,0
+U00386,subvencionada,Zaragoza,48,Otro,escritorio,básico,empresa,asincrónico,88.2,6,49,2,44.97,11,0
+U00387,corporativa,Barcelona,26,Otro,tablet,básico,gratuito,híbrido,33.6,2,36,4,59.48,24,0
+U00388,subvencionada,Valencia,52,F,móvil,avanzado,gratuito,híbrido,61.8,1,79,0,1.08,9,0
+U00389,subvencionada,Bilbao,35,F,tablet,avanzado,subvencionado,en vivo,31.5,5,26,2,44.16,18,0
+U00390,subvencionada,Valencia,44,F,tablet,intermedio,empresa,asincrónico,74.0,4,25,1,32.34,21,0
+U00391,corporativa,Zaragoza,20,Otro,tablet,básico,subvencionado,híbrido,87.4,3,50,3,5.52,17,0
+U00392,subvencionada,Bilbao,41,F,tablet,intermedio,subvencionado,asincrónico,39.6,1,45,1,13.95,5,0
+U00393,universitaria,Madrid,51,Otro,escritorio,básico,subvencionado,asincrónico,73.5,9,60,0,15.33,11,0
+U00394,subvencionada,Bilbao,37,F,móvil,avanzado,privado,híbrido,71.4,2,27,3,7.58,11,0
+U00395,universitaria,Madrid,30,M,tablet,avanzado,empresa,híbrido,83.4,2,36,3,3.26,4,0
+U00396,universitaria,Zaragoza,44,F,móvil,intermedio,gratuito,en vivo,99.6,7,76,0,34.16,12,0
+U00397,corporativa,Bilbao,44,Otro,escritorio,básico,subvencionado,en vivo,96.0,2,19,3,20.99,29,0
+U00398,subvencionada,Valencia,51,Otro,móvil,avanzado,subvencionado,asincrónico,61.6,3,92,0,20.05,27,0
+U00399,subvencionada,Madrid,27,F,tablet,avanzado,gratuito,en vivo,62.6,3,24,2,0.88,15,0
+U00400,corporativa,Bilbao,36,M,tablet,básico,subvencionado,asincrónico,73.0,3,85,2,9.42,4,0
+U00401,subvencionada,Barcelona,23,Otro,móvil,intermedio,empresa,híbrido,75.5,4,7,3,20.54,15,0
+U00402,universitaria,Bilbao,49,Otro,tablet,intermedio,subvencionado,híbrido,21.7,1,11,1,5.36,6,0
+U00403,corporativa,Barcelona,41,Otro,escritorio,básico,subvencionado,híbrido,78.4,4,23,2,102.73,27,0
+U00404,universitaria,Sevilla,33,F,escritorio,avanzado,gratuito,en vivo,18.2,3,37,1,94.57,28,0
+U00405,corporativa,Madrid,48,Otro,escritorio,básico,gratuito,híbrido,94.6,5,28,3,1.37,23,0
+U00406,universitaria,Bilbao,45,Otro,escritorio,avanzado,privado,en vivo,100.0,2,65,4,8.55,23,0
+U00407,subvencionada,Barcelona,27,F,móvil,intermedio,privado,en vivo,29.8,4,86,3,12.81,23,0
+U00408,subvencionada,Barcelona,44,Otro,tablet,básico,privado,asincrónico,54.6,3,11,1,14.16,8,0
+U00409,universitaria,Bilbao,55,F,tablet,intermedio,empresa,en vivo,93.1,5,23,4,18.81,17,0
+U00410,subvencionada,Barcelona,40,Otro,escritorio,intermedio,gratuito,en vivo,26.7,2,46,0,19.76,7,0
+U00411,corporativa,Madrid,41,Otro,escritorio,avanzado,privado,asincrónico,65.2,6,64,4,20.44,24,0
+U00412,subvencionada,Zaragoza,31,M,tablet,avanzado,subvencionado,en vivo,12.6,3,68,4,24.28,11,0
+U00413,corporativa,Zaragoza,28,F,escritorio,avanzado,subvencionado,asincrónico,87.5,1,49,4,32.65,10,0
+U00414,universitaria,Valencia,52,M,escritorio,básico,gratuito,en vivo,32.7,4,94,0,5.58,2,0
+U00415,universitaria,Zaragoza,25,Otro,móvil,intermedio,subvencionado,asincrónico,40.0,3,45,2,35.17,27,0
+U00416,corporativa,Sevilla,50,M,tablet,avanzado,subvencionado,en vivo,55.1,0,59,4,5.01,15,0
+U00417,corporativa,Sevilla,18,M,escritorio,intermedio,subvencionado,en vivo,64.8,5,50,0,7.38,21,0
+U00418,subvencionada,Bilbao,24,Otro,móvil,avanzado,empresa,híbrido,85.7,3,70,1,76.09,13,0
+U00419,corporativa,Valencia,46,Otro,móvil,básico,privado,asincrónico,49.2,3,98,0,32.64,28,0
+U00420,corporativa,Bilbao,21,Otro,tablet,avanzado,empresa,en vivo,37.4,1,59,0,4.74,27,0
+U00421,subvencionada,Madrid,38,M,móvil,avanzado,subvencionado,híbrido,35.0,3,70,2,13.83,24,0
+U00422,universitaria,Sevilla,41,Otro,escritorio,básico,privado,asincrónico,27.1,5,47,4,9.17,21,0
+U00423,universitaria,Madrid,22,M,escritorio,avanzado,privado,híbrido,61.3,2,45,4,26.43,15,0
+U00424,corporativa,Valencia,43,M,tablet,intermedio,privado,asincrónico,72.6,1,72,2,23.13,15,0
+U00425,universitaria,Valencia,22,F,móvil,avanzado,subvencionado,en vivo,35.5,6,86,2,1.65,5,0
+U00426,subvencionada,Sevilla,33,F,escritorio,intermedio,gratuito,asincrónico,85.0,6,52,3,41.57,9,0
+U00427,corporativa,Sevilla,31,F,móvil,intermedio,subvencionado,asincrónico,66.8,2,32,1,5.43,17,0
+U00428,corporativa,Barcelona,55,Otro,escritorio,avanzado,empresa,asincrónico,91.0,2,5,4,6.24,20,0
+U00429,subvencionada,Valencia,56,Otro,móvil,avanzado,gratuito,asincrónico,39.2,3,23,0,15.3,17,0
+U00430,corporativa,Valencia,49,M,tablet,intermedio,privado,en vivo,93.9,1,93,3,22.88,29,0
+U00431,subvencionada,Barcelona,26,F,móvil,intermedio,gratuito,en vivo,13.3,3,71,0,37.28,10,0
+U00432,subvencionada,Valencia,54,Otro,escritorio,básico,subvencionado,asincrónico,48.8,2,71,4,10.57,3,0
+U00433,universitaria,Madrid,49,Otro,escritorio,básico,privado,asincrónico,63.3,4,54,2,2.92,24,0
+U00434,universitaria,Bilbao,30,M,tablet,avanzado,privado,híbrido,53.8,1,53,3,3.1,9,0
+U00435,subvencionada,Barcelona,35,M,móvil,avanzado,privado,híbrido,73.1,4,77,2,31.43,15,0
+U00436,corporativa,Madrid,31,F,tablet,intermedio,privado,híbrido,30.8,5,18,4,1.57,7,0
+U00437,corporativa,Bilbao,31,Otro,tablet,básico,privado,asincrónico,60.0,2,61,4,46.16,11,0
+U00438,universitaria,Bilbao,50,M,escritorio,básico,empresa,en vivo,31.8,3,12,3,28.63,7,0
+U00439,subvencionada,Sevilla,18,Otro,tablet,avanzado,privado,híbrido,58.7,4,56,1,2.74,5,0
+U00440,corporativa,Valencia,33,M,escritorio,avanzado,gratuito,asincrónico,77.2,5,23,3,9.47,12,0
+U00441,subvencionada,Madrid,28,Otro,móvil,básico,empresa,híbrido,95.1,6,95,0,17.56,19,0
+U00442,subvencionada,Zaragoza,42,F,tablet,básico,subvencionado,en vivo,36.1,1,51,3,50.05,26,0
+U00443,corporativa,Valencia,22,F,móvil,básico,subvencionado,en vivo,59.2,5,51,0,8.79,19,0
+U00444,corporativa,Valencia,29,M,móvil,intermedio,gratuito,híbrido,74.6,5,23,2,12.32,1,0
+U00445,universitaria,Valencia,23,F,móvil,intermedio,subvencionado,en vivo,0.0,6,53,4,34.98,21,0
+U00446,corporativa,Sevilla,40,F,móvil,intermedio,empresa,híbrido,31.1,4,88,4,21.23,9,0
+U00447,subvencionada,Zaragoza,29,M,tablet,intermedio,empresa,asincrónico,76.1,2,18,0,32.06,6,0
+U00448,corporativa,Bilbao,52,M,móvil,intermedio,subvencionado,en vivo,51.1,5,91,3,58.1,10,0
+U00449,universitaria,Barcelona,42,Otro,móvil,intermedio,subvencionado,híbrido,55.4,2,20,2,3.4,20,0
+U00450,subvencionada,Valencia,32,M,móvil,intermedio,privado,asincrónico,48.2,3,90,1,68.28,15,0
+U00451,subvencionada,Sevilla,19,M,tablet,intermedio,privado,asincrónico,36.6,2,25,3,11.66,12,0
+U00452,subvencionada,Sevilla,54,M,móvil,intermedio,subvencionado,asincrónico,78.9,4,86,4,20.29,23,0
+U00453,corporativa,Barcelona,55,M,móvil,intermedio,subvencionado,híbrido,42.9,1,55,1,13.37,9,0
+U00454,corporativa,Madrid,18,F,tablet,básico,gratuito,híbrido,73.3,3,47,2,7.64,4,0
+U00455,universitaria,Madrid,30,F,móvil,intermedio,gratuito,híbrido,87.8,4,92,3,0.6,9,0
+U00456,subvencionada,Bilbao,26,M,escritorio,intermedio,empresa,asincrónico,56.9,1,28,2,17.9,5,0
+U00457,universitaria,Zaragoza,28,F,escritorio,intermedio,gratuito,asincrónico,58.8,5,65,0,9.23,17,0
+U00458,universitaria,Madrid,24,Otro,tablet,avanzado,empresa,en vivo,50.7,1,30,1,10.85,14,0
+U00459,universitaria,Valencia,50,M,tablet,intermedio,privado,híbrido,83.6,5,82,3,33.38,27,0
+U00460,corporativa,Valencia,56,M,escritorio,intermedio,privado,híbrido,65.8,2,65,0,48.99,12,0
+U00461,universitaria,Madrid,36,Otro,móvil,básico,privado,en vivo,100.0,5,26,4,11.79,22,0
+U00462,universitaria,Barcelona,32,M,móvil,intermedio,empresa,en vivo,50.5,3,22,1,5.85,3,0
+U00463,corporativa,Bilbao,20,F,escritorio,avanzado,subvencionado,híbrido,45.3,5,73,0,24.32,24,0
+U00464,universitaria,Madrid,23,M,móvil,avanzado,privado,en vivo,58.3,2,15,2,3.65,23,0
+U00465,universitaria,Barcelona,58,M,móvil,intermedio,subvencionado,en vivo,49.7,4,89,4,30.73,14,0
+U00466,corporativa,Barcelona,47,F,tablet,avanzado,empresa,asincrónico,78.9,4,33,2,2.08,12,0
+U00467,corporativa,Barcelona,53,F,tablet,básico,empresa,asincrónico,38.5,2,69,0,20.12,20,0
+U00468,corporativa,Sevilla,31,F,tablet,básico,empresa,asincrónico,74.4,1,56,2,2.1,25,0
+U00469,universitaria,Bilbao,43,M,tablet,básico,privado,en vivo,100.0,1,45,0,56.16,29,0
+U00470,subvencionada,Zaragoza,52,F,tablet,avanzado,privado,en vivo,32.1,2,55,4,20.58,26,0
+U00471,corporativa,Sevilla,32,F,móvil,avanzado,empresa,híbrido,17.9,4,47,1,28.51,10,0
+U00472,corporativa,Madrid,35,F,tablet,básico,privado,asincrónico,78.6,8,10,3,4.61,10,0
+U00473,corporativa,Madrid,42,M,móvil,básico,empresa,asincrónico,42.0,8,68,3,26.06,25,0
+U00474,universitaria,Valencia,32,F,móvil,básico,subvencionado,asincrónico,43.6,3,22,0,28.89,7,0
+U00475,universitaria,Zaragoza,31,F,móvil,avanzado,privado,híbrido,82.7,3,41,3,14.8,12,0
+U00476,subvencionada,Zaragoza,38,M,móvil,intermedio,subvencionado,asincrónico,100.0,2,20,0,41.56,8,0
+U00477,subvencionada,Sevilla,54,F,tablet,básico,empresa,asincrónico,27.8,2,30,4,13.31,17,0
+U00478,subvencionada,Valencia,38,F,escritorio,básico,privado,híbrido,54.9,1,59,0,16.01,17,0
+U00479,corporativa,Bilbao,27,M,escritorio,básico,gratuito,híbrido,43.1,2,55,4,15.44,29,0
+U00480,corporativa,Barcelona,23,F,escritorio,intermedio,gratuito,asincrónico,35.9,1,83,2,0.17,21,0
+U00481,subvencionada,Sevilla,23,F,móvil,básico,empresa,en vivo,65.0,7,56,0,50.45,4,0
+U00482,corporativa,Sevilla,26,Otro,móvil,básico,privado,en vivo,6.8,4,67,4,10.6,4,0
+U00483,subvencionada,Zaragoza,43,F,tablet,básico,subvencionado,híbrido,77.9,0,64,3,6.66,8,0
+U00484,corporativa,Bilbao,25,Otro,móvil,avanzado,empresa,en vivo,86.1,3,81,0,13.48,29,0
+U00485,corporativa,Madrid,29,F,tablet,básico,subvencionado,híbrido,44.7,9,75,0,14.4,28,0
+U00486,subvencionada,Bilbao,35,M,escritorio,básico,empresa,asincrónico,83.0,0,93,2,74.31,6,0
+U00487,universitaria,Barcelona,30,M,escritorio,avanzado,empresa,en vivo,66.1,1,12,4,30.83,28,0
+U00488,corporativa,Bilbao,54,M,móvil,avanzado,privado,híbrido,95.4,1,62,2,30.3,24,0
+U00489,universitaria,Madrid,32,F,tablet,básico,privado,en vivo,39.7,4,83,0,18.1,22,0
+U00490,subvencionada,Valencia,27,M,escritorio,avanzado,privado,híbrido,80.5,4,76,3,40.79,22,0
+U00491,corporativa,Madrid,59,M,móvil,avanzado,privado,híbrido,75.6,1,21,4,17.33,2,0
+U00492,universitaria,Barcelona,37,F,móvil,intermedio,empresa,híbrido,27.9,4,18,0,6.1,28,0
+U00493,corporativa,Valencia,19,Otro,móvil,avanzado,privado,híbrido,50.9,3,20,1,10.88,23,0
+U00494,subvencionada,Valencia,43,F,tablet,avanzado,privado,híbrido,40.6,5,65,0,5.77,14,0
+U00495,universitaria,Zaragoza,45,F,escritorio,intermedio,empresa,asincrónico,37.8,2,12,3,85.59,8,0
+U00496,corporativa,Zaragoza,28,F,tablet,intermedio,gratuito,asincrónico,4.5,5,8,0,13.56,14,0
+U00497,corporativa,Valencia,40,Otro,escritorio,intermedio,gratuito,híbrido,44.4,5,79,1,30.92,17,0
+U00498,corporativa,Barcelona,28,M,tablet,avanzado,gratuito,asincrónico,71.3,2,72,2,28.95,5,0
+U00499,subvencionada,Valencia,34,M,tablet,avanzado,subvencionado,híbrido,96.2,4,99,4,18.75,21,0
+U00500,universitaria,Madrid,34,F,escritorio,básico,subvencionado,asincrónico,33.4,2,39,3,21.41,25,0
+U00501,subvencionada,Zaragoza,30,M,escritorio,avanzado,gratuito,en vivo,71.4,1,44,0,5.23,19,0
+U00502,corporativa,Valencia,32,F,tablet,básico,empresa,asincrónico,23.1,7,40,3,10.68,14,0
+U00503,universitaria,Sevilla,39,F,móvil,intermedio,gratuito,híbrido,50.1,3,75,2,2.12,24,0
+U00504,universitaria,Madrid,47,F,móvil,avanzado,privado,en vivo,33.8,1,53,1,31.83,12,0
+U00505,universitaria,Barcelona,57,Otro,tablet,intermedio,subvencionado,asincrónico,51.6,2,66,3,8.18,26,0
+U00506,subvencionada,Valencia,29,F,móvil,básico,privado,híbrido,41.3,3,82,2,1.63,19,0
+U00507,corporativa,Bilbao,25,Otro,tablet,intermedio,empresa,híbrido,90.3,2,66,3,17.11,19,0
+U00508,subvencionada,Madrid,38,Otro,móvil,intermedio,gratuito,en vivo,49.0,2,9,1,11.64,19,0
+U00509,corporativa,Valencia,47,F,escritorio,básico,subvencionado,en vivo,78.6,3,91,3,7.56,10,0
+U00510,universitaria,Sevilla,43,Otro,móvil,intermedio,empresa,en vivo,29.4,3,70,1,6.32,25,0
+U00511,corporativa,Madrid,34,M,móvil,avanzado,empresa,híbrido,58.8,4,51,1,6.63,15,0
+U00512,corporativa,Valencia,26,F,escritorio,básico,privado,híbrido,50.8,4,93,1,9.07,22,0
+U00513,subvencionada,Barcelona,19,M,escritorio,básico,subvencionado,en vivo,57.9,4,58,4,12.26,1,0
+U00514,subvencionada,Madrid,27,Otro,tablet,intermedio,empresa,en vivo,45.5,2,49,4,16.28,22,0
+U00515,universitaria,Zaragoza,34,F,escritorio,intermedio,gratuito,asincrónico,89.8,4,25,0,7.54,4,0
+U00516,corporativa,Barcelona,37,M,tablet,avanzado,subvencionado,en vivo,63.4,5,29,4,27.79,21,0
+U00517,corporativa,Barcelona,52,F,móvil,básico,empresa,híbrido,43.0,4,86,2,21.39,11,0
+U00518,subvencionada,Madrid,22,Otro,tablet,intermedio,empresa,en vivo,77.2,4,90,1,12.5,7,0
+U00519,universitaria,Valencia,24,Otro,tablet,avanzado,empresa,híbrido,44.1,4,32,3,18.16,2,0
+U00520,subvencionada,Barcelona,31,F,tablet,avanzado,empresa,asincrónico,37.0,6,8,0,3.23,4,0
+U00521,universitaria,Bilbao,45,Otro,tablet,intermedio,empresa,en vivo,67.9,3,71,1,24.86,26,0
+U00522,corporativa,Valencia,55,Otro,escritorio,básico,empresa,en vivo,59.3,1,49,2,1.29,25,0
+U00523,corporativa,Valencia,24,F,tablet,básico,empresa,en vivo,30.6,3,24,1,1.37,16,0
+U00524,subvencionada,Zaragoza,26,M,tablet,intermedio,gratuito,híbrido,94.8,3,41,0,18.29,20,0
+U00525,subvencionada,Valencia,29,Otro,escritorio,avanzado,privado,en vivo,75.2,2,35,1,7.25,12,0
+U00526,subvencionada,Sevilla,27,M,móvil,avanzado,empresa,en vivo,46.4,3,57,4,14.53,10,0
+U00527,universitaria,Zaragoza,40,Otro,móvil,básico,subvencionado,asincrónico,66.0,2,33,4,3.73,29,0
+U00528,universitaria,Barcelona,27,Otro,móvil,intermedio,gratuito,asincrónico,66.3,1,74,1,1.7,19,0
+U00529,corporativa,Sevilla,51,Otro,tablet,avanzado,privado,asincrónico,59.5,2,49,1,9.52,7,0
+U00530,subvencionada,Valencia,40,Otro,escritorio,avanzado,empresa,en vivo,42.0,1,95,1,46.51,19,0
+U00531,subvencionada,Bilbao,59,Otro,tablet,intermedio,privado,en vivo,41.3,2,80,1,23.38,21,0
+U00532,universitaria,Sevilla,42,Otro,tablet,intermedio,empresa,asincrónico,64.5,3,35,0,52.66,9,0
+U00533,subvencionada,Sevilla,43,Otro,escritorio,intermedio,privado,en vivo,56.6,1,67,0,61.67,10,0
+U00534,corporativa,Zaragoza,41,Otro,escritorio,avanzado,subvencionado,asincrónico,93.4,5,46,0,10.14,12,0
+U00535,corporativa,Zaragoza,31,F,móvil,básico,subvencionado,asincrónico,7.4,0,43,3,46.47,17,0
+U00536,universitaria,Valencia,39,Otro,tablet,intermedio,gratuito,híbrido,50.5,3,48,1,33.55,17,0
+U00537,corporativa,Zaragoza,54,Otro,móvil,básico,empresa,híbrido,91.7,2,63,3,4.9,18,0
+U00538,corporativa,Bilbao,44,Otro,tablet,avanzado,empresa,híbrido,66.8,7,79,0,15.27,21,0
+U00539,subvencionada,Barcelona,57,Otro,móvil,avanzado,privado,asincrónico,98.9,7,68,0,30.39,14,0
+U00540,corporativa,Sevilla,50,M,escritorio,básico,gratuito,asincrónico,79.6,2,65,4,19.35,21,0
+U00541,corporativa,Bilbao,40,M,tablet,intermedio,subvencionado,en vivo,67.1,4,36,0,4.18,28,0
+U00542,universitaria,Sevilla,54,M,tablet,intermedio,subvencionado,en vivo,16.9,3,50,0,15.72,10,0
+U00543,universitaria,Bilbao,51,F,tablet,básico,gratuito,híbrido,82.0,4,10,3,12.39,11,0
+U00544,corporativa,Bilbao,46,F,móvil,básico,empresa,en vivo,85.5,1,43,1,27.91,19,0
+U00545,corporativa,Valencia,24,F,tablet,avanzado,subvencionado,en vivo,16.1,3,97,4,8.36,4,0
+U00546,universitaria,Zaragoza,46,Otro,móvil,básico,gratuito,en vivo,100.0,5,67,2,7.86,26,0
+U00547,subvencionada,Sevilla,34,M,escritorio,avanzado,gratuito,asincrónico,41.6,3,53,3,66.89,17,0
+U00548,subvencionada,Sevilla,49,M,escritorio,avanzado,gratuito,en vivo,46.9,3,10,3,31.34,7,0
+U00549,corporativa,Valencia,29,Otro,escritorio,avanzado,subvencionado,asincrónico,47.6,5,77,1,6.23,4,0
+U00550,subvencionada,Madrid,23,M,móvil,básico,empresa,asincrónico,73.5,3,74,4,12.2,8,0
+U00551,subvencionada,Madrid,31,M,escritorio,intermedio,empresa,híbrido,49.2,2,21,2,6.06,10,0
+U00552,corporativa,Zaragoza,47,Otro,escritorio,intermedio,subvencionado,híbrido,68.3,1,99,1,11.4,6,0
+U00553,universitaria,Valencia,30,M,tablet,básico,subvencionado,asincrónico,81.7,6,85,3,32.86,6,0
+U00554,universitaria,Sevilla,47,M,móvil,intermedio,gratuito,asincrónico,51.4,5,38,3,3.27,20,0
+U00555,corporativa,Valencia,48,M,escritorio,avanzado,subvencionado,híbrido,88.1,1,87,3,37.7,27,0
+U00556,subvencionada,Barcelona,22,M,escritorio,avanzado,gratuito,en vivo,77.2,1,80,4,8.73,8,0
+U00557,corporativa,Barcelona,32,Otro,móvil,básico,privado,híbrido,75.3,8,39,2,13.11,14,0
+U00558,universitaria,Bilbao,55,Otro,móvil,avanzado,subvencionado,híbrido,34.4,2,91,3,153.85,23,0
+U00559,corporativa,Madrid,43,M,móvil,intermedio,privado,híbrido,85.6,3,84,4,1.94,2,0
+U00560,corporativa,Zaragoza,32,F,móvil,intermedio,privado,en vivo,21.3,4,14,4,9.0,26,0
+U00561,universitaria,Valencia,57,F,escritorio,intermedio,subvencionado,en vivo,20.4,2,8,4,9.61,7,0
+U00562,corporativa,Madrid,37,M,escritorio,intermedio,empresa,en vivo,66.8,7,67,4,18.58,20,0
+U00563,subvencionada,Zaragoza,39,F,móvil,intermedio,empresa,híbrido,60.8,0,9,3,21.32,15,0
+U00564,subvencionada,Zaragoza,49,Otro,tablet,avanzado,empresa,asincrónico,53.1,2,45,2,47.03,3,0
+U00565,universitaria,Bilbao,22,Otro,escritorio,intermedio,gratuito,híbrido,88.2,3,80,4,2.32,13,0
+U00566,corporativa,Sevilla,26,M,escritorio,intermedio,subvencionado,en vivo,67.0,3,64,4,8.24,20,0
+U00567,corporativa,Sevilla,25,M,escritorio,intermedio,gratuito,asincrónico,7.6,3,64,2,3.03,16,0
+U00568,corporativa,Bilbao,19,Otro,escritorio,avanzado,privado,asincrónico,69.7,1,40,2,2.83,5,0
+U00569,universitaria,Barcelona,38,F,tablet,intermedio,gratuito,asincrónico,70.8,5,83,3,72.55,26,0
+U00570,subvencionada,Zaragoza,25,F,tablet,básico,empresa,en vivo,84.9,5,66,4,1.41,27,0
+U00571,subvencionada,Sevilla,34,Otro,tablet,avanzado,empresa,asincrónico,29.3,4,53,3,5.15,7,0
+U00572,corporativa,Zaragoza,44,Otro,tablet,avanzado,subvencionado,en vivo,69.9,2,31,4,10.48,14,0
+U00573,subvencionada,Bilbao,22,F,móvil,avanzado,gratuito,en vivo,0.0,5,73,2,38.77,7,0
+U00574,subvencionada,Valencia,37,Otro,móvil,básico,privado,asincrónico,27.7,3,62,0,14.82,29,0
+U00575,subvencionada,Madrid,52,M,móvil,intermedio,subvencionado,asincrónico,44.0,7,6,2,8.28,13,0
+U00576,subvencionada,Valencia,18,F,tablet,básico,privado,en vivo,50.4,1,83,2,11.72,8,0
+U00577,universitaria,Sevilla,25,M,tablet,intermedio,subvencionado,en vivo,21.4,4,27,1,65.84,1,0
+U00578,subvencionada,Sevilla,46,F,móvil,intermedio,empresa,asincrónico,38.8,4,19,3,7.91,28,0
+U00579,subvencionada,Zaragoza,26,Otro,tablet,avanzado,privado,híbrido,55.4,5,5,4,68.4,21,0
+U00580,corporativa,Valencia,24,Otro,tablet,intermedio,empresa,asincrónico,13.0,1,59,0,13.8,2,0
+U00581,corporativa,Valencia,40,Otro,tablet,básico,privado,asincrónico,36.4,3,76,3,14.4,2,0
+U00582,subvencionada,Bilbao,32,Otro,tablet,intermedio,gratuito,asincrónico,84.3,3,94,1,27.63,21,0
+U00583,corporativa,Bilbao,35,F,tablet,básico,subvencionado,asincrónico,28.6,1,99,1,24.8,29,0
+U00584,corporativa,Bilbao,44,F,tablet,intermedio,privado,asincrónico,18.2,2,85,2,9.69,24,0
+U00585,subvencionada,Sevilla,32,Otro,escritorio,básico,subvencionado,híbrido,33.9,4,12,3,52.83,2,0
+U00586,universitaria,Barcelona,45,Otro,tablet,intermedio,empresa,asincrónico,32.1,1,33,1,51.36,16,0
+U00587,universitaria,Bilbao,48,Otro,tablet,avanzado,subvencionado,híbrido,31.2,2,91,1,11.1,4,0
+U00588,subvencionada,Bilbao,31,F,móvil,básico,gratuito,en vivo,37.5,2,69,0,15.75,14,0
+U00589,subvencionada,Valencia,18,F,escritorio,avanzado,empresa,en vivo,37.5,2,22,1,24.27,6,0
+U00590,universitaria,Barcelona,56,Otro,escritorio,básico,gratuito,híbrido,27.9,2,87,2,5.22,29,0
+U00591,universitaria,Bilbao,23,M,escritorio,avanzado,privado,asincrónico,58.4,3,99,1,37.97,7,0
+U00592,subvencionada,Madrid,57,M,tablet,intermedio,subvencionado,en vivo,62.8,3,55,4,0.1,20,0
+U00593,universitaria,Barcelona,36,M,tablet,avanzado,privado,asincrónico,41.2,2,7,2,53.67,3,0
+U00594,universitaria,Barcelona,43,F,móvil,intermedio,gratuito,híbrido,60.4,3,10,4,3.05,27,0
+U00595,subvencionada,Barcelona,36,M,móvil,avanzado,empresa,en vivo,100.0,1,33,4,7.77,28,0
+U00596,subvencionada,Bilbao,40,M,móvil,avanzado,gratuito,en vivo,44.8,4,6,3,54.44,8,0
+U00597,universitaria,Sevilla,51,Otro,móvil,avanzado,gratuito,en vivo,56.0,5,27,4,2.43,6,0
+U00598,subvencionada,Sevilla,52,M,tablet,básico,gratuito,híbrido,64.2,4,25,3,26.77,4,0
+U00599,universitaria,Zaragoza,20,M,tablet,intermedio,subvencionado,híbrido,47.0,2,34,3,6.43,29,0
+U00600,universitaria,Sevilla,52,F,móvil,avanzado,gratuito,híbrido,71.8,4,19,2,13.85,17,0
+U00601,subvencionada,Sevilla,46,Otro,móvil,básico,empresa,en vivo,86.0,3,5,0,40.05,12,0
+U00602,subvencionada,Zaragoza,54,F,escritorio,intermedio,empresa,en vivo,67.5,2,49,4,4.87,8,0
+U00603,corporativa,Bilbao,47,F,tablet,intermedio,subvencionado,en vivo,36.2,2,21,2,5.99,11,0
+U00604,universitaria,Sevilla,32,F,escritorio,básico,subvencionado,asincrónico,41.3,4,13,2,83.7,4,0
+U00605,universitaria,Madrid,24,F,escritorio,avanzado,subvencionado,asincrónico,35.0,4,44,2,10.17,23,0
+U00606,universitaria,Zaragoza,33,F,escritorio,intermedio,privado,en vivo,47.6,6,84,0,5.96,13,0
+U00607,corporativa,Barcelona,47,Otro,móvil,intermedio,subvencionado,híbrido,9.8,3,71,1,4.38,29,0
+U00608,subvencionada,Valencia,55,Otro,escritorio,avanzado,gratuito,en vivo,76.5,6,92,4,44.81,26,0
+U00609,subvencionada,Sevilla,50,Otro,tablet,básico,subvencionado,en vivo,43.2,3,77,1,30.07,22,0
+U00610,corporativa,Madrid,32,Otro,escritorio,básico,empresa,en vivo,44.4,1,88,0,0.08,13,0
+U00611,subvencionada,Zaragoza,27,Otro,tablet,intermedio,privado,en vivo,24.0,2,37,1,23.12,28,0
+U00612,subvencionada,Zaragoza,28,F,móvil,avanzado,gratuito,en vivo,44.4,8,48,2,1.35,1,0
+U00613,universitaria,Barcelona,27,M,móvil,avanzado,gratuito,híbrido,84.5,7,82,4,211.28,2,0
+U00614,subvencionada,Sevilla,33,M,móvil,básico,gratuito,en vivo,73.3,5,88,3,152.76,10,0
+U00615,universitaria,Sevilla,39,Otro,tablet,intermedio,subvencionado,en vivo,49.1,3,11,4,41.74,5,0
+U00616,corporativa,Barcelona,57,F,tablet,avanzado,subvencionado,en vivo,64.1,3,15,0,33.8,4,0
+U00617,universitaria,Barcelona,43,Otro,tablet,intermedio,privado,en vivo,95.3,2,98,0,4.13,10,0
+U00618,subvencionada,Sevilla,30,F,escritorio,avanzado,gratuito,en vivo,68.0,7,78,1,10.5,20,0
+U00619,corporativa,Barcelona,20,Otro,móvil,básico,empresa,híbrido,59.7,3,60,2,3.52,29,0
+U00620,subvencionada,Madrid,28,Otro,escritorio,intermedio,privado,en vivo,84.1,2,63,2,11.89,7,0
+U00621,universitaria,Zaragoza,27,F,escritorio,avanzado,privado,híbrido,86.9,3,79,4,17.76,28,0
+U00622,corporativa,Bilbao,19,M,tablet,avanzado,gratuito,en vivo,56.1,4,61,1,18.29,25,0
+U00623,universitaria,Madrid,21,F,escritorio,intermedio,subvencionado,híbrido,33.9,2,58,3,15.51,26,0
+U00624,universitaria,Zaragoza,52,Otro,tablet,básico,empresa,asincrónico,80.1,5,74,1,45.31,1,0
+U00625,universitaria,Zaragoza,31,F,móvil,intermedio,gratuito,en vivo,37.0,1,66,0,71.47,29,0
+U00626,universitaria,Bilbao,33,M,móvil,básico,subvencionado,en vivo,48.9,3,32,1,9.66,8,0
+U00627,subvencionada,Valencia,20,Otro,móvil,avanzado,gratuito,asincrónico,65.1,4,95,0,12.17,5,0
+U00628,subvencionada,Sevilla,50,F,escritorio,básico,empresa,asincrónico,78.8,7,30,3,12.55,16,0
+U00629,corporativa,Barcelona,31,M,móvil,básico,empresa,híbrido,54.5,3,9,4,39.63,2,0
+U00630,universitaria,Zaragoza,36,F,tablet,intermedio,subvencionado,en vivo,60.9,0,76,4,38.5,8,0
+U00631,universitaria,Sevilla,33,Otro,móvil,avanzado,empresa,en vivo,42.9,2,19,1,1.37,18,0
+U00632,universitaria,Barcelona,20,M,escritorio,avanzado,subvencionado,en vivo,100.0,4,13,0,42.51,7,0
+U00633,corporativa,Madrid,35,F,móvil,intermedio,empresa,asincrónico,56.9,6,46,3,3.03,23,0
+U00634,corporativa,Madrid,28,Otro,escritorio,avanzado,gratuito,asincrónico,96.0,4,26,3,30.01,28,0
+U00635,corporativa,Zaragoza,20,M,móvil,básico,subvencionado,híbrido,69.6,3,57,1,9.62,24,0
+U00636,subvencionada,Sevilla,47,Otro,móvil,básico,gratuito,híbrido,91.7,3,99,0,8.14,7,0
+U00637,universitaria,Sevilla,19,M,escritorio,básico,subvencionado,híbrido,40.9,5,7,2,8.34,19,0
+U00638,subvencionada,Bilbao,57,M,tablet,básico,subvencionado,asincrónico,63.6,2,51,1,13.51,19,0
+U00639,corporativa,Sevilla,31,F,escritorio,intermedio,empresa,asincrónico,89.2,2,98,2,2.24,22,0
+U00640,subvencionada,Zaragoza,41,F,escritorio,intermedio,empresa,en vivo,34.5,1,97,4,3.41,4,0
+U00641,universitaria,Valencia,41,M,tablet,básico,subvencionado,híbrido,84.8,1,55,3,10.51,5,0
+U00642,subvencionada,Sevilla,24,F,escritorio,intermedio,privado,en vivo,66.9,3,73,2,11.33,29,0
+U00643,subvencionada,Madrid,53,M,tablet,básico,empresa,asincrónico,4.0,5,88,0,48.61,22,0
+U00644,subvencionada,Bilbao,58,F,móvil,avanzado,privado,en vivo,10.9,0,52,2,34.41,19,0
+U00645,subvencionada,Barcelona,40,M,escritorio,básico,subvencionado,híbrido,68.7,2,68,0,15.16,21,0
+U00646,universitaria,Valencia,54,M,móvil,intermedio,privado,en vivo,71.3,3,41,1,10.33,23,0
+U00647,subvencionada,Sevilla,18,M,móvil,avanzado,subvencionado,en vivo,24.1,2,73,4,6.83,20,0
+U00648,universitaria,Barcelona,27,F,tablet,intermedio,gratuito,híbrido,53.4,2,18,2,1.32,10,0
+U00649,universitaria,Bilbao,48,M,escritorio,intermedio,empresa,en vivo,78.7,2,20,1,11.74,13,0
+U00650,subvencionada,Madrid,42,M,tablet,intermedio,gratuito,híbrido,100.0,5,17,0,2.72,17,0
+U00651,universitaria,Zaragoza,24,F,tablet,avanzado,empresa,en vivo,66.3,3,38,0,13.29,17,0
+U00652,corporativa,Bilbao,58,F,escritorio,intermedio,privado,en vivo,52.2,2,80,0,37.57,20,0
+U00653,corporativa,Barcelona,34,M,tablet,avanzado,subvencionado,en vivo,49.2,1,32,0,10.84,7,0
+U00654,subvencionada,Valencia,20,Otro,tablet,intermedio,empresa,híbrido,24.6,4,36,0,14.76,13,0
+U00655,universitaria,Madrid,39,F,escritorio,avanzado,empresa,en vivo,52.1,5,36,1,2.89,21,0
+U00656,universitaria,Bilbao,27,Otro,móvil,avanzado,privado,en vivo,100.0,1,70,2,28.71,13,0
+U00657,corporativa,Valencia,21,Otro,tablet,intermedio,gratuito,asincrónico,58.4,2,66,2,2.56,7,0
+U00658,universitaria,Sevilla,45,F,móvil,avanzado,empresa,asincrónico,60.7,6,55,1,7.97,4,0
+U00659,universitaria,Valencia,42,F,móvil,intermedio,subvencionado,en vivo,73.2,2,13,2,206.55,5,0
+U00660,universitaria,Sevilla,56,Otro,escritorio,básico,privado,híbrido,45.5,3,13,2,4.63,16,0
+U00661,subvencionada,Zaragoza,33,F,móvil,intermedio,empresa,en vivo,66.1,2,42,1,7.05,24,0
+U00662,subvencionada,Bilbao,36,F,tablet,intermedio,subvencionado,híbrido,100.0,3,53,3,30.2,15,0
+U00663,subvencionada,Valencia,57,M,móvil,básico,gratuito,híbrido,100.0,3,61,2,4.86,3,0
+U00664,subvencionada,Bilbao,37,M,escritorio,avanzado,subvencionado,asincrónico,64.3,1,48,0,24.74,3,0
+U00665,subvencionada,Madrid,49,Otro,móvil,básico,subvencionado,en vivo,25.1,0,39,1,14.12,3,0
+U00666,corporativa,Barcelona,49,M,escritorio,avanzado,empresa,en vivo,73.5,2,12,3,5.51,25,0
+U00667,subvencionada,Barcelona,52,M,móvil,intermedio,subvencionado,en vivo,0.0,6,74,0,55.52,13,0
+U00668,corporativa,Valencia,55,M,móvil,intermedio,empresa,asincrónico,84.6,3,51,3,34.4,2,0
+U00669,universitaria,Zaragoza,48,Otro,móvil,avanzado,privado,híbrido,56.3,6,37,1,52.23,28,0
+U00670,universitaria,Barcelona,25,Otro,tablet,intermedio,empresa,asincrónico,77.3,4,41,2,64.69,2,0
+U00671,subvencionada,Madrid,26,F,tablet,avanzado,privado,híbrido,100.0,5,10,0,64.56,27,0
+U00672,subvencionada,Valencia,56,F,escritorio,avanzado,subvencionado,híbrido,14.4,0,94,4,102.68,27,0
+U00673,universitaria,Barcelona,33,M,tablet,avanzado,empresa,asincrónico,100.0,6,39,2,5.06,2,0
+U00674,subvencionada,Bilbao,56,F,escritorio,básico,privado,en vivo,45.7,4,18,4,28.9,17,0
+U00675,subvencionada,Barcelona,26,Otro,móvil,intermedio,gratuito,híbrido,27.9,4,69,3,3.95,23,0
+U00676,universitaria,Zaragoza,21,F,tablet,básico,gratuito,híbrido,83.9,0,20,0,32.95,19,0
+U00677,corporativa,Zaragoza,54,M,escritorio,avanzado,privado,asincrónico,47.3,2,87,0,24.61,5,0
+U00678,subvencionada,Bilbao,39,M,móvil,intermedio,empresa,en vivo,84.2,3,45,3,60.85,8,0
+U00679,universitaria,Zaragoza,42,F,móvil,intermedio,subvencionado,en vivo,75.3,2,99,4,7.09,2,0
+U00680,universitaria,Barcelona,53,Otro,móvil,avanzado,empresa,híbrido,49.8,3,70,1,14.04,15,0
+U00681,universitaria,Bilbao,21,F,móvil,avanzado,gratuito,en vivo,50.3,5,15,0,1.0,27,0
+U00682,subvencionada,Bilbao,39,F,escritorio,básico,privado,en vivo,53.7,3,20,1,11.84,15,0
+U00683,corporativa,Barcelona,42,F,tablet,básico,empresa,asincrónico,58.5,1,71,4,51.03,18,0
+U00684,corporativa,Zaragoza,28,Otro,escritorio,avanzado,privado,en vivo,96.0,2,17,4,32.77,27,0
+U00685,universitaria,Madrid,44,M,tablet,básico,subvencionado,en vivo,98.7,2,53,0,9.06,8,0
+U00686,universitaria,Madrid,28,M,móvil,intermedio,empresa,híbrido,34.9,5,37,2,44.27,14,0
+U00687,universitaria,Valencia,47,M,tablet,intermedio,empresa,asincrónico,88.6,2,39,0,10.71,15,0
+U00688,subvencionada,Barcelona,25,Otro,móvil,básico,subvencionado,asincrónico,57.8,4,60,2,0.24,17,0
+U00689,subvencionada,Zaragoza,59,F,tablet,intermedio,subvencionado,asincrónico,80.1,4,74,2,52.82,18,0
+U00690,universitaria,Madrid,36,M,escritorio,intermedio,subvencionado,asincrónico,68.6,7,45,3,16.72,12,0
+U00691,universitaria,Valencia,22,M,tablet,intermedio,empresa,en vivo,51.8,2,17,0,1.36,3,0
+U00692,subvencionada,Sevilla,33,F,móvil,básico,gratuito,híbrido,99.4,3,38,3,9.77,19,0
+U00693,corporativa,Madrid,47,M,escritorio,avanzado,privado,híbrido,100.0,3,65,0,5.84,2,0
+U00694,universitaria,Barcelona,55,F,escritorio,básico,privado,en vivo,69.3,3,7,2,12.7,10,0
+U00695,corporativa,Sevilla,26,F,tablet,avanzado,privado,asincrónico,44.4,2,88,4,5.7,19,0
+U00696,corporativa,Bilbao,53,F,escritorio,avanzado,privado,en vivo,70.4,3,61,4,6.67,16,0
+U00697,universitaria,Madrid,34,F,tablet,intermedio,gratuito,híbrido,72.0,2,51,1,33.58,27,0
+U00698,subvencionada,Bilbao,31,M,móvil,avanzado,privado,híbrido,0.3,2,94,0,73.23,12,0
+U00699,corporativa,Madrid,32,M,tablet,básico,privado,asincrónico,73.9,3,23,2,6.61,23,0
+U00700,universitaria,Sevilla,29,M,móvil,avanzado,privado,híbrido,15.7,2,74,4,43.37,21,0
+U00701,universitaria,Sevilla,38,M,móvil,básico,privado,asincrónico,82.3,4,72,0,38.94,4,0
+U00702,subvencionada,Sevilla,49,F,móvil,intermedio,empresa,en vivo,78.9,2,45,3,3.79,13,0
+U00703,subvencionada,Bilbao,21,Otro,móvil,avanzado,gratuito,en vivo,100.0,2,98,0,4.46,21,0
+U00704,universitaria,Zaragoza,40,F,tablet,avanzado,subvencionado,en vivo,75.0,2,6,3,20.23,27,0
+U00705,subvencionada,Madrid,41,M,móvil,avanzado,gratuito,híbrido,72.1,5,40,3,51.49,17,0
+U00706,universitaria,Bilbao,20,F,tablet,avanzado,gratuito,en vivo,41.9,5,89,3,37.73,3,0
+U00707,corporativa,Sevilla,35,Otro,tablet,avanzado,subvencionado,híbrido,20.3,3,42,1,28.35,6,0
+U00708,subvencionada,Barcelona,23,Otro,escritorio,avanzado,gratuito,en vivo,28.3,2,45,1,8.32,27,0
+U00709,subvencionada,Barcelona,26,F,móvil,intermedio,gratuito,asincrónico,48.9,3,54,4,26.8,4,0
+U00710,subvencionada,Zaragoza,58,M,escritorio,intermedio,gratuito,en vivo,68.5,1,88,0,33.37,28,0
+U00711,corporativa,Sevilla,39,M,tablet,básico,gratuito,híbrido,47.0,3,29,0,13.33,22,0
+U00712,corporativa,Sevilla,44,Otro,escritorio,intermedio,privado,en vivo,29.7,3,37,2,27.1,15,0
+U00713,subvencionada,Valencia,57,M,escritorio,básico,gratuito,en vivo,79.7,4,59,4,33.48,14,0
+U00714,universitaria,Bilbao,49,F,tablet,intermedio,gratuito,asincrónico,29.5,2,81,4,5.7,7,0
+U00715,subvencionada,Sevilla,24,Otro,tablet,intermedio,empresa,en vivo,38.0,1,18,3,89.74,3,0
+U00716,corporativa,Madrid,50,M,escritorio,intermedio,empresa,en vivo,57.1,2,84,3,17.01,16,0
+U00717,corporativa,Madrid,50,Otro,tablet,básico,empresa,híbrido,69.0,3,19,3,4.45,2,0
+U00718,subvencionada,Zaragoza,50,M,móvil,intermedio,gratuito,asincrónico,88.3,3,9,3,56.83,17,0
+U00719,corporativa,Barcelona,44,M,tablet,intermedio,gratuito,en vivo,71.9,3,68,3,16.23,1,0
+U00720,corporativa,Valencia,44,Otro,escritorio,básico,gratuito,en vivo,69.8,3,59,1,6.41,16,0
+U00721,subvencionada,Valencia,39,F,escritorio,avanzado,empresa,híbrido,70.3,6,79,0,9.46,18,0
+U00722,corporativa,Sevilla,55,Otro,móvil,intermedio,gratuito,asincrónico,74.1,3,13,0,6.37,24,0
+U00723,corporativa,Bilbao,41,F,tablet,intermedio,gratuito,híbrido,54.6,3,20,0,49.24,3,0
+U00724,universitaria,Barcelona,42,Otro,móvil,básico,empresa,asincrónico,49.0,3,54,3,45.53,24,0
+U00725,subvencionada,Zaragoza,34,F,móvil,intermedio,gratuito,en vivo,15.4,0,74,3,16.22,26,0
+U00726,universitaria,Madrid,57,Otro,escritorio,intermedio,subvencionado,asincrónico,76.2,4,71,2,0.73,11,0
+U00727,universitaria,Bilbao,52,M,móvil,básico,privado,asincrónico,36.2,0,71,0,0.55,14,0
+U00728,subvencionada,Bilbao,30,M,móvil,intermedio,subvencionado,en vivo,92.4,4,33,1,21.06,2,0
+U00729,universitaria,Zaragoza,45,F,tablet,básico,gratuito,híbrido,67.1,2,39,2,10.47,7,0
+U00730,universitaria,Bilbao,57,M,tablet,avanzado,gratuito,en vivo,53.0,4,45,2,10.8,22,0
+U00731,corporativa,Barcelona,50,M,escritorio,básico,privado,en vivo,85.6,2,12,2,10.82,24,0
+U00732,subvencionada,Bilbao,42,F,tablet,avanzado,empresa,híbrido,20.8,4,57,0,26.48,17,0
+U00733,universitaria,Bilbao,59,M,móvil,intermedio,gratuito,en vivo,42.0,2,78,4,4.03,27,0
+U00734,corporativa,Madrid,55,Otro,tablet,avanzado,subvencionado,asincrónico,26.7,0,5,3,16.13,1,0
+U00735,universitaria,Barcelona,58,M,escritorio,avanzado,subvencionado,en vivo,27.8,4,86,0,2.85,7,0
+U00736,corporativa,Bilbao,35,M,tablet,básico,gratuito,asincrónico,75.4,1,26,2,5.77,14,0
+U00737,universitaria,Zaragoza,22,M,escritorio,básico,privado,híbrido,82.1,2,93,0,17.83,15,0
+U00738,universitaria,Bilbao,28,Otro,tablet,básico,gratuito,asincrónico,90.7,4,39,4,0.9,24,0
+U00739,universitaria,Valencia,38,F,escritorio,intermedio,empresa,en vivo,66.7,4,12,0,27.52,11,0
+U00740,subvencionada,Zaragoza,34,M,escritorio,avanzado,gratuito,híbrido,40.1,3,88,4,49.61,27,0
+U00741,subvencionada,Madrid,34,F,tablet,intermedio,gratuito,híbrido,52.5,7,11,4,6.7,27,0
+U00742,corporativa,Valencia,40,F,tablet,básico,privado,en vivo,21.3,3,84,2,10.53,11,0
+U00743,subvencionada,Barcelona,52,Otro,móvil,avanzado,privado,asincrónico,71.7,1,37,2,0.73,28,0
+U00744,universitaria,Bilbao,36,Otro,escritorio,avanzado,subvencionado,híbrido,74.2,3,21,1,42.48,27,0
+U00745,corporativa,Bilbao,22,Otro,escritorio,avanzado,empresa,híbrido,83.0,0,22,2,38.02,13,0
+U00746,universitaria,Barcelona,32,M,tablet,intermedio,privado,asincrónico,84.5,1,24,3,16.06,8,0
+U00747,subvencionada,Valencia,43,F,escritorio,avanzado,subvencionado,en vivo,65.1,2,89,0,25.92,3,0
+U00748,subvencionada,Bilbao,49,Otro,móvil,básico,subvencionado,híbrido,60.2,4,18,4,4.11,22,0
+U00749,subvencionada,Sevilla,41,M,móvil,básico,subvencionado,en vivo,100.0,3,73,1,3.89,23,0
+U00750,corporativa,Sevilla,29,M,tablet,intermedio,privado,en vivo,13.2,4,14,0,24.37,6,0
+U00751,subvencionada,Bilbao,32,Otro,tablet,avanzado,privado,en vivo,67.7,4,41,4,10.52,2,0
+U00752,universitaria,Sevilla,18,M,escritorio,básico,empresa,híbrido,31.4,0,64,3,0.93,11,0
+U00753,corporativa,Madrid,22,M,móvil,avanzado,empresa,híbrido,64.6,3,14,1,8.01,15,0
+U00754,universitaria,Sevilla,32,M,escritorio,básico,privado,en vivo,60.3,1,70,1,17.77,29,0
+U00755,corporativa,Sevilla,52,M,escritorio,avanzado,gratuito,en vivo,80.6,5,65,2,21.19,9,0
+U00756,universitaria,Bilbao,38,F,móvil,avanzado,subvencionado,asincrónico,45.9,5,64,1,23.93,25,0
+U00757,corporativa,Barcelona,57,F,tablet,avanzado,subvencionado,en vivo,0.0,4,97,0,43.86,29,0
+U00758,subvencionada,Barcelona,50,Otro,tablet,básico,gratuito,en vivo,88.4,1,60,0,22.85,2,0
+U00759,universitaria,Bilbao,56,M,tablet,intermedio,gratuito,híbrido,59.9,2,56,0,6.68,27,0
+U00760,corporativa,Madrid,57,F,escritorio,intermedio,empresa,en vivo,84.6,1,60,4,40.5,27,0
+U00761,subvencionada,Valencia,34,F,escritorio,avanzado,gratuito,asincrónico,80.6,4,13,2,5.9,4,0
+U00762,corporativa,Madrid,25,M,escritorio,intermedio,privado,en vivo,80.3,6,69,1,3.34,15,0
+U00763,subvencionada,Valencia,35,F,escritorio,intermedio,empresa,híbrido,56.6,3,87,1,20.5,6,0
+U00764,subvencionada,Valencia,58,F,escritorio,intermedio,gratuito,en vivo,75.1,1,90,4,47.51,23,0
+U00765,corporativa,Sevilla,41,F,escritorio,básico,privado,híbrido,57.3,1,87,3,16.32,1,0
+U00766,subvencionada,Zaragoza,27,F,tablet,intermedio,subvencionado,en vivo,51.2,5,62,3,0.37,23,0
+U00767,universitaria,Sevilla,57,Otro,escritorio,básico,privado,en vivo,61.1,2,57,1,15.86,1,0
+U00768,universitaria,Madrid,26,M,tablet,básico,privado,asincrónico,55.4,4,76,3,10.82,12,0
+U00769,subvencionada,Bilbao,19,F,tablet,avanzado,subvencionado,híbrido,35.7,4,22,3,3.32,29,0
+U00770,corporativa,Zaragoza,28,F,escritorio,intermedio,privado,híbrido,60.1,4,34,0,3.45,2,0
+U00771,corporativa,Sevilla,41,Otro,móvil,avanzado,privado,en vivo,19.1,3,42,2,11.95,21,0
+U00772,corporativa,Valencia,48,Otro,tablet,básico,privado,híbrido,52.7,3,29,3,4.87,26,0
+U00773,corporativa,Madrid,48,Otro,tablet,intermedio,subvencionado,híbrido,93.4,1,86,1,95.77,21,0
+U00774,subvencionada,Barcelona,24,M,escritorio,básico,gratuito,asincrónico,6.1,3,93,0,38.53,27,0
+U00775,subvencionada,Zaragoza,52,Otro,móvil,avanzado,subvencionado,en vivo,61.5,6,78,1,3.73,28,0
+U00776,universitaria,Valencia,50,M,escritorio,básico,empresa,en vivo,44.9,1,10,0,55.02,15,0
+U00777,subvencionada,Valencia,21,M,escritorio,avanzado,privado,asincrónico,32.2,3,40,2,14.5,9,0
+U00778,corporativa,Bilbao,21,F,escritorio,avanzado,subvencionado,híbrido,36.9,4,30,3,51.6,3,0
+U00779,subvencionada,Zaragoza,58,F,escritorio,básico,subvencionado,híbrido,84.3,3,77,1,20.7,22,0
+U00780,universitaria,Zaragoza,52,M,escritorio,intermedio,gratuito,asincrónico,72.9,3,25,3,7.44,5,0
+U00781,subvencionada,Madrid,24,Otro,móvil,básico,gratuito,en vivo,77.2,5,32,0,27.69,28,0
+U00782,universitaria,Valencia,34,M,móvil,avanzado,empresa,híbrido,75.7,1,98,0,29.95,23,0
+U00783,subvencionada,Valencia,32,M,tablet,avanzado,privado,en vivo,78.5,4,52,2,28.27,7,0
+U00784,corporativa,Barcelona,21,M,tablet,intermedio,privado,en vivo,49.2,1,16,1,22.17,6,0
+U00785,subvencionada,Sevilla,42,F,tablet,avanzado,gratuito,híbrido,100.0,3,81,0,0.13,3,0
+U00786,corporativa,Bilbao,45,F,móvil,básico,subvencionado,en vivo,24.3,4,94,3,60.99,5,0
+U00787,corporativa,Sevilla,58,F,tablet,intermedio,empresa,en vivo,15.4,4,23,4,19.1,8,0
+U00788,corporativa,Barcelona,24,M,tablet,avanzado,subvencionado,asincrónico,79.2,0,11,2,21.63,8,0
+U00789,universitaria,Sevilla,47,Otro,tablet,básico,gratuito,híbrido,79.6,3,76,4,1.33,3,0
+U00790,universitaria,Zaragoza,52,F,tablet,intermedio,empresa,asincrónico,64.0,3,75,2,47.33,6,0
+U00791,subvencionada,Bilbao,31,Otro,tablet,avanzado,subvencionado,híbrido,65.1,3,55,2,29.96,19,0
+U00792,corporativa,Bilbao,38,Otro,escritorio,básico,gratuito,asincrónico,59.8,4,15,1,7.33,21,0
+U00793,universitaria,Zaragoza,49,Otro,tablet,intermedio,privado,en vivo,25.8,2,94,0,20.38,9,0
+U00794,corporativa,Valencia,22,Otro,tablet,avanzado,gratuito,híbrido,36.7,1,51,2,20.49,1,0
+U00795,universitaria,Valencia,49,Otro,móvil,intermedio,empresa,híbrido,50.8,1,55,1,43.64,19,0
+U00796,universitaria,Zaragoza,31,F,móvil,avanzado,subvencionado,híbrido,49.8,2,20,1,72.88,21,0
+U00797,corporativa,Zaragoza,52,F,tablet,avanzado,privado,híbrido,57.4,1,90,2,31.75,23,0
+U00798,corporativa,Madrid,35,Otro,escritorio,avanzado,privado,asincrónico,62.6,3,96,2,5.01,11,0
+U00799,corporativa,Madrid,56,F,móvil,intermedio,gratuito,asincrónico,0.0,3,91,4,54.42,25,0
+U00800,subvencionada,Sevilla,29,Otro,escritorio,intermedio,gratuito,en vivo,100.0,2,44,2,54.43,26,0
+U00801,corporativa,Sevilla,26,F,tablet,avanzado,gratuito,en vivo,61.9,6,27,4,2.01,27,0
+U00802,universitaria,Bilbao,21,F,tablet,avanzado,empresa,en vivo,71.4,1,59,1,36.76,25,0
+U00803,corporativa,Bilbao,40,F,escritorio,avanzado,privado,híbrido,77.7,3,35,3,32.23,2,0
+U00804,corporativa,Bilbao,57,M,tablet,básico,subvencionado,híbrido,33.3,5,49,1,20.86,7,0
+U00805,universitaria,Sevilla,47,F,móvil,intermedio,gratuito,en vivo,87.6,1,19,1,15.89,10,0
+U00806,subvencionada,Madrid,24,F,escritorio,avanzado,subvencionado,asincrónico,0.0,1,15,3,11.07,14,0
+U00807,universitaria,Valencia,24,Otro,escritorio,intermedio,gratuito,en vivo,53.9,1,43,3,38.11,18,0
+U00808,subvencionada,Valencia,58,F,escritorio,básico,subvencionado,híbrido,68.6,4,69,3,4.36,17,0
+U00809,universitaria,Valencia,50,M,tablet,intermedio,privado,híbrido,70.5,2,72,3,22.24,2,0
+U00810,universitaria,Sevilla,40,Otro,tablet,básico,subvencionado,híbrido,98.4,0,61,4,50.65,10,0
+U00811,universitaria,Barcelona,41,Otro,móvil,avanzado,gratuito,en vivo,91.8,4,68,3,44.67,20,0
+U00812,universitaria,Madrid,21,Otro,tablet,básico,gratuito,en vivo,24.9,4,76,3,1.73,16,0
+U00813,universitaria,Madrid,57,M,móvil,avanzado,empresa,híbrido,87.2,3,40,2,52.7,1,0
+U00814,corporativa,Bilbao,33,M,móvil,intermedio,privado,híbrido,95.2,3,64,4,40.87,22,0
+U00815,corporativa,Zaragoza,38,F,escritorio,avanzado,gratuito,asincrónico,78.3,1,79,1,28.98,21,0
+U00816,subvencionada,Barcelona,50,Otro,móvil,básico,empresa,asincrónico,59.5,2,17,4,28.48,3,0
+U00817,subvencionada,Zaragoza,34,Otro,móvil,básico,gratuito,en vivo,48.2,4,74,1,12.62,9,0
+U00818,corporativa,Zaragoza,33,Otro,escritorio,básico,subvencionado,híbrido,63.3,3,44,1,41.77,24,0
+U00819,corporativa,Barcelona,58,M,móvil,básico,gratuito,en vivo,100.0,6,27,0,86.13,11,0
+U00820,universitaria,Zaragoza,43,M,tablet,intermedio,privado,híbrido,18.5,5,69,1,1.45,17,0
+U00821,corporativa,Sevilla,50,Otro,móvil,intermedio,subvencionado,híbrido,71.2,2,12,0,73.52,23,0
+U00822,subvencionada,Zaragoza,54,M,escritorio,básico,gratuito,en vivo,18.7,6,26,2,91.85,27,0
+U00823,universitaria,Zaragoza,23,M,escritorio,avanzado,gratuito,híbrido,53.1,2,94,4,12.09,15,0
+U00824,corporativa,Madrid,42,Otro,tablet,intermedio,empresa,asincrónico,75.2,3,75,3,34.77,7,0
+U00825,universitaria,Zaragoza,47,F,escritorio,básico,gratuito,asincrónico,46.4,2,72,0,48.66,4,0
+U00826,subvencionada,Barcelona,24,M,móvil,básico,gratuito,en vivo,77.4,4,44,3,0.58,3,0
+U00827,corporativa,Madrid,32,M,tablet,básico,subvencionado,híbrido,48.3,1,98,2,10.14,13,0
+U00828,subvencionada,Barcelona,35,Otro,tablet,avanzado,privado,asincrónico,24.4,4,61,0,95.97,24,0
+U00829,universitaria,Valencia,49,F,tablet,intermedio,gratuito,híbrido,73.9,9,75,0,27.97,4,0
+U00830,corporativa,Barcelona,54,F,móvil,intermedio,subvencionado,asincrónico,89.2,2,10,3,14.59,6,0
+U00831,subvencionada,Barcelona,20,M,escritorio,básico,privado,híbrido,54.6,2,13,3,8.4,7,0
+U00832,corporativa,Bilbao,23,M,tablet,avanzado,empresa,asincrónico,98.4,2,7,4,4.58,27,0
+U00833,corporativa,Sevilla,21,Otro,móvil,básico,empresa,en vivo,61.5,2,89,0,32.86,25,0
+U00834,subvencionada,Zaragoza,23,F,tablet,avanzado,empresa,híbrido,85.1,4,65,2,31.67,8,0
+U00835,universitaria,Barcelona,49,Otro,móvil,intermedio,empresa,asincrónico,69.7,3,85,3,1.97,19,0
+U00836,subvencionada,Valencia,20,M,escritorio,intermedio,gratuito,híbrido,60.3,3,32,3,10.61,25,0
+U00837,universitaria,Barcelona,49,Otro,móvil,básico,subvencionado,híbrido,55.1,1,58,4,0.94,20,0
+U00838,universitaria,Barcelona,27,Otro,tablet,básico,subvencionado,en vivo,14.0,3,65,3,4.22,20,0
+U00839,subvencionada,Madrid,29,F,escritorio,avanzado,privado,en vivo,79.9,3,79,1,12.16,7,0
+U00840,universitaria,Zaragoza,52,Otro,tablet,intermedio,empresa,híbrido,44.8,3,16,4,12.9,23,0
+U00841,corporativa,Madrid,48,M,tablet,avanzado,gratuito,híbrido,49.4,3,24,2,31.28,13,0
+U00842,corporativa,Madrid,57,F,móvil,intermedio,privado,híbrido,72.4,3,80,2,18.38,7,0
+U00843,corporativa,Zaragoza,50,M,escritorio,básico,gratuito,asincrónico,83.2,3,22,2,11.96,6,0
+U00844,subvencionada,Zaragoza,44,M,móvil,intermedio,empresa,asincrónico,100.0,2,31,0,18.51,26,0
+U00845,universitaria,Valencia,44,M,tablet,básico,gratuito,híbrido,21.3,2,99,1,14.16,8,0
+U00846,corporativa,Barcelona,51,Otro,escritorio,básico,gratuito,híbrido,42.9,4,42,4,36.0,24,0
+U00847,subvencionada,Sevilla,38,M,móvil,intermedio,privado,asincrónico,100.0,2,20,3,9.55,15,0
+U00848,subvencionada,Sevilla,49,Otro,escritorio,intermedio,privado,asincrónico,54.0,1,80,0,83.95,17,0
+U00849,corporativa,Madrid,21,F,tablet,intermedio,privado,híbrido,55.0,1,72,1,38.66,7,0
+U00850,corporativa,Valencia,54,F,móvil,avanzado,empresa,asincrónico,77.6,2,85,0,17.2,26,0
+U00851,subvencionada,Barcelona,50,Otro,escritorio,intermedio,empresa,en vivo,98.1,2,68,1,6.21,3,0
+U00852,universitaria,Sevilla,54,M,tablet,intermedio,privado,híbrido,74.7,4,24,2,9.02,9,0
+U00853,subvencionada,Barcelona,20,F,escritorio,básico,empresa,híbrido,41.0,3,57,2,9.04,25,0
+U00854,corporativa,Bilbao,40,F,escritorio,intermedio,subvencionado,híbrido,64.0,1,45,2,3.63,16,0
+U00855,universitaria,Barcelona,23,F,tablet,avanzado,privado,híbrido,60.7,2,93,3,28.91,7,0
+U00856,corporativa,Zaragoza,26,M,móvil,avanzado,subvencionado,en vivo,99.9,3,93,3,2.56,5,0
+U00857,corporativa,Zaragoza,20,M,tablet,intermedio,gratuito,híbrido,73.0,0,78,1,35.99,10,0
+U00858,universitaria,Barcelona,28,M,tablet,básico,empresa,en vivo,32.5,6,96,1,42.6,7,0
+U00859,subvencionada,Zaragoza,43,F,móvil,intermedio,gratuito,híbrido,63.6,2,60,0,56.27,11,0
+U00860,corporativa,Zaragoza,55,Otro,escritorio,intermedio,empresa,asincrónico,73.8,3,78,3,25.96,14,0
+U00861,corporativa,Sevilla,42,M,tablet,básico,empresa,en vivo,17.2,6,62,2,45.2,23,0
+U00862,universitaria,Zaragoza,21,F,tablet,intermedio,gratuito,asincrónico,41.8,8,71,1,6.45,12,0
+U00863,universitaria,Bilbao,45,M,tablet,básico,privado,en vivo,81.0,3,41,1,36.93,14,0
+U00864,corporativa,Madrid,56,Otro,móvil,básico,empresa,híbrido,86.7,2,9,4,58.85,27,0
+U00865,corporativa,Madrid,41,F,escritorio,intermedio,subvencionado,asincrónico,52.2,3,93,0,68.58,27,0
+U00866,subvencionada,Bilbao,24,M,tablet,básico,privado,en vivo,18.1,4,22,2,94.72,7,0
+U00867,corporativa,Barcelona,28,M,móvil,intermedio,subvencionado,en vivo,52.8,0,71,4,0.4,18,0
+U00868,corporativa,Valencia,27,M,escritorio,avanzado,privado,asincrónico,55.6,4,12,1,28.43,9,0
+U00869,universitaria,Valencia,39,M,móvil,intermedio,empresa,en vivo,16.5,5,55,0,18.9,26,0
+U00870,universitaria,Zaragoza,27,Otro,móvil,básico,empresa,en vivo,32.4,1,68,4,212.77,4,0
+U00871,corporativa,Valencia,48,M,escritorio,básico,gratuito,híbrido,75.1,2,43,3,21.52,17,0
+U00872,corporativa,Valencia,47,Otro,tablet,básico,privado,en vivo,49.0,5,50,0,12.91,19,0
+U00873,universitaria,Madrid,44,F,móvil,intermedio,subvencionado,híbrido,32.8,3,40,0,15.11,7,0
+U00874,subvencionada,Bilbao,25,M,escritorio,avanzado,privado,asincrónico,47.5,5,93,4,6.84,20,0
+U00875,corporativa,Barcelona,43,F,móvil,intermedio,privado,en vivo,68.5,3,36,3,26.1,23,0
+U00876,corporativa,Sevilla,50,F,tablet,intermedio,gratuito,en vivo,71.3,3,75,4,16.0,5,0
+U00877,corporativa,Valencia,53,F,tablet,avanzado,subvencionado,asincrónico,46.6,6,19,4,2.57,25,0
+U00878,universitaria,Zaragoza,21,M,escritorio,avanzado,subvencionado,asincrónico,38.7,5,28,2,15.55,29,0
+U00879,universitaria,Bilbao,26,M,tablet,básico,subvencionado,en vivo,33.2,2,63,3,9.71,6,0
+U00880,universitaria,Zaragoza,39,F,móvil,avanzado,empresa,híbrido,48.1,3,16,3,59.05,9,0
+U00881,subvencionada,Barcelona,42,M,escritorio,avanzado,subvencionado,en vivo,98.2,0,42,1,5.39,21,0
+U00882,corporativa,Zaragoza,45,Otro,escritorio,intermedio,subvencionado,en vivo,65.6,6,9,4,9.66,11,0
+U00883,subvencionada,Sevilla,22,Otro,móvil,básico,privado,en vivo,100.0,4,35,3,28.92,6,0
+U00884,corporativa,Zaragoza,43,F,tablet,intermedio,subvencionado,asincrónico,51.2,3,78,0,10.55,25,0
+U00885,corporativa,Sevilla,38,Otro,escritorio,avanzado,empresa,en vivo,71.6,0,20,1,98.79,18,0
+U00886,universitaria,Madrid,44,M,escritorio,básico,empresa,asincrónico,88.7,2,20,4,5.45,21,0
+U00887,corporativa,Valencia,46,M,tablet,básico,privado,asincrónico,86.2,1,97,4,5.14,3,0
+U00888,corporativa,Sevilla,56,F,móvil,intermedio,empresa,híbrido,49.7,4,98,1,5.64,29,0
+U00889,corporativa,Bilbao,59,M,escritorio,básico,privado,asincrónico,57.1,4,20,3,8.26,18,0
+U00890,corporativa,Valencia,37,F,tablet,básico,subvencionado,asincrónico,36.9,1,40,3,22.01,28,0
+U00891,corporativa,Zaragoza,30,Otro,escritorio,avanzado,privado,asincrónico,30.6,3,63,2,32.06,1,0
+U00892,corporativa,Barcelona,26,F,escritorio,básico,subvencionado,en vivo,20.0,6,97,3,1.64,27,0
+U00893,corporativa,Sevilla,58,M,tablet,intermedio,privado,en vivo,50.4,2,24,2,76.55,21,0
+U00894,corporativa,Sevilla,51,F,tablet,intermedio,subvencionado,asincrónico,57.6,2,79,0,53.89,26,0
+U00895,universitaria,Madrid,25,F,móvil,intermedio,empresa,asincrónico,39.2,3,67,4,13.98,20,0
+U00896,universitaria,Bilbao,56,F,móvil,intermedio,privado,híbrido,53.7,5,35,4,59.27,3,0
+U00897,universitaria,Zaragoza,50,F,escritorio,avanzado,privado,híbrido,44.0,3,45,3,77.83,1,0
+U00898,corporativa,Madrid,48,Otro,escritorio,intermedio,subvencionado,en vivo,81.5,2,5,2,104.52,24,0
+U00899,corporativa,Madrid,22,F,escritorio,avanzado,gratuito,en vivo,36.2,4,93,2,8.77,9,0
+U00900,subvencionada,Zaragoza,45,M,escritorio,intermedio,privado,en vivo,72.9,1,5,1,12.91,18,0
+U00901,universitaria,Zaragoza,25,M,móvil,avanzado,gratuito,híbrido,76.4,7,60,1,20.28,14,0
+U00902,universitaria,Zaragoza,55,M,móvil,avanzado,privado,en vivo,66.7,1,29,4,13.07,11,0
+U00903,corporativa,Sevilla,32,Otro,tablet,avanzado,privado,en vivo,65.8,4,65,0,12.83,20,0
+U00904,subvencionada,Barcelona,40,Otro,tablet,avanzado,privado,híbrido,66.0,2,5,2,4.76,14,0
+U00905,universitaria,Zaragoza,51,M,tablet,avanzado,privado,híbrido,96.4,1,72,3,12.26,19,0
+U00906,universitaria,Sevilla,40,F,móvil,avanzado,empresa,en vivo,25.8,3,98,2,23.79,24,0
+U00907,corporativa,Zaragoza,51,M,móvil,avanzado,gratuito,asincrónico,78.7,4,51,3,7.81,28,0
+U00908,universitaria,Valencia,22,F,escritorio,intermedio,privado,en vivo,79.6,1,24,3,26.23,28,0
+U00909,corporativa,Bilbao,52,M,escritorio,básico,privado,asincrónico,83.2,3,59,3,3.21,17,0
+U00910,corporativa,Sevilla,19,F,tablet,intermedio,gratuito,en vivo,90.6,2,58,1,12.29,23,0
+U00911,subvencionada,Bilbao,43,M,escritorio,básico,privado,asincrónico,73.8,3,71,4,14.07,28,0
+U00912,universitaria,Bilbao,59,Otro,escritorio,avanzado,subvencionado,híbrido,97.7,0,86,4,21.03,14,0
+U00913,subvencionada,Bilbao,55,F,escritorio,avanzado,subvencionado,en vivo,51.8,6,32,2,45.81,22,0
+U00914,universitaria,Barcelona,26,Otro,escritorio,intermedio,empresa,en vivo,57.4,2,17,1,59.29,2,0
+U00915,subvencionada,Bilbao,45,Otro,móvil,básico,empresa,asincrónico,50.1,6,72,1,77.92,1,0
+U00916,subvencionada,Barcelona,34,Otro,móvil,avanzado,privado,en vivo,50.5,3,6,3,11.4,27,0
+U00917,corporativa,Madrid,41,M,móvil,básico,privado,híbrido,73.0,3,67,1,49.77,5,0
+U00918,universitaria,Valencia,54,Otro,escritorio,básico,gratuito,asincrónico,89.7,2,76,1,42.5,24,0
+U00919,universitaria,Valencia,37,F,escritorio,básico,privado,en vivo,54.3,3,64,3,67.36,25,0
+U00920,corporativa,Bilbao,27,M,tablet,intermedio,subvencionado,híbrido,51.9,2,77,1,14.18,17,0
+U00921,corporativa,Bilbao,42,M,móvil,básico,privado,híbrido,36.1,5,90,2,29.7,22,0
+U00922,subvencionada,Madrid,58,Otro,tablet,intermedio,subvencionado,asincrónico,80.3,0,38,4,106.14,21,0
+U00923,subvencionada,Bilbao,38,F,móvil,básico,gratuito,en vivo,98.3,2,82,2,25.52,19,0
+U00924,universitaria,Barcelona,39,Otro,móvil,avanzado,gratuito,asincrónico,54.2,4,17,2,17.43,28,0
+U00925,universitaria,Zaragoza,58,Otro,tablet,intermedio,gratuito,híbrido,72.9,2,97,1,70.53,22,0
+U00926,subvencionada,Barcelona,51,F,escritorio,intermedio,empresa,híbrido,63.4,3,7,1,15.78,17,0
+U00927,universitaria,Valencia,18,F,móvil,intermedio,gratuito,asincrónico,69.2,5,68,4,35.06,6,0
+U00928,corporativa,Bilbao,43,Otro,tablet,avanzado,gratuito,híbrido,49.5,2,48,4,9.85,18,0
+U00929,subvencionada,Sevilla,26,Otro,tablet,básico,subvencionado,asincrónico,61.3,2,70,4,14.86,7,0
+U00930,universitaria,Bilbao,27,F,tablet,avanzado,subvencionado,híbrido,95.8,4,40,1,8.29,4,0
+U00931,subvencionada,Valencia,54,M,móvil,avanzado,empresa,en vivo,37.5,4,30,3,23.35,8,0
+U00932,corporativa,Zaragoza,28,M,tablet,básico,privado,asincrónico,70.3,3,54,2,17.68,16,0
+U00933,subvencionada,Valencia,49,M,tablet,intermedio,subvencionado,híbrido,86.1,4,50,4,8.88,17,0
+U00934,subvencionada,Bilbao,21,Otro,tablet,básico,gratuito,híbrido,17.1,6,7,3,23.24,21,0
+U00935,subvencionada,Sevilla,55,Otro,tablet,intermedio,privado,asincrónico,86.0,3,96,2,15.05,3,0
+U00936,corporativa,Valencia,29,Otro,tablet,intermedio,privado,híbrido,57.5,4,91,2,5.89,16,0
+U00937,corporativa,Barcelona,20,M,tablet,intermedio,gratuito,en vivo,36.5,4,92,4,25.47,14,0
+U00938,subvencionada,Valencia,41,M,tablet,avanzado,subvencionado,asincrónico,45.2,3,66,3,32.82,5,0
+U00939,subvencionada,Zaragoza,26,Otro,escritorio,intermedio,subvencionado,asincrónico,100.0,4,10,2,18.42,11,0
+U00940,subvencionada,Madrid,46,Otro,tablet,avanzado,gratuito,en vivo,85.1,6,16,0,34.77,23,0
+U00941,universitaria,Zaragoza,50,M,móvil,básico,empresa,híbrido,68.7,6,51,3,42.31,26,0
+U00942,universitaria,Zaragoza,34,Otro,tablet,básico,empresa,en vivo,81.5,2,37,1,45.1,3,0
+U00943,subvencionada,Sevilla,58,M,tablet,básico,gratuito,en vivo,71.0,5,52,2,4.23,17,0
+U00944,corporativa,Madrid,51,F,escritorio,intermedio,subvencionado,híbrido,49.0,4,82,4,14.78,24,0
+U00945,universitaria,Bilbao,54,M,escritorio,intermedio,empresa,en vivo,81.4,3,87,0,22.88,7,0
+U00946,corporativa,Barcelona,54,M,escritorio,avanzado,privado,en vivo,54.9,3,97,0,58.06,21,0
+U00947,subvencionada,Sevilla,55,M,escritorio,básico,privado,en vivo,73.2,3,44,2,32.25,25,0
+U00948,subvencionada,Zaragoza,37,F,tablet,avanzado,privado,asincrónico,61.5,3,15,0,21.76,6,0
+U00949,subvencionada,Bilbao,23,F,escritorio,avanzado,privado,asincrónico,42.7,0,46,0,39.82,11,0
+U00950,corporativa,Valencia,59,M,móvil,intermedio,gratuito,en vivo,34.7,6,98,3,5.35,28,0
+U00951,universitaria,Madrid,19,M,tablet,básico,privado,en vivo,60.1,3,71,1,14.15,3,0
+U00952,universitaria,Valencia,49,M,móvil,básico,gratuito,en vivo,46.1,2,80,0,50.21,19,0
+U00953,corporativa,Barcelona,35,F,escritorio,intermedio,subvencionado,asincrónico,66.9,2,73,4,18.12,29,0
+U00954,universitaria,Bilbao,56,Otro,escritorio,intermedio,empresa,híbrido,98.0,4,22,0,1.25,13,0
+U00955,corporativa,Madrid,31,Otro,tablet,básico,gratuito,híbrido,58.6,3,91,0,5.93,12,0
+U00956,subvencionada,Bilbao,51,F,escritorio,intermedio,empresa,en vivo,66.0,4,81,0,55.48,19,0
+U00957,subvencionada,Madrid,23,M,móvil,avanzado,gratuito,asincrónico,100.0,5,58,4,9.18,8,0
+U00958,universitaria,Sevilla,55,F,escritorio,básico,empresa,en vivo,17.4,4,19,0,8.56,28,0
+U00959,subvencionada,Bilbao,59,Otro,escritorio,avanzado,privado,híbrido,88.4,2,63,1,33.0,8,0
+U00960,universitaria,Zaragoza,39,M,escritorio,avanzado,subvencionado,híbrido,64.9,2,65,4,3.54,9,0
+U00961,subvencionada,Bilbao,59,Otro,móvil,avanzado,empresa,en vivo,60.4,1,57,1,49.34,27,0
+U00962,corporativa,Sevilla,51,F,tablet,avanzado,gratuito,asincrónico,21.2,2,77,3,97.72,13,0
+U00963,corporativa,Bilbao,45,F,móvil,intermedio,gratuito,híbrido,70.4,2,20,2,12.15,2,0
+U00964,universitaria,Zaragoza,30,Otro,móvil,intermedio,privado,asincrónico,62.1,4,28,0,1.42,14,0
+U00965,corporativa,Barcelona,49,F,tablet,intermedio,empresa,asincrónico,53.2,4,98,2,54.86,24,0
+U00966,corporativa,Sevilla,19,Otro,móvil,intermedio,privado,en vivo,83.7,3,56,4,17.48,4,0
+U00967,corporativa,Zaragoza,49,M,escritorio,intermedio,privado,en vivo,77.8,5,5,2,20.53,22,0
+U00968,universitaria,Bilbao,49,Otro,escritorio,básico,privado,asincrónico,57.6,2,78,3,0.09,5,0
+U00969,corporativa,Zaragoza,49,F,móvil,básico,gratuito,híbrido,93.2,4,91,3,6.31,9,0
+U00970,subvencionada,Madrid,36,Otro,móvil,intermedio,empresa,híbrido,36.3,2,95,0,57.41,8,0
+U00971,corporativa,Valencia,28,Otro,tablet,básico,gratuito,asincrónico,44.3,1,84,3,9.27,4,0
+U00972,subvencionada,Valencia,26,F,tablet,intermedio,gratuito,asincrónico,59.1,1,43,0,117.46,1,0
+U00973,universitaria,Zaragoza,39,F,tablet,básico,empresa,híbrido,100.0,3,23,2,83.03,24,0
+U00974,subvencionada,Zaragoza,37,Otro,escritorio,avanzado,subvencionado,asincrónico,59.3,4,47,3,68.7,29,0
+U00975,corporativa,Madrid,47,F,tablet,avanzado,subvencionado,en vivo,55.5,4,59,1,39.22,16,0
+U00976,subvencionada,Madrid,59,F,tablet,avanzado,empresa,asincrónico,60.3,1,27,4,15.56,16,0
+U00977,corporativa,Sevilla,26,M,escritorio,intermedio,empresa,asincrónico,72.3,1,33,3,53.78,19,0
+U00978,subvencionada,Zaragoza,27,Otro,móvil,intermedio,empresa,híbrido,33.5,2,26,2,19.18,14,0
+U00979,subvencionada,Valencia,29,F,tablet,intermedio,subvencionado,híbrido,69.0,7,31,0,21.48,7,0
+U00980,universitaria,Madrid,23,F,escritorio,intermedio,empresa,en vivo,59.2,3,40,3,37.29,20,0
+U00981,subvencionada,Barcelona,24,M,tablet,avanzado,privado,asincrónico,89.0,5,63,0,35.5,22,0
+U00982,subvencionada,Bilbao,59,Otro,móvil,intermedio,privado,híbrido,57.9,4,56,1,32.06,6,0
+U00983,subvencionada,Zaragoza,36,F,móvil,básico,subvencionado,asincrónico,79.4,2,62,1,4.54,29,0
+U00984,subvencionada,Valencia,49,F,tablet,avanzado,empresa,en vivo,54.6,1,37,0,3.27,21,0
+U00985,corporativa,Madrid,34,M,móvil,intermedio,subvencionado,híbrido,20.0,2,72,1,7.33,10,0
+U00986,subvencionada,Valencia,34,Otro,escritorio,avanzado,gratuito,en vivo,100.0,1,66,0,17.79,4,0
+U00987,corporativa,Valencia,40,Otro,escritorio,intermedio,empresa,asincrónico,50.6,1,92,3,5.12,22,0
+U00988,subvencionada,Bilbao,33,Otro,tablet,intermedio,gratuito,asincrónico,28.7,2,89,3,90.96,5,0
+U00989,universitaria,Zaragoza,59,M,móvil,básico,privado,en vivo,32.9,0,17,0,47.07,7,0
+U00990,corporativa,Bilbao,54,M,tablet,avanzado,subvencionado,híbrido,62.5,5,9,2,3.15,26,0
+U00991,universitaria,Bilbao,25,Otro,tablet,avanzado,empresa,híbrido,72.8,3,14,4,18.81,7,0
+U00992,subvencionada,Barcelona,46,Otro,escritorio,avanzado,privado,asincrónico,46.5,3,40,1,51.35,13,0
+U00993,universitaria,Valencia,33,Otro,tablet,básico,gratuito,híbrido,44.3,4,65,4,38.46,29,0
+U00994,universitaria,Sevilla,53,F,tablet,avanzado,subvencionado,híbrido,66.6,4,87,1,43.52,10,0
+U00995,subvencionada,Madrid,26,Otro,móvil,básico,privado,en vivo,68.5,3,52,2,95.08,11,0
+U00996,subvencionada,Zaragoza,18,F,móvil,básico,privado,híbrido,60.2,4,95,2,9.86,13,0
+U00997,subvencionada,Valencia,50,Otro,tablet,intermedio,privado,híbrido,51.2,0,47,3,26.79,24,0
+U00998,corporativa,Zaragoza,23,F,escritorio,avanzado,gratuito,en vivo,70.2,4,14,3,2.79,13,0
+U00999,subvencionada,Madrid,18,Otro,tablet,intermedio,empresa,asincrónico,57.6,3,21,3,63.3,6,0
+U01000,universitaria,Bilbao,47,F,tablet,intermedio,privado,asincrónico,5.4,1,27,2,5.98,1,0
+U01001,subvencionada,Sevilla,38,F,escritorio,avanzado,subvencionado,en vivo,97.4,0,46,2,20.77,6,0
+U01002,universitaria,Zaragoza,19,F,móvil,avanzado,gratuito,híbrido,17.1,3,12,1,5.75,15,0
+U01003,universitaria,Zaragoza,46,Otro,tablet,intermedio,empresa,en vivo,64.9,2,27,0,17.57,9,0
+U01004,universitaria,Sevilla,19,M,tablet,avanzado,empresa,híbrido,97.4,1,80,3,44.66,8,0
+U01005,subvencionada,Sevilla,34,Otro,móvil,básico,subvencionado,híbrido,100.0,6,73,1,28.44,2,0
+U01006,subvencionada,Zaragoza,32,Otro,tablet,básico,empresa,híbrido,96.2,1,44,3,12.2,5,0
+U01007,corporativa,Sevilla,24,Otro,móvil,avanzado,gratuito,en vivo,23.9,3,11,1,3.22,7,0
+U01008,universitaria,Zaragoza,21,M,móvil,intermedio,empresa,en vivo,100.0,4,40,1,3.36,8,0
+U01009,subvencionada,Zaragoza,22,M,móvil,básico,gratuito,en vivo,79.7,4,64,1,0.71,14,0
+U01010,corporativa,Zaragoza,41,F,escritorio,básico,subvencionado,híbrido,54.5,6,78,1,54.8,16,0
+U01011,corporativa,Zaragoza,33,Otro,tablet,intermedio,empresa,asincrónico,90.0,1,69,4,6.45,15,0
+U01012,universitaria,Madrid,26,F,escritorio,intermedio,subvencionado,asincrónico,39.5,5,24,4,66.08,23,0
+U01013,corporativa,Sevilla,26,M,tablet,avanzado,gratuito,híbrido,69.5,2,91,0,7.26,28,0
+U01014,corporativa,Zaragoza,58,F,móvil,avanzado,subvencionado,en vivo,81.1,3,61,3,94.46,16,0
+U01015,corporativa,Zaragoza,24,M,tablet,avanzado,empresa,en vivo,57.9,3,42,2,28.0,12,0
+U01016,corporativa,Sevilla,30,M,móvil,intermedio,empresa,híbrido,66.2,3,42,4,8.51,13,0
+U01017,subvencionada,Barcelona,34,M,móvil,básico,privado,asincrónico,72.8,2,66,0,11.3,16,0
+U01018,universitaria,Madrid,47,F,escritorio,básico,privado,híbrido,64.7,2,77,0,13.02,7,0
+U01019,subvencionada,Zaragoza,54,Otro,móvil,avanzado,privado,asincrónico,87.6,1,92,3,19.89,27,0
+U01020,universitaria,Sevilla,51,M,móvil,avanzado,gratuito,híbrido,76.7,2,88,4,10.25,29,0
+U01021,universitaria,Madrid,33,F,tablet,básico,empresa,híbrido,36.5,3,81,2,47.38,19,0
+U01022,universitaria,Madrid,35,Otro,escritorio,avanzado,gratuito,en vivo,34.7,5,86,4,4.25,23,0
+U01023,universitaria,Bilbao,26,Otro,tablet,intermedio,gratuito,híbrido,23.8,6,15,3,9.06,8,0
+U01024,subvencionada,Sevilla,56,M,tablet,avanzado,empresa,en vivo,80.8,7,46,1,8.05,11,0
+U01025,subvencionada,Sevilla,44,Otro,escritorio,avanzado,empresa,en vivo,63.0,2,6,2,23.71,3,0
+U01026,subvencionada,Valencia,45,F,móvil,básico,privado,en vivo,100.0,2,55,0,0.83,10,0
+U01027,universitaria,Barcelona,26,F,tablet,intermedio,gratuito,asincrónico,61.5,1,75,3,83.02,13,0
+U01028,universitaria,Barcelona,22,M,escritorio,avanzado,privado,híbrido,48.0,2,17,3,13.98,4,0
+U01029,corporativa,Barcelona,49,M,tablet,avanzado,empresa,híbrido,35.4,2,47,1,52.66,14,0
+U01030,universitaria,Sevilla,55,Otro,escritorio,básico,empresa,híbrido,77.1,5,50,4,18.86,4,0
+U01031,universitaria,Barcelona,41,Otro,escritorio,básico,gratuito,en vivo,44.7,5,83,4,3.07,24,0
+U01032,subvencionada,Madrid,20,F,escritorio,básico,empresa,híbrido,51.0,0,89,2,17.8,7,0
+U01033,subvencionada,Zaragoza,31,F,tablet,básico,gratuito,asincrónico,82.8,3,89,3,2.96,13,0
+U01034,universitaria,Bilbao,55,M,móvil,avanzado,gratuito,híbrido,59.4,2,66,3,1.04,20,0
+U01035,subvencionada,Sevilla,30,M,tablet,básico,empresa,híbrido,50.5,5,24,2,19.66,3,0
+U01036,corporativa,Bilbao,42,F,escritorio,avanzado,privado,híbrido,91.8,3,87,3,9.24,23,0
+U01037,corporativa,Sevilla,53,Otro,escritorio,básico,privado,en vivo,53.8,0,21,3,40.93,19,0
+U01038,universitaria,Sevilla,31,M,tablet,avanzado,privado,híbrido,35.0,1,76,1,25.75,29,0
+U01039,corporativa,Sevilla,41,M,móvil,avanzado,privado,asincrónico,39.0,3,69,0,42.28,13,0
+U01040,universitaria,Barcelona,59,F,tablet,intermedio,privado,híbrido,71.4,0,15,3,10.54,23,0
+U01041,universitaria,Zaragoza,52,Otro,tablet,avanzado,gratuito,asincrónico,58.6,2,50,2,8.73,7,0
+U01042,subvencionada,Madrid,20,Otro,tablet,básico,privado,en vivo,52.9,1,22,2,24.25,25,0
+U01043,corporativa,Bilbao,30,M,escritorio,avanzado,empresa,híbrido,63.3,4,82,1,9.33,8,0
+U01044,corporativa,Sevilla,43,Otro,tablet,intermedio,subvencionado,asincrónico,46.4,6,94,2,21.85,25,0
+U01045,universitaria,Madrid,47,F,tablet,avanzado,empresa,en vivo,87.8,4,72,4,4.91,7,0
+U01046,subvencionada,Barcelona,37,Otro,móvil,avanzado,privado,híbrido,33.0,1,25,3,10.26,7,0
+U01047,subvencionada,Madrid,48,M,tablet,avanzado,privado,híbrido,67.2,5,49,1,37.15,5,0
+U01048,subvencionada,Sevilla,36,M,tablet,avanzado,empresa,asincrónico,31.0,3,58,0,10.35,4,0
+U01049,corporativa,Sevilla,42,Otro,móvil,intermedio,privado,en vivo,67.5,3,45,3,100.58,24,0
+U01050,corporativa,Madrid,59,M,tablet,avanzado,subvencionado,en vivo,59.9,3,16,3,50.49,18,0
+U01051,corporativa,Zaragoza,43,M,tablet,básico,privado,en vivo,57.0,4,83,1,11.83,14,0
+U01052,subvencionada,Madrid,55,Otro,tablet,básico,privado,en vivo,58.9,3,36,3,3.78,22,0
+U01053,subvencionada,Zaragoza,40,Otro,escritorio,intermedio,subvencionado,en vivo,100.0,4,18,2,23.81,25,0
+U01054,corporativa,Sevilla,28,F,escritorio,avanzado,subvencionado,asincrónico,51.8,1,46,2,86.26,15,0
+U01055,subvencionada,Sevilla,37,Otro,escritorio,intermedio,subvencionado,asincrónico,76.6,0,8,4,18.94,2,0
+U01056,subvencionada,Zaragoza,31,M,móvil,básico,empresa,en vivo,24.5,1,67,1,27.09,3,0
+U01057,subvencionada,Zaragoza,38,F,tablet,básico,privado,asincrónico,100.0,3,39,0,8.31,4,0
+U01058,corporativa,Barcelona,47,F,escritorio,básico,empresa,híbrido,84.8,3,20,2,30.57,6,0
+U01059,universitaria,Madrid,31,M,tablet,básico,subvencionado,híbrido,39.4,2,31,4,19.91,27,0
+U01060,subvencionada,Bilbao,54,F,escritorio,intermedio,gratuito,en vivo,36.5,4,52,0,28.38,1,0
+U01061,subvencionada,Barcelona,32,M,móvil,intermedio,privado,en vivo,75.5,5,32,3,13.57,4,0
+U01062,universitaria,Madrid,25,F,móvil,avanzado,subvencionado,en vivo,73.4,4,28,0,6.66,12,0
+U01063,universitaria,Barcelona,44,Otro,tablet,básico,empresa,en vivo,69.0,4,75,1,77.79,12,0
+U01064,subvencionada,Bilbao,40,Otro,móvil,avanzado,subvencionado,asincrónico,80.7,2,48,2,15.18,12,0
+U01065,corporativa,Bilbao,18,F,escritorio,avanzado,subvencionado,asincrónico,43.9,3,50,3,4.85,26,0
+U01066,subvencionada,Zaragoza,38,F,móvil,intermedio,empresa,asincrónico,85.2,6,68,3,23.0,8,0
+U01067,universitaria,Zaragoza,22,Otro,móvil,avanzado,gratuito,híbrido,69.2,0,79,4,8.28,29,0
+U01068,universitaria,Barcelona,40,M,tablet,avanzado,gratuito,en vivo,66.6,3,22,4,4.14,8,0
+U01069,corporativa,Madrid,25,F,escritorio,avanzado,gratuito,en vivo,58.4,8,12,2,11.61,12,0
+U01070,corporativa,Madrid,50,Otro,tablet,intermedio,empresa,híbrido,74.8,4,50,3,19.49,25,0
+U01071,subvencionada,Zaragoza,56,Otro,tablet,intermedio,subvencionado,asincrónico,34.8,1,81,3,39.48,10,0
+U01072,subvencionada,Valencia,24,F,tablet,básico,empresa,en vivo,47.9,5,20,3,7.67,3,0
+U01073,subvencionada,Sevilla,53,Otro,tablet,básico,empresa,en vivo,65.7,5,98,1,3.16,23,0
+U01074,subvencionada,Valencia,44,Otro,móvil,intermedio,empresa,asincrónico,85.9,5,82,4,6.35,18,0
+U01075,universitaria,Sevilla,24,Otro,móvil,avanzado,empresa,híbrido,65.5,5,39,0,49.45,23,0
+U01076,subvencionada,Zaragoza,26,M,escritorio,básico,empresa,en vivo,43.0,3,89,2,73.59,18,0
+U01077,universitaria,Barcelona,32,M,escritorio,intermedio,gratuito,en vivo,82.8,4,83,3,6.55,27,0
+U01078,subvencionada,Barcelona,49,M,escritorio,básico,subvencionado,híbrido,72.7,0,27,3,18.27,5,0
+U01079,subvencionada,Zaragoza,28,Otro,escritorio,básico,empresa,híbrido,77.1,2,93,3,54.31,2,0
+U01080,universitaria,Sevilla,47,M,tablet,básico,empresa,híbrido,35.5,4,32,4,60.42,18,0
+U01081,universitaria,Sevilla,56,F,escritorio,intermedio,gratuito,híbrido,56.3,2,83,1,2.01,25,0
+U01082,subvencionada,Zaragoza,21,M,móvil,básico,subvencionado,en vivo,68.6,1,90,0,12.99,19,0
+U01083,corporativa,Bilbao,43,Otro,móvil,avanzado,gratuito,asincrónico,81.6,2,52,0,29.31,17,0
+U01084,universitaria,Valencia,41,F,móvil,intermedio,privado,híbrido,39.2,2,82,1,21.06,2,0
+U01085,subvencionada,Sevilla,56,F,tablet,intermedio,subvencionado,en vivo,100.0,4,92,2,0.19,21,0
+U01086,corporativa,Madrid,25,M,móvil,avanzado,gratuito,híbrido,34.8,1,24,4,8.44,6,0
+U01087,corporativa,Valencia,34,F,tablet,básico,gratuito,híbrido,55.3,1,77,2,12.19,18,0
+U01088,universitaria,Madrid,56,Otro,escritorio,intermedio,empresa,en vivo,63.0,6,69,4,11.79,15,0
+U01089,subvencionada,Zaragoza,44,F,tablet,intermedio,empresa,en vivo,61.5,2,33,3,1.07,16,0
+U01090,universitaria,Zaragoza,43,F,móvil,avanzado,empresa,híbrido,71.0,5,70,0,1.58,21,0
+U01091,corporativa,Zaragoza,54,M,móvil,avanzado,subvencionado,en vivo,15.6,0,55,0,26.02,1,0
+U01092,corporativa,Zaragoza,29,Otro,escritorio,básico,privado,asincrónico,64.8,3,19,2,33.62,22,0
+U01093,corporativa,Sevilla,53,M,móvil,intermedio,privado,en vivo,56.8,0,61,2,66.67,11,0
+U01094,universitaria,Valencia,38,F,tablet,básico,subvencionado,asincrónico,69.6,1,15,3,52.71,20,0
+U01095,subvencionada,Zaragoza,44,M,tablet,intermedio,gratuito,en vivo,76.4,3,96,4,4.14,18,0
+U01096,universitaria,Sevilla,47,F,escritorio,básico,privado,en vivo,51.8,4,56,0,3.65,28,0
+U01097,corporativa,Zaragoza,33,Otro,escritorio,básico,privado,asincrónico,76.3,2,40,4,34.11,27,0
+U01098,corporativa,Bilbao,40,Otro,tablet,básico,gratuito,en vivo,80.4,4,23,3,2.27,15,0
+U01099,corporativa,Bilbao,24,F,móvil,avanzado,gratuito,asincrónico,34.5,3,39,1,37.79,14,0
+U01100,universitaria,Bilbao,29,Otro,móvil,intermedio,privado,híbrido,29.3,3,37,1,49.24,5,0
+U01101,corporativa,Madrid,51,Otro,móvil,básico,gratuito,híbrido,71.2,5,35,0,36.94,24,0
+U01102,universitaria,Valencia,27,Otro,escritorio,básico,privado,en vivo,24.0,3,26,4,43.87,2,0
+U01103,universitaria,Valencia,59,F,tablet,básico,empresa,híbrido,52.9,1,48,3,1.6,2,0
+U01104,subvencionada,Sevilla,32,M,móvil,avanzado,gratuito,en vivo,56.2,4,19,4,16.57,23,0
+U01105,corporativa,Madrid,45,Otro,móvil,básico,subvencionado,asincrónico,43.6,4,42,3,26.14,9,0
+U01106,subvencionada,Zaragoza,45,F,móvil,básico,privado,en vivo,23.4,3,32,2,11.7,9,0
+U01107,corporativa,Zaragoza,25,Otro,escritorio,básico,privado,híbrido,90.8,2,85,1,8.87,3,0
+U01108,subvencionada,Bilbao,35,F,móvil,avanzado,gratuito,en vivo,68.3,1,80,1,0.19,9,0
+U01109,universitaria,Barcelona,49,F,tablet,básico,subvencionado,asincrónico,57.4,0,93,0,3.82,26,0
+U01110,subvencionada,Madrid,47,F,tablet,básico,gratuito,híbrido,47.9,3,63,3,32.19,22,0
+U01111,subvencionada,Zaragoza,44,M,escritorio,avanzado,subvencionado,en vivo,52.3,2,96,4,115.37,29,0
+U01112,universitaria,Valencia,33,M,tablet,avanzado,subvencionado,en vivo,30.5,1,26,3,25.46,21,0
+U01113,subvencionada,Barcelona,45,F,móvil,avanzado,subvencionado,en vivo,73.4,4,88,3,26.51,26,0
+U01114,universitaria,Sevilla,51,F,móvil,avanzado,gratuito,en vivo,65.7,6,83,2,35.67,10,0
+U01115,subvencionada,Madrid,50,F,escritorio,básico,subvencionado,asincrónico,77.7,6,12,4,23.69,24,0
+U01116,corporativa,Barcelona,30,Otro,tablet,básico,gratuito,asincrónico,45.0,3,27,1,5.78,7,0
+U01117,universitaria,Sevilla,56,M,móvil,intermedio,gratuito,asincrónico,54.5,3,74,1,59.83,23,0
+U01118,universitaria,Sevilla,52,Otro,tablet,avanzado,privado,asincrónico,93.1,3,96,1,45.59,26,0
+U01119,universitaria,Valencia,51,M,tablet,básico,gratuito,en vivo,80.9,3,51,2,14.72,4,0
+U01120,subvencionada,Bilbao,41,Otro,móvil,avanzado,gratuito,asincrónico,91.0,3,81,4,2.0,4,0
+U01121,corporativa,Barcelona,22,Otro,escritorio,avanzado,empresa,asincrónico,54.7,1,30,0,0.29,15,0
+U01122,universitaria,Bilbao,50,F,móvil,avanzado,gratuito,híbrido,84.6,3,8,4,82.32,19,0
+U01123,subvencionada,Sevilla,53,Otro,móvil,avanzado,privado,híbrido,63.0,4,31,0,52.55,9,0
+U01124,corporativa,Madrid,53,F,móvil,intermedio,gratuito,híbrido,72.6,6,96,4,4.43,17,0
+U01125,subvencionada,Barcelona,26,M,escritorio,intermedio,privado,asincrónico,47.5,3,77,1,10.54,5,0
+U01126,universitaria,Bilbao,43,F,tablet,básico,empresa,asincrónico,46.2,3,59,2,1.82,14,0
+U01127,universitaria,Valencia,50,Otro,móvil,intermedio,privado,en vivo,33.3,3,93,0,24.5,3,0
+U01128,corporativa,Bilbao,20,Otro,escritorio,avanzado,privado,en vivo,45.7,3,66,4,12.1,28,0
+U01129,universitaria,Sevilla,36,M,móvil,avanzado,privado,en vivo,72.6,5,43,4,32.43,17,0
+U01130,universitaria,Valencia,22,Otro,móvil,intermedio,gratuito,asincrónico,33.7,4,10,0,50.54,23,0
+U01131,corporativa,Sevilla,19,M,tablet,básico,gratuito,híbrido,77.2,2,97,4,51.91,6,0
+U01132,corporativa,Bilbao,19,F,móvil,intermedio,privado,en vivo,10.7,3,34,2,1.62,25,0
+U01133,universitaria,Barcelona,36,M,tablet,básico,subvencionado,híbrido,44.7,3,57,1,16.88,15,0
+U01134,universitaria,Barcelona,53,M,tablet,básico,subvencionado,asincrónico,76.0,3,88,1,0.73,6,0
+U01135,subvencionada,Bilbao,18,F,móvil,intermedio,privado,híbrido,49.1,3,39,1,7.92,5,0
+U01136,universitaria,Zaragoza,56,F,escritorio,básico,empresa,en vivo,54.3,2,16,0,16.31,12,0
+U01137,corporativa,Valencia,27,Otro,escritorio,básico,empresa,asincrónico,68.5,1,61,1,10.75,17,0
+U01138,universitaria,Sevilla,39,F,escritorio,básico,gratuito,asincrónico,19.8,2,21,1,69.43,23,0
+U01139,corporativa,Bilbao,26,F,escritorio,básico,subvencionado,asincrónico,62.6,5,97,1,8.52,14,0
+U01140,subvencionada,Zaragoza,39,Otro,escritorio,intermedio,subvencionado,en vivo,38.7,0,59,2,57.46,16,0
+U01141,subvencionada,Barcelona,33,Otro,tablet,avanzado,subvencionado,asincrónico,67.3,3,82,3,9.27,28,0
+U01142,corporativa,Bilbao,38,M,escritorio,avanzado,subvencionado,híbrido,100.0,2,83,1,10.57,5,0
+U01143,corporativa,Barcelona,53,Otro,móvil,básico,privado,asincrónico,49.7,1,70,3,25.98,3,0
+U01144,corporativa,Bilbao,34,M,móvil,intermedio,gratuito,asincrónico,58.1,2,56,0,12.64,18,0
+U01145,universitaria,Sevilla,52,Otro,móvil,avanzado,subvencionado,asincrónico,87.1,3,6,4,1.76,22,0
+U01146,subvencionada,Madrid,21,Otro,móvil,básico,privado,en vivo,14.2,2,20,3,59.98,13,0
+U01147,subvencionada,Valencia,32,F,tablet,avanzado,privado,híbrido,77.3,4,92,0,37.64,25,0
+U01148,subvencionada,Zaragoza,19,M,escritorio,avanzado,privado,en vivo,67.7,7,55,0,65.7,4,0
+U01149,universitaria,Bilbao,54,M,móvil,avanzado,privado,en vivo,64.8,5,29,4,7.16,13,0
+U01150,universitaria,Sevilla,34,F,tablet,básico,gratuito,híbrido,61.4,8,87,2,22.44,11,0
+U01151,corporativa,Valencia,26,Otro,tablet,intermedio,gratuito,híbrido,35.5,6,36,2,14.45,7,0
+U01152,universitaria,Barcelona,38,Otro,tablet,básico,privado,híbrido,71.8,2,52,4,0.2,1,0
+U01153,corporativa,Valencia,34,M,escritorio,avanzado,empresa,híbrido,33.8,2,53,4,4.46,26,0
+U01154,corporativa,Bilbao,39,Otro,móvil,intermedio,privado,híbrido,53.2,1,34,3,10.95,22,0
+U01155,universitaria,Bilbao,30,M,escritorio,avanzado,empresa,híbrido,63.0,3,54,4,6.0,4,0
+U01156,subvencionada,Bilbao,31,Otro,escritorio,básico,subvencionado,en vivo,70.0,2,90,1,39.64,26,0
+U01157,universitaria,Valencia,37,Otro,móvil,básico,gratuito,asincrónico,64.1,5,52,1,3.98,25,0
+U01158,subvencionada,Valencia,39,M,escritorio,básico,empresa,híbrido,53.3,1,77,4,56.22,15,0
+U01159,subvencionada,Bilbao,30,M,escritorio,avanzado,empresa,en vivo,46.7,3,57,0,4.25,24,0
+U01160,corporativa,Madrid,38,Otro,móvil,básico,privado,híbrido,57.1,6,65,2,25.4,3,0
+U01161,corporativa,Barcelona,24,M,escritorio,avanzado,gratuito,asincrónico,54.5,1,35,2,11.58,16,0
+U01162,universitaria,Madrid,55,F,móvil,avanzado,gratuito,asincrónico,55.9,1,53,1,41.56,25,0
+U01163,universitaria,Valencia,26,Otro,móvil,avanzado,empresa,en vivo,45.6,3,19,0,5.12,22,0
+U01164,corporativa,Bilbao,29,Otro,escritorio,intermedio,subvencionado,híbrido,49.2,2,86,3,6.28,24,0
+U01165,subvencionada,Bilbao,44,Otro,escritorio,intermedio,subvencionado,asincrónico,44.6,1,60,1,22.7,11,0
+U01166,subvencionada,Valencia,24,M,móvil,intermedio,subvencionado,en vivo,83.1,3,62,4,13.49,5,0
+U01167,subvencionada,Zaragoza,42,Otro,móvil,avanzado,privado,híbrido,50.6,3,30,4,16.69,15,0
+U01168,corporativa,Valencia,29,M,tablet,intermedio,privado,asincrónico,46.2,3,74,2,6.65,7,0
+U01169,subvencionada,Sevilla,46,M,tablet,básico,subvencionado,híbrido,49.6,2,69,1,37.86,1,0
+U01170,corporativa,Valencia,52,F,tablet,intermedio,empresa,en vivo,64.0,3,96,3,40.65,3,0
+U01171,universitaria,Bilbao,47,M,móvil,intermedio,empresa,híbrido,91.9,3,59,0,74.62,20,0
+U01172,corporativa,Bilbao,46,F,escritorio,intermedio,privado,asincrónico,34.1,6,26,1,36.65,18,0
+U01173,subvencionada,Zaragoza,24,M,móvil,básico,empresa,asincrónico,67.5,5,57,1,9.66,1,0
+U01174,corporativa,Sevilla,20,F,móvil,intermedio,empresa,en vivo,74.3,6,22,1,111.82,8,0
+U01175,corporativa,Bilbao,50,Otro,tablet,avanzado,privado,híbrido,78.3,7,32,2,5.88,10,0
+U01176,universitaria,Zaragoza,30,F,tablet,básico,gratuito,híbrido,18.6,2,8,1,21.07,15,0
+U01177,universitaria,Sevilla,48,F,escritorio,avanzado,empresa,asincrónico,82.3,0,85,1,64.1,29,0
+U01178,universitaria,Bilbao,52,M,escritorio,básico,subvencionado,híbrido,99.1,3,96,1,88.31,10,0
+U01179,subvencionada,Bilbao,50,Otro,tablet,intermedio,privado,en vivo,71.3,4,11,1,38.6,21,0
+U01180,universitaria,Madrid,47,F,móvil,avanzado,privado,híbrido,96.9,6,49,0,45.96,10,0
+U01181,subvencionada,Sevilla,40,F,móvil,avanzado,empresa,en vivo,76.0,3,43,0,1.73,3,0
+U01182,universitaria,Barcelona,30,Otro,escritorio,básico,gratuito,asincrónico,61.7,5,35,4,7.82,25,0
+U01183,corporativa,Zaragoza,49,F,móvil,básico,privado,híbrido,49.4,2,70,4,10.24,24,0
+U01184,universitaria,Valencia,53,Otro,tablet,avanzado,empresa,en vivo,82.9,4,5,0,0.39,29,0
+U01185,corporativa,Madrid,25,M,tablet,básico,privado,híbrido,82.1,0,6,1,15.04,1,0
+U01186,corporativa,Zaragoza,54,M,escritorio,avanzado,subvencionado,en vivo,57.3,3,72,0,29.35,28,0
+U01187,subvencionada,Madrid,35,Otro,tablet,básico,privado,híbrido,22.8,3,65,4,38.76,4,0
+U01188,subvencionada,Valencia,19,M,tablet,avanzado,gratuito,asincrónico,97.7,2,6,1,21.69,19,0
+U01189,corporativa,Madrid,34,F,tablet,intermedio,subvencionado,asincrónico,18.1,1,60,1,19.21,18,0
+U01190,subvencionada,Bilbao,23,Otro,escritorio,básico,privado,asincrónico,90.0,5,90,3,10.6,25,0
+U01191,corporativa,Sevilla,26,Otro,escritorio,intermedio,empresa,en vivo,69.9,5,89,2,16.27,13,0
+U01192,corporativa,Zaragoza,23,M,escritorio,básico,privado,híbrido,62.0,4,15,1,68.26,14,0
+U01193,subvencionada,Sevilla,49,F,tablet,avanzado,empresa,híbrido,35.5,5,84,0,2.18,13,0
+U01194,corporativa,Sevilla,46,F,tablet,avanzado,subvencionado,asincrónico,65.0,1,94,0,9.43,16,0
+U01195,subvencionada,Valencia,24,M,móvil,básico,gratuito,en vivo,67.2,2,34,4,17.75,9,0
+U01196,corporativa,Valencia,48,M,tablet,avanzado,gratuito,híbrido,64.5,6,29,0,0.68,5,0
+U01197,subvencionada,Madrid,28,M,tablet,avanzado,gratuito,en vivo,67.4,3,96,0,90.2,9,0
+U01198,corporativa,Valencia,23,Otro,escritorio,intermedio,privado,híbrido,63.2,0,33,4,35.06,2,0
+U01199,subvencionada,Madrid,48,Otro,tablet,intermedio,privado,en vivo,100.0,3,38,2,17.39,23,0
+U01200,universitaria,Sevilla,44,F,escritorio,básico,gratuito,asincrónico,29.4,1,88,2,147.57,4,0
+U01201,corporativa,Zaragoza,33,F,móvil,avanzado,subvencionado,híbrido,74.2,0,35,4,75.76,16,0
+U01202,subvencionada,Sevilla,59,F,escritorio,intermedio,empresa,en vivo,74.7,4,89,0,13.77,8,0
+U01203,universitaria,Valencia,32,Otro,escritorio,básico,subvencionado,híbrido,8.3,3,34,4,18.23,3,0
+U01204,corporativa,Sevilla,53,M,móvil,intermedio,privado,híbrido,89.6,3,68,1,41.88,16,0
+U01205,corporativa,Madrid,28,Otro,tablet,intermedio,privado,en vivo,35.1,5,49,1,37.9,16,0
+U01206,corporativa,Bilbao,25,Otro,tablet,avanzado,privado,híbrido,62.4,3,72,4,38.39,7,0
+U01207,corporativa,Madrid,51,F,tablet,intermedio,empresa,en vivo,100.0,3,74,1,82.3,12,0
+U01208,corporativa,Barcelona,32,F,escritorio,intermedio,gratuito,asincrónico,47.1,1,74,3,11.33,11,0
+U01209,subvencionada,Bilbao,41,M,tablet,intermedio,empresa,en vivo,53.8,2,28,3,15.39,19,0
+U01210,subvencionada,Sevilla,49,F,tablet,intermedio,privado,asincrónico,41.6,3,78,1,16.41,20,0
+U01211,corporativa,Bilbao,24,F,tablet,intermedio,empresa,asincrónico,60.4,1,65,4,10.28,7,0
+U01212,universitaria,Valencia,44,M,escritorio,avanzado,subvencionado,asincrónico,53.9,5,77,1,65.01,28,0
+U01213,corporativa,Barcelona,19,M,móvil,intermedio,gratuito,híbrido,71.9,3,88,2,10.44,7,0
+U01214,subvencionada,Barcelona,20,Otro,escritorio,básico,gratuito,en vivo,83.6,5,69,3,41.77,4,0
+U01215,subvencionada,Valencia,55,F,escritorio,intermedio,gratuito,asincrónico,50.5,1,57,2,29.96,7,0
+U01216,corporativa,Valencia,44,F,móvil,básico,empresa,en vivo,78.0,0,65,1,35.48,10,0
+U01217,corporativa,Zaragoza,22,M,móvil,avanzado,gratuito,híbrido,68.8,1,88,3,15.93,5,0
+U01218,universitaria,Barcelona,46,F,móvil,avanzado,privado,híbrido,33.4,3,85,4,3.4,8,0
+U01219,subvencionada,Bilbao,27,F,tablet,básico,empresa,asincrónico,29.6,7,21,4,1.14,4,0
+U01220,corporativa,Sevilla,42,Otro,móvil,intermedio,subvencionado,híbrido,30.9,2,45,3,5.14,27,0
+U01221,subvencionada,Zaragoza,24,F,tablet,básico,empresa,asincrónico,64.6,1,95,1,7.33,24,0
+U01222,universitaria,Madrid,48,F,escritorio,básico,empresa,en vivo,40.7,4,10,0,12.45,5,0
+U01223,subvencionada,Bilbao,44,F,tablet,avanzado,privado,asincrónico,45.9,2,81,0,7.49,20,0
+U01224,corporativa,Barcelona,42,F,tablet,básico,subvencionado,en vivo,86.3,2,15,4,16.07,16,0
+U01225,corporativa,Valencia,22,F,tablet,avanzado,empresa,asincrónico,53.1,2,56,2,25.77,10,0
+U01226,universitaria,Barcelona,37,Otro,tablet,avanzado,empresa,en vivo,68.1,2,67,4,4.49,6,0
+U01227,universitaria,Sevilla,47,M,escritorio,intermedio,privado,asincrónico,53.8,6,26,2,40.45,15,0
+U01228,subvencionada,Zaragoza,42,F,móvil,básico,gratuito,en vivo,54.4,3,56,3,48.1,15,0
+U01229,universitaria,Bilbao,50,Otro,escritorio,intermedio,privado,asincrónico,42.9,5,16,1,11.36,11,0
+U01230,subvencionada,Zaragoza,41,M,tablet,avanzado,privado,híbrido,68.9,6,66,2,2.78,24,0
+U01231,subvencionada,Sevilla,43,Otro,escritorio,intermedio,privado,en vivo,44.7,2,41,0,55.55,10,0
+U01232,subvencionada,Valencia,31,F,móvil,avanzado,gratuito,en vivo,100.0,4,30,0,4.25,18,0
+U01233,universitaria,Madrid,55,Otro,escritorio,avanzado,subvencionado,híbrido,61.0,0,71,2,34.01,16,0
+U01234,subvencionada,Barcelona,53,F,tablet,básico,privado,en vivo,39.7,4,5,4,43.75,22,0
+U01235,subvencionada,Valencia,47,Otro,tablet,básico,privado,en vivo,48.4,4,42,0,23.49,18,0
+U01236,subvencionada,Valencia,22,M,móvil,básico,empresa,híbrido,30.9,3,63,2,2.66,7,0
+U01237,universitaria,Sevilla,50,M,tablet,avanzado,subvencionado,asincrónico,49.9,3,55,2,3.34,1,0
+U01238,subvencionada,Zaragoza,58,F,escritorio,básico,privado,híbrido,65.2,4,72,0,22.92,13,0
+U01239,universitaria,Zaragoza,40,Otro,tablet,avanzado,subvencionado,asincrónico,38.2,3,42,4,24.39,1,0
+U01240,subvencionada,Madrid,20,M,tablet,intermedio,gratuito,híbrido,75.2,3,17,0,28.36,4,0
+U01241,subvencionada,Zaragoza,55,M,móvil,básico,gratuito,en vivo,44.7,2,86,3,19.85,27,0
+U01242,universitaria,Madrid,27,F,tablet,intermedio,gratuito,híbrido,34.0,3,30,3,63.73,1,0
+U01243,universitaria,Sevilla,25,M,escritorio,intermedio,empresa,asincrónico,30.5,3,22,0,92.65,10,0
+U01244,subvencionada,Valencia,58,Otro,escritorio,avanzado,gratuito,en vivo,78.9,8,10,4,13.98,12,0
+U01245,universitaria,Zaragoza,20,Otro,escritorio,avanzado,empresa,híbrido,93.0,2,16,3,46.91,10,0
+U01246,corporativa,Bilbao,22,M,móvil,avanzado,gratuito,asincrónico,74.3,1,46,2,3.68,19,0
+U01247,subvencionada,Madrid,28,Otro,móvil,básico,empresa,híbrido,20.0,1,82,2,13.79,20,0
+U01248,corporativa,Zaragoza,31,M,móvil,avanzado,empresa,asincrónico,36.2,2,34,3,21.48,5,0
+U01249,subvencionada,Zaragoza,33,Otro,escritorio,avanzado,gratuito,asincrónico,35.2,2,13,2,54.0,28,0
+U01250,universitaria,Zaragoza,33,M,escritorio,intermedio,empresa,asincrónico,53.9,3,21,0,35.18,5,0
+U01251,corporativa,Valencia,43,Otro,tablet,intermedio,empresa,en vivo,58.8,3,94,2,10.99,2,0
+U01252,subvencionada,Sevilla,29,M,móvil,avanzado,gratuito,asincrónico,74.7,6,82,0,48.3,11,0
+U01253,corporativa,Valencia,25,F,móvil,intermedio,privado,híbrido,28.0,5,77,3,66.12,13,0
+U01254,universitaria,Madrid,54,M,tablet,intermedio,privado,híbrido,83.4,2,61,2,0.3,2,0
+U01255,subvencionada,Barcelona,42,F,tablet,básico,privado,híbrido,82.9,1,13,0,16.04,19,0
+U01256,universitaria,Madrid,38,F,tablet,básico,privado,híbrido,42.3,1,89,3,26.01,11,0
+U01257,subvencionada,Madrid,26,F,tablet,avanzado,subvencionado,híbrido,79.0,5,25,1,30.51,27,0
+U01258,subvencionada,Sevilla,40,Otro,móvil,avanzado,privado,en vivo,57.3,3,44,3,43.21,16,0
+U01259,corporativa,Madrid,41,F,tablet,avanzado,privado,asincrónico,66.8,7,65,2,1.85,24,0
+U01260,corporativa,Valencia,31,M,escritorio,básico,gratuito,híbrido,85.0,4,60,1,51.05,26,0
+U01261,universitaria,Bilbao,34,M,tablet,avanzado,privado,híbrido,62.9,6,95,4,23.21,2,0
+U01262,corporativa,Bilbao,24,Otro,escritorio,avanzado,subvencionado,asincrónico,3.8,5,91,3,10.37,2,0
+U01263,corporativa,Sevilla,36,F,móvil,básico,gratuito,híbrido,18.6,3,75,3,2.85,7,0
+U01264,corporativa,Barcelona,49,M,tablet,avanzado,subvencionado,en vivo,67.8,4,84,4,11.61,8,0
+U01265,corporativa,Valencia,43,Otro,escritorio,avanzado,privado,híbrido,77.8,2,87,4,15.84,18,0
+U01266,subvencionada,Barcelona,35,F,tablet,avanzado,gratuito,asincrónico,93.3,8,41,1,0.61,7,0
+U01267,corporativa,Zaragoza,51,F,móvil,básico,empresa,híbrido,54.6,3,50,4,15.54,6,0
+U01268,corporativa,Barcelona,53,M,tablet,básico,privado,en vivo,46.1,4,43,3,15.05,3,0
+U01269,corporativa,Madrid,55,M,móvil,intermedio,privado,en vivo,69.7,3,81,2,49.73,22,0
+U01270,corporativa,Barcelona,37,Otro,móvil,intermedio,empresa,en vivo,48.3,1,92,4,65.32,10,0
+U01271,universitaria,Zaragoza,44,M,escritorio,intermedio,privado,asincrónico,12.1,4,48,1,41.14,7,0
+U01272,corporativa,Bilbao,24,M,escritorio,básico,subvencionado,híbrido,100.0,2,44,2,48.01,6,0
+U01273,subvencionada,Valencia,52,F,tablet,básico,subvencionado,en vivo,49.4,2,25,1,45.26,3,0
+U01274,corporativa,Sevilla,57,F,tablet,avanzado,gratuito,asincrónico,91.3,4,65,2,7.18,28,0
+U01275,subvencionada,Valencia,29,F,escritorio,básico,subvencionado,en vivo,49.1,5,47,3,18.23,25,0
+U01276,universitaria,Madrid,49,F,tablet,básico,empresa,en vivo,58.2,4,49,1,3.53,9,0
+U01277,universitaria,Bilbao,49,M,escritorio,básico,privado,asincrónico,25.9,0,37,0,4.57,27,0
+U01278,corporativa,Zaragoza,44,F,escritorio,intermedio,privado,híbrido,47.2,0,7,3,6.37,15,0
+U01279,subvencionada,Bilbao,52,Otro,escritorio,básico,subvencionado,híbrido,46.2,4,81,0,48.22,23,0
+U01280,subvencionada,Valencia,55,F,escritorio,avanzado,empresa,en vivo,72.6,4,21,3,69.68,8,0
+U01281,corporativa,Sevilla,34,Otro,móvil,intermedio,gratuito,híbrido,65.6,6,40,0,31.38,8,0
+U01282,corporativa,Zaragoza,59,F,tablet,intermedio,gratuito,en vivo,78.8,1,68,4,23.62,29,0
+U01283,corporativa,Madrid,43,F,móvil,avanzado,empresa,asincrónico,63.8,0,7,3,7.86,28,0
+U01284,corporativa,Barcelona,43,Otro,móvil,intermedio,empresa,asincrónico,39.5,4,86,1,0.73,8,0
+U01285,subvencionada,Bilbao,46,Otro,móvil,intermedio,subvencionado,híbrido,47.2,4,60,1,36.59,12,0
+U01286,subvencionada,Zaragoza,46,M,escritorio,avanzado,gratuito,asincrónico,63.3,4,88,0,37.77,7,0
+U01287,subvencionada,Madrid,50,M,escritorio,avanzado,subvencionado,asincrónico,17.1,3,54,4,7.71,16,0
+U01288,corporativa,Madrid,28,F,móvil,avanzado,subvencionado,en vivo,97.8,2,90,1,4.94,25,0
+U01289,corporativa,Madrid,43,Otro,móvil,avanzado,gratuito,híbrido,51.9,1,36,0,7.18,25,0
+U01290,universitaria,Sevilla,43,M,escritorio,avanzado,privado,asincrónico,56.1,4,73,1,19.18,6,0
+U01291,universitaria,Sevilla,46,Otro,tablet,básico,subvencionado,híbrido,61.3,4,19,3,26.69,23,0
+U01292,universitaria,Valencia,38,M,móvil,avanzado,privado,asincrónico,0.0,2,19,1,41.74,10,0
+U01293,subvencionada,Sevilla,46,F,móvil,intermedio,subvencionado,asincrónico,67.9,2,42,1,17.92,18,0
+U01294,subvencionada,Barcelona,19,F,tablet,avanzado,gratuito,en vivo,65.1,3,28,2,25.42,23,0
+U01295,subvencionada,Barcelona,52,Otro,tablet,básico,privado,asincrónico,36.1,1,21,0,60.56,8,0
+U01296,corporativa,Bilbao,49,M,tablet,avanzado,subvencionado,en vivo,29.3,4,85,0,13.93,22,0
+U01297,subvencionada,Barcelona,41,M,tablet,intermedio,empresa,híbrido,74.4,1,72,3,40.94,12,0
+U01298,universitaria,Madrid,59,F,escritorio,intermedio,gratuito,asincrónico,92.3,3,46,3,65.84,17,0
+U01299,corporativa,Zaragoza,37,F,móvil,intermedio,privado,asincrónico,27.4,3,37,1,32.81,29,0
+U01300,universitaria,Zaragoza,20,F,escritorio,avanzado,gratuito,en vivo,83.1,5,78,0,14.69,20,0
+U01301,universitaria,Bilbao,18,F,escritorio,avanzado,gratuito,híbrido,23.9,4,43,4,22.05,17,0
+U01302,corporativa,Zaragoza,43,Otro,escritorio,básico,empresa,asincrónico,53.7,3,29,0,23.36,29,0
+U01303,subvencionada,Valencia,18,F,escritorio,intermedio,subvencionado,asincrónico,39.0,2,54,0,39.35,7,0
+U01304,subvencionada,Sevilla,41,Otro,móvil,avanzado,empresa,en vivo,72.6,5,74,3,35.04,10,0
+U01305,universitaria,Barcelona,37,M,móvil,básico,empresa,asincrónico,54.5,2,83,4,32.21,28,0
+U01306,universitaria,Bilbao,58,M,tablet,básico,gratuito,híbrido,54.8,2,38,1,49.92,13,0
+U01307,universitaria,Bilbao,53,F,móvil,intermedio,subvencionado,híbrido,76.2,4,58,2,48.59,28,0
+U01308,universitaria,Madrid,20,M,móvil,intermedio,gratuito,híbrido,63.0,5,32,3,29.94,27,0
+U01309,corporativa,Zaragoza,32,F,móvil,intermedio,privado,híbrido,86.3,4,97,1,4.63,17,0
+U01310,universitaria,Bilbao,20,Otro,tablet,avanzado,privado,en vivo,42.3,2,46,4,9.38,13,0
+U01311,subvencionada,Barcelona,26,Otro,móvil,básico,subvencionado,en vivo,58.4,3,80,1,37.25,20,0
+U01312,corporativa,Zaragoza,56,F,móvil,avanzado,gratuito,híbrido,52.4,5,67,2,25.29,7,0
+U01313,universitaria,Madrid,40,M,móvil,intermedio,subvencionado,en vivo,4.1,3,17,2,2.83,25,0
+U01314,corporativa,Bilbao,21,Otro,móvil,avanzado,privado,en vivo,85.3,3,91,1,22.69,22,0
+U01315,universitaria,Bilbao,47,F,escritorio,intermedio,privado,en vivo,62.3,1,61,0,106.19,22,0
+U01316,corporativa,Barcelona,30,F,móvil,intermedio,empresa,híbrido,40.8,2,88,3,13.05,17,0
+U01317,subvencionada,Valencia,26,Otro,móvil,avanzado,privado,asincrónico,88.5,2,12,1,27.3,15,0
+U01318,corporativa,Madrid,34,M,escritorio,básico,empresa,asincrónico,33.0,5,62,4,28.02,24,0
+U01319,universitaria,Valencia,37,Otro,escritorio,básico,subvencionado,híbrido,33.9,2,35,3,14.92,1,0
+U01320,corporativa,Barcelona,48,Otro,escritorio,avanzado,gratuito,asincrónico,52.0,1,81,2,19.31,11,0
+U01321,universitaria,Madrid,29,F,escritorio,intermedio,gratuito,híbrido,33.5,4,23,3,32.04,9,0
+U01322,subvencionada,Madrid,22,Otro,móvil,avanzado,subvencionado,híbrido,14.7,1,49,4,0.1,28,0
+U01323,subvencionada,Valencia,59,Otro,móvil,básico,empresa,híbrido,48.7,4,43,0,13.4,14,0
+U01324,subvencionada,Sevilla,20,Otro,móvil,avanzado,privado,en vivo,9.6,4,12,1,18.71,11,0
+U01325,universitaria,Barcelona,20,F,tablet,avanzado,gratuito,asincrónico,60.1,3,79,2,9.88,11,0
+U01326,corporativa,Sevilla,35,Otro,escritorio,intermedio,subvencionado,asincrónico,52.6,1,63,1,44.85,14,0
+U01327,corporativa,Barcelona,55,Otro,móvil,básico,gratuito,híbrido,100.0,4,82,0,23.97,23,0
+U01328,universitaria,Valencia,31,Otro,tablet,intermedio,gratuito,híbrido,77.8,2,57,2,11.03,24,0
+U01329,universitaria,Zaragoza,31,M,tablet,avanzado,privado,en vivo,0.0,4,8,4,1.36,1,0
+U01330,universitaria,Barcelona,46,F,escritorio,intermedio,privado,asincrónico,45.9,2,95,0,36.41,2,0
+U01331,corporativa,Madrid,33,F,móvil,intermedio,empresa,en vivo,100.0,2,11,0,10.92,2,0
+U01332,universitaria,Madrid,56,Otro,tablet,básico,subvencionado,híbrido,95.2,6,45,4,31.24,20,0
+U01333,corporativa,Barcelona,45,F,móvil,intermedio,empresa,asincrónico,55.0,4,41,3,72.7,5,0
+U01334,universitaria,Valencia,29,M,tablet,básico,gratuito,en vivo,39.4,4,91,3,30.45,20,0
+U01335,corporativa,Sevilla,21,Otro,escritorio,avanzado,privado,en vivo,100.0,2,7,2,2.26,17,0
+U01336,corporativa,Zaragoza,44,M,escritorio,básico,empresa,en vivo,38.3,4,6,1,2.16,10,0
+U01337,corporativa,Bilbao,57,Otro,móvil,básico,gratuito,en vivo,100.0,4,97,1,3.89,8,0
+U01338,corporativa,Valencia,54,F,escritorio,intermedio,subvencionado,en vivo,12.0,5,99,2,104.13,7,0
+U01339,universitaria,Madrid,39,F,escritorio,avanzado,subvencionado,híbrido,38.9,1,10,2,52.91,21,0
+U01340,subvencionada,Barcelona,32,M,móvil,básico,gratuito,híbrido,45.3,2,81,4,8.23,14,0
+U01341,universitaria,Sevilla,57,M,móvil,intermedio,privado,en vivo,64.3,5,6,0,13.6,22,0
+U01342,universitaria,Bilbao,55,M,móvil,avanzado,privado,en vivo,68.7,0,99,1,1.32,22,0
+U01343,universitaria,Sevilla,24,F,móvil,intermedio,subvencionado,asincrónico,100.0,1,52,1,7.07,17,0
+U01344,universitaria,Zaragoza,50,M,escritorio,avanzado,gratuito,asincrónico,87.2,4,82,1,3.6,4,0
+U01345,universitaria,Sevilla,20,M,tablet,intermedio,privado,híbrido,0.8,2,88,0,33.14,15,0
+U01346,universitaria,Barcelona,20,F,móvil,avanzado,empresa,en vivo,32.8,5,91,0,25.72,18,0
+U01347,universitaria,Zaragoza,54,Otro,móvil,avanzado,privado,híbrido,38.9,3,15,1,2.75,26,0
+U01348,subvencionada,Madrid,18,M,tablet,básico,gratuito,asincrónico,72.7,3,60,2,11.54,27,0
+U01349,corporativa,Sevilla,48,Otro,tablet,básico,empresa,en vivo,100.0,1,26,1,3.47,29,0
+U01350,universitaria,Barcelona,21,Otro,escritorio,intermedio,subvencionado,asincrónico,55.4,5,44,1,13.88,8,0
+U01351,subvencionada,Sevilla,43,M,tablet,básico,subvencionado,híbrido,47.8,4,5,2,17.66,25,0
+U01352,universitaria,Madrid,34,M,escritorio,básico,privado,híbrido,87.2,0,29,1,41.15,19,0
+U01353,subvencionada,Valencia,58,M,escritorio,intermedio,empresa,en vivo,84.5,5,25,3,80.25,2,0
+U01354,subvencionada,Valencia,44,M,escritorio,intermedio,gratuito,híbrido,30.8,4,99,4,13.08,1,0
+U01355,corporativa,Sevilla,42,M,tablet,avanzado,empresa,híbrido,74.3,5,36,0,24.17,6,0
+U01356,universitaria,Barcelona,39,M,escritorio,avanzado,empresa,en vivo,56.4,6,15,2,0.04,24,0
+U01357,universitaria,Barcelona,48,M,móvil,avanzado,privado,asincrónico,57.2,2,91,0,4.47,18,0
+U01358,subvencionada,Barcelona,52,F,móvil,básico,privado,en vivo,46.6,2,88,2,16.21,9,0
+U01359,corporativa,Madrid,41,F,tablet,avanzado,privado,asincrónico,56.3,2,98,2,105.87,24,0
+U01360,subvencionada,Barcelona,20,Otro,tablet,avanzado,empresa,en vivo,47.7,3,5,2,64.34,8,0
+U01361,corporativa,Valencia,24,M,escritorio,básico,subvencionado,híbrido,19.8,1,78,0,23.32,12,0
+U01362,subvencionada,Barcelona,41,Otro,móvil,avanzado,privado,híbrido,77.5,6,64,0,1.42,3,0
+U01363,corporativa,Zaragoza,53,F,móvil,intermedio,gratuito,asincrónico,38.5,2,53,0,15.64,26,0
+U01364,universitaria,Bilbao,20,F,escritorio,intermedio,subvencionado,asincrónico,48.1,2,63,2,55.2,6,0
+U01365,universitaria,Zaragoza,59,F,móvil,básico,subvencionado,asincrónico,76.0,2,20,0,44.89,16,0
+U01366,subvencionada,Zaragoza,25,F,tablet,avanzado,subvencionado,asincrónico,44.6,5,88,2,62.84,27,0
+U01367,universitaria,Sevilla,47,Otro,escritorio,avanzado,empresa,en vivo,54.2,4,68,3,22.19,8,0
+U01368,corporativa,Sevilla,57,Otro,escritorio,avanzado,privado,asincrónico,100.0,3,20,4,14.74,5,0
+U01369,universitaria,Madrid,21,M,tablet,avanzado,empresa,asincrónico,95.8,2,70,3,38.59,22,0
+U01370,corporativa,Barcelona,51,F,móvil,básico,gratuito,en vivo,67.0,2,39,4,15.49,7,0
+U01371,subvencionada,Sevilla,54,F,móvil,básico,subvencionado,híbrido,88.9,4,71,4,12.45,6,0
+U01372,corporativa,Valencia,19,F,escritorio,avanzado,privado,en vivo,49.7,0,85,0,5.12,8,0
+U01373,corporativa,Barcelona,21,F,tablet,intermedio,gratuito,híbrido,15.7,1,88,1,6.64,25,0
+U01374,corporativa,Bilbao,56,Otro,móvil,básico,empresa,híbrido,53.9,5,40,1,0.93,1,0
+U01375,universitaria,Valencia,34,F,escritorio,intermedio,subvencionado,híbrido,48.1,2,98,1,25.03,4,0
+U01376,subvencionada,Zaragoza,40,M,escritorio,básico,gratuito,en vivo,38.9,3,20,0,3.82,11,0
+U01377,universitaria,Valencia,30,M,móvil,avanzado,empresa,híbrido,72.2,3,35,2,26.15,16,0
+U01378,corporativa,Bilbao,21,M,escritorio,básico,subvencionado,en vivo,70.6,2,33,0,44.4,1,0
+U01379,universitaria,Barcelona,26,M,escritorio,básico,subvencionado,en vivo,44.9,1,26,3,6.54,16,0
+U01380,corporativa,Bilbao,56,Otro,tablet,intermedio,privado,en vivo,67.9,3,95,1,7.62,23,0
+U01381,subvencionada,Valencia,32,F,tablet,avanzado,gratuito,asincrónico,81.9,4,54,4,22.93,29,0
+U01382,corporativa,Barcelona,51,M,tablet,intermedio,privado,en vivo,99.4,2,15,3,36.77,7,0
+U01383,corporativa,Barcelona,42,M,tablet,avanzado,empresa,híbrido,18.9,1,7,3,40.65,20,0
+U01384,universitaria,Valencia,48,F,escritorio,intermedio,subvencionado,en vivo,55.7,2,85,2,47.9,5,0
+U01385,universitaria,Bilbao,54,M,tablet,avanzado,empresa,asincrónico,14.8,2,80,1,31.82,16,0
+U01386,universitaria,Bilbao,38,M,móvil,básico,subvencionado,en vivo,85.7,4,80,3,16.1,17,0
+U01387,universitaria,Madrid,27,Otro,móvil,básico,privado,híbrido,51.7,2,81,0,6.4,13,0
+U01388,subvencionada,Barcelona,38,F,escritorio,básico,privado,en vivo,67.7,0,52,1,8.23,29,0
+U01389,corporativa,Zaragoza,29,F,tablet,intermedio,privado,asincrónico,53.2,5,20,2,70.5,11,0
+U01390,corporativa,Bilbao,21,M,móvil,avanzado,privado,en vivo,78.0,4,22,1,45.29,20,0
+U01391,corporativa,Bilbao,26,Otro,tablet,básico,gratuito,asincrónico,34.0,3,68,4,36.15,12,0
+U01392,universitaria,Sevilla,37,M,tablet,avanzado,gratuito,híbrido,53.3,3,72,3,54.87,16,0
+U01393,corporativa,Valencia,51,Otro,escritorio,avanzado,privado,en vivo,71.4,3,26,2,5.19,23,0
+U01394,universitaria,Bilbao,32,Otro,escritorio,avanzado,subvencionado,en vivo,100.0,2,57,2,10.71,23,0
+U01395,corporativa,Madrid,34,F,escritorio,básico,gratuito,en vivo,43.8,1,99,4,20.22,4,0
+U01396,corporativa,Zaragoza,46,M,móvil,intermedio,gratuito,asincrónico,56.9,4,47,2,24.81,13,0
+U01397,universitaria,Sevilla,32,Otro,móvil,básico,privado,híbrido,100.0,4,62,1,21.9,5,0
+U01398,corporativa,Sevilla,54,Otro,móvil,intermedio,gratuito,en vivo,89.0,4,92,1,15.28,3,0
+U01399,corporativa,Valencia,54,M,tablet,avanzado,subvencionado,asincrónico,79.2,4,70,3,48.28,20,0
+U01400,subvencionada,Sevilla,33,Otro,móvil,intermedio,subvencionado,asincrónico,100.0,2,60,1,38.55,15,0
+U01401,universitaria,Madrid,23,Otro,escritorio,intermedio,empresa,híbrido,70.5,7,12,2,5.41,7,0
+U01402,universitaria,Sevilla,30,F,tablet,intermedio,gratuito,híbrido,60.7,1,60,3,1.12,19,0
+U01403,corporativa,Bilbao,36,F,móvil,básico,privado,en vivo,48.9,4,74,2,6.06,11,0
+U01404,corporativa,Sevilla,42,F,escritorio,avanzado,gratuito,híbrido,88.1,3,42,0,1.12,19,0
+U01405,subvencionada,Madrid,45,M,tablet,avanzado,privado,híbrido,50.3,0,55,3,4.68,21,0
+U01406,subvencionada,Barcelona,26,Otro,móvil,intermedio,gratuito,híbrido,55.5,1,69,1,9.92,17,0
+U01407,universitaria,Madrid,25,F,escritorio,avanzado,gratuito,asincrónico,0.0,3,94,2,18.85,12,0
+U01408,subvencionada,Barcelona,35,Otro,móvil,intermedio,privado,asincrónico,35.6,3,72,0,17.05,21,0
+U01409,universitaria,Madrid,28,Otro,móvil,intermedio,empresa,asincrónico,75.3,2,91,3,23.02,12,0
+U01410,subvencionada,Barcelona,25,Otro,escritorio,intermedio,privado,asincrónico,35.5,2,46,2,7.33,15,0
+U01411,universitaria,Bilbao,18,F,tablet,intermedio,subvencionado,híbrido,57.0,3,98,3,26.03,22,0
+U01412,universitaria,Sevilla,20,F,móvil,intermedio,empresa,en vivo,47.2,4,34,1,8.04,13,0
+U01413,corporativa,Barcelona,19,M,tablet,intermedio,gratuito,en vivo,65.6,3,61,2,4.4,19,0
+U01414,corporativa,Valencia,54,M,escritorio,intermedio,subvencionado,en vivo,100.0,2,40,0,8.93,28,0
+U01415,universitaria,Madrid,56,Otro,móvil,básico,subvencionado,en vivo,55.4,4,35,0,0.74,22,0
+U01416,subvencionada,Barcelona,19,F,escritorio,avanzado,gratuito,asincrónico,78.2,1,7,1,28.46,24,0
+U01417,universitaria,Valencia,45,Otro,escritorio,intermedio,subvencionado,asincrónico,71.4,2,38,1,10.49,12,0
+U01418,subvencionada,Sevilla,18,F,tablet,intermedio,empresa,híbrido,86.1,0,24,1,65.42,22,0
+U01419,universitaria,Zaragoza,52,M,escritorio,intermedio,subvencionado,en vivo,85.9,2,10,2,57.59,2,0
+U01420,universitaria,Valencia,58,F,escritorio,avanzado,gratuito,en vivo,19.0,6,13,3,85.7,13,0
+U01421,corporativa,Barcelona,48,F,tablet,avanzado,subvencionado,híbrido,45.4,1,72,0,2.32,9,0
+U01422,subvencionada,Madrid,33,M,tablet,avanzado,gratuito,en vivo,59.6,7,38,1,14.98,25,0
+U01423,corporativa,Madrid,38,M,móvil,básico,privado,asincrónico,13.4,2,14,3,47.32,29,0
+U01424,subvencionada,Madrid,56,M,móvil,intermedio,gratuito,en vivo,42.9,5,18,0,10.33,4,0
+U01425,subvencionada,Madrid,35,F,escritorio,intermedio,empresa,híbrido,34.0,7,27,4,34.99,10,0
+U01426,subvencionada,Barcelona,39,F,escritorio,básico,subvencionado,híbrido,90.3,5,10,0,29.44,20,0
+U01427,subvencionada,Valencia,39,F,escritorio,avanzado,gratuito,en vivo,53.2,3,60,2,45.41,20,0
+U01428,subvencionada,Sevilla,43,M,escritorio,básico,empresa,híbrido,48.1,5,98,0,51.5,23,0
+U01429,subvencionada,Barcelona,43,M,móvil,básico,empresa,asincrónico,44.2,1,58,4,14.72,12,0
+U01430,subvencionada,Zaragoza,39,F,escritorio,básico,privado,asincrónico,40.7,3,30,4,25.76,28,0
+U01431,universitaria,Sevilla,29,Otro,móvil,avanzado,empresa,en vivo,47.4,5,86,2,8.38,18,0
+U01432,subvencionada,Bilbao,31,F,tablet,básico,gratuito,asincrónico,41.0,2,81,4,8.39,5,0
+U01433,subvencionada,Zaragoza,50,F,escritorio,avanzado,gratuito,asincrónico,65.0,3,96,3,21.26,23,0
+U01434,corporativa,Valencia,25,Otro,móvil,avanzado,privado,asincrónico,70.3,2,12,4,11.51,28,0
+U01435,universitaria,Madrid,19,M,móvil,intermedio,privado,en vivo,78.4,3,52,1,13.48,24,0
+U01436,corporativa,Sevilla,37,Otro,tablet,intermedio,empresa,asincrónico,61.5,2,24,0,5.91,5,0
+U01437,corporativa,Valencia,30,Otro,tablet,básico,gratuito,asincrónico,26.2,4,23,2,27.09,23,0
+U01438,subvencionada,Valencia,56,Otro,escritorio,intermedio,subvencionado,en vivo,56.0,4,7,4,22.21,11,0
+U01439,corporativa,Valencia,23,M,escritorio,intermedio,subvencionado,asincrónico,51.5,5,18,4,1.2,14,0
+U01440,subvencionada,Valencia,18,M,móvil,avanzado,gratuito,en vivo,55.2,5,37,3,25.42,18,0
+U01441,corporativa,Bilbao,27,Otro,escritorio,básico,gratuito,en vivo,52.2,5,19,4,7.65,29,0
+U01442,subvencionada,Barcelona,55,F,escritorio,básico,privado,híbrido,20.6,2,88,1,1.55,28,0
+U01443,corporativa,Madrid,42,F,tablet,avanzado,subvencionado,asincrónico,8.0,2,76,2,0.69,22,0
+U01444,universitaria,Madrid,38,Otro,escritorio,básico,privado,asincrónico,91.5,5,87,2,44.37,13,0
+U01445,corporativa,Madrid,35,Otro,tablet,básico,privado,híbrido,59.8,1,48,1,40.86,23,0
+U01446,corporativa,Sevilla,37,M,escritorio,intermedio,empresa,en vivo,36.6,3,34,1,22.58,11,0
+U01447,corporativa,Zaragoza,36,F,móvil,básico,gratuito,en vivo,61.3,1,12,1,48.38,7,0
+U01448,universitaria,Barcelona,23,Otro,móvil,intermedio,privado,asincrónico,47.4,2,62,3,51.57,24,0
+U01449,corporativa,Bilbao,20,F,móvil,avanzado,privado,híbrido,25.7,3,47,1,16.38,21,0
+U01450,universitaria,Valencia,51,F,escritorio,avanzado,subvencionado,asincrónico,36.1,3,5,4,4.99,24,0
+U01451,corporativa,Madrid,57,Otro,móvil,intermedio,gratuito,en vivo,95.4,3,9,4,43.82,13,0
+U01452,subvencionada,Barcelona,26,F,móvil,avanzado,privado,en vivo,82.9,3,29,2,7.29,19,0
+U01453,universitaria,Madrid,48,F,escritorio,básico,subvencionado,en vivo,54.4,4,96,1,15.19,25,0
+U01454,universitaria,Valencia,29,M,escritorio,avanzado,gratuito,híbrido,62.2,3,31,0,7.89,22,0
+U01455,universitaria,Bilbao,22,Otro,tablet,avanzado,privado,híbrido,69.5,5,91,3,24.71,1,0
+U01456,universitaria,Sevilla,20,F,escritorio,básico,gratuito,asincrónico,73.8,0,39,2,17.88,10,0
+U01457,corporativa,Barcelona,37,Otro,tablet,intermedio,empresa,híbrido,56.9,4,93,3,19.92,17,0
+U01458,subvencionada,Bilbao,40,M,escritorio,avanzado,subvencionado,asincrónico,55.0,2,56,0,2.66,14,0
+U01459,corporativa,Valencia,49,M,escritorio,intermedio,empresa,asincrónico,76.4,4,84,2,61.87,9,0
+U01460,subvencionada,Valencia,26,F,tablet,avanzado,empresa,en vivo,57.2,4,78,4,3.18,4,0
+U01461,universitaria,Zaragoza,58,M,escritorio,avanzado,empresa,híbrido,84.5,2,61,2,5.98,20,0
+U01462,subvencionada,Valencia,23,F,escritorio,avanzado,privado,híbrido,67.3,3,63,3,3.94,1,0
+U01463,universitaria,Madrid,40,Otro,móvil,avanzado,gratuito,asincrónico,93.6,2,87,0,13.31,5,0
+U01464,universitaria,Bilbao,39,M,móvil,intermedio,empresa,asincrónico,35.6,4,74,1,19.95,28,0
+U01465,corporativa,Valencia,42,M,móvil,intermedio,empresa,asincrónico,56.4,3,99,0,8.5,3,0
+U01466,subvencionada,Madrid,43,M,tablet,intermedio,subvencionado,en vivo,97.5,5,81,0,1.25,27,0
+U01467,subvencionada,Madrid,31,Otro,tablet,básico,subvencionado,híbrido,53.7,4,27,1,100.13,18,0
+U01468,universitaria,Bilbao,50,Otro,tablet,avanzado,privado,asincrónico,44.5,0,12,2,17.8,7,0
+U01469,corporativa,Bilbao,35,M,móvil,avanzado,subvencionado,híbrido,94.2,0,40,2,37.84,3,0
+U01470,subvencionada,Sevilla,54,M,tablet,básico,privado,asincrónico,46.3,1,77,1,11.84,3,0
+U01471,universitaria,Bilbao,35,Otro,tablet,intermedio,privado,asincrónico,23.5,3,90,3,13.34,6,0
+U01472,corporativa,Valencia,42,F,móvil,básico,privado,en vivo,58.0,1,32,3,28.98,29,0
+U01473,universitaria,Valencia,50,Otro,tablet,intermedio,empresa,asincrónico,43.0,3,70,1,5.84,5,0
+U01474,universitaria,Zaragoza,18,F,tablet,básico,gratuito,híbrido,75.7,5,74,1,36.84,15,0
+U01475,subvencionada,Valencia,41,Otro,móvil,avanzado,empresa,en vivo,43.5,2,14,4,10.64,3,0
+U01476,subvencionada,Valencia,43,F,móvil,intermedio,subvencionado,híbrido,49.3,4,43,3,24.93,12,0
+U01477,corporativa,Zaragoza,35,M,móvil,intermedio,subvencionado,en vivo,100.0,2,37,0,14.33,6,0
+U01478,corporativa,Bilbao,30,F,escritorio,básico,subvencionado,en vivo,97.4,4,5,2,47.99,27,0
+U01479,universitaria,Sevilla,26,F,escritorio,básico,privado,híbrido,27.1,4,20,3,19.15,16,0
+U01480,corporativa,Sevilla,31,F,escritorio,avanzado,subvencionado,híbrido,69.2,5,74,3,13.11,23,0
+U01481,universitaria,Sevilla,53,M,escritorio,básico,privado,asincrónico,94.3,1,69,1,27.0,22,0
+U01482,universitaria,Bilbao,58,M,escritorio,avanzado,gratuito,en vivo,70.1,7,23,4,10.99,25,0
+U01483,corporativa,Valencia,21,M,móvil,avanzado,privado,asincrónico,65.5,5,53,1,39.44,28,0
+U01484,universitaria,Valencia,23,M,móvil,avanzado,privado,asincrónico,25.3,3,95,3,33.81,13,0
+U01485,corporativa,Barcelona,58,M,escritorio,básico,gratuito,asincrónico,39.2,3,20,0,19.86,29,0
+U01486,subvencionada,Barcelona,33,F,tablet,avanzado,gratuito,en vivo,78.9,4,75,4,3.85,16,0
+U01487,universitaria,Sevilla,42,F,escritorio,intermedio,gratuito,asincrónico,36.5,3,8,0,5.05,17,0
+U01488,subvencionada,Bilbao,39,F,escritorio,avanzado,privado,asincrónico,89.7,4,29,4,48.63,12,0
+U01489,subvencionada,Valencia,48,F,móvil,avanzado,gratuito,en vivo,55.9,0,89,2,7.39,13,0
+U01490,corporativa,Valencia,23,Otro,tablet,básico,privado,en vivo,73.1,5,36,2,13.71,8,0
+U01491,corporativa,Barcelona,32,F,móvil,avanzado,subvencionado,híbrido,60.8,0,6,4,53.21,21,0
+U01492,universitaria,Bilbao,51,M,móvil,básico,privado,asincrónico,24.2,5,57,1,18.25,22,0
+U01493,subvencionada,Zaragoza,36,F,tablet,básico,empresa,en vivo,22.3,6,41,3,1.26,24,0
+U01494,universitaria,Barcelona,42,F,escritorio,intermedio,privado,híbrido,57.9,3,52,0,24.35,18,0
+U01495,subvencionada,Zaragoza,19,M,móvil,básico,gratuito,asincrónico,35.9,3,79,2,8.74,28,0
+U01496,subvencionada,Zaragoza,39,M,móvil,básico,privado,híbrido,54.3,4,46,1,31.3,20,0
+U01497,universitaria,Valencia,25,M,escritorio,intermedio,subvencionado,híbrido,94.9,4,14,4,6.57,27,0
+U01498,corporativa,Zaragoza,47,Otro,móvil,avanzado,empresa,asincrónico,55.3,0,74,1,104.5,19,0
+U01499,subvencionada,Madrid,37,M,tablet,intermedio,subvencionado,asincrónico,69.4,2,14,0,6.97,17,0
+U01500,corporativa,Zaragoza,22,F,tablet,básico,privado,híbrido,77.4,1,38,0,48.32,23,0
